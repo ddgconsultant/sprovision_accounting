@@ -1,0 +1,983 @@
+================================================================================
+Page 1
+================================================================================
+
+Rich
+October
+Date Company Pick-Up Drop-off Load # Amount Date Paid Notes
+10/1/2025 CarsArrive Owasso OKC 21154557 $205.00
+10/1/2025 CarsArrive Norman OKC 21150036 $115.00
+10/1/2025 Preowned OKC Sapulpa 666188 $250.00
+10/1/2025 Preowned OKC Sapulpa 666189 $253.00
+10/2/2025 Preowned OKC Sapulpa 666191 $250.00
+10/2/2025 Preowned OKC Sapulpa 666190 $250.00
+10/2/2025 Preowned OKC Sapulpa 666187 $250.00
+10/3/2025 KB Freight Brokers Tulsa Tulsa X834752 $115.00
+10/3/2025 KB Freight Brokers Tulsa Tulsa X834752 $115.00
+10/6/2025 RCG OKC Tulsa RP75395A $130.00
+10/6/2025 RCG OKC Tulsa RP75595A $130.00
+10/6/2025 RCG OKC Tulsa RP75391A $130.00
+10/7/2025 RCG OKC Tulsa RP75393A $130.00
+10/7/2025 RCG OKC Tulsa RP75394A $130.00
+10/7/2025 RCG OKC Tulsa RP75392A $130.00
+10/8/2025 Ready Claremore Sapulpa 10478782861 $120.00
+10/8/2025 Ready Claremore Sapulpa 10478781966 $120.00
+10/10/2025 Carvana Saplulpa OKC 144095 $500.00
+10/10/2025 Preowned Tulsa Saplulpa 668009 $106.00
+10/13/2025 RCG Tulsa Tulsa RP76140A $50.00
+10/13/2025 RCG Saplulpa Tulsa RP83230A $50.00
+10/13/2025 RCG Saplulpa Tulsa RP83231A $50.00
+10/13/2025 RCG Saplulpa Tulsa RP83232A $50.00
+10/13/2025 RCG OKC Tulsa RP82484A $130.00
+10/13/2025 RCG OKC Tulsa RP82478A $130.00
+
+================================================================================
+Page 2
+================================================================================
+
+Rich
+October
+Date Company Pick-Up Drop-off Load # Amount Date Paid Notes
+10/13/2025 RCG OKC Tulsa RP82487A $130.00
+10/13/2025 RCG OKC Tulsa RP82480A $130.00
+
+================================================================================
+Page 3
+================================================================================
+
+Rich
+September
+Date Company Pick-Up Drop-off Load # Amount Date Paid Notes
+9/2/2025 RCG Littleton Bennett RP50094A $75.00
+9/2/2025 RCG Littleton Bennett RP52889A $75.00
+9/2/2025 RCG Littleton Bennett RP52329A $75.00
+9/2/2025 RCG Littleton Bennett RP52330A $75.00
+9/2/2025 Ready Denver Aurora 10456533427 $134.37
+9/2/2025 Ready Denver Aurora 10456531166 $134.37
+9/3/2025 RCG Littleton Bennett RP52335A $75.00
+9/3/2025 RCG Littleton Bennett RP52332A $75.00
+9/3/2025 RCG Littleton Bennett RP52334A $75.00
+9/3/2025 RCG Littleton Bennett RP52331A $75.00
+9/3/2025 RCG Littleton Bennett RP53589A $75.00
+9/3/2025 RCG Littleton Bennett RP54699A $75.00
+9/3/2025 RCG Littleton Bennett RP54713A $75.00
+9/3/2025 RCG Littleton Bennett RP54701A $75.00
+9/4/2025 RCG Littleton Bennett RP54705A $75.00
+9/4/2025 RCG Littleton Bennett RP54698A $75.00
+9/4/2025 RCG Littleton Bennett RP54700A $75.00
+9/4/2025 RCG Littleton Bennett RP54703A $75.00
+9/4/2025 RCG Littleton Bennett RP54707A $75.00
+9/4/2025 RCG Littleton Bennett RP54697A $75.00
+9/4/2025 RCG Littleton Bennett RP54702A $75.00
+9/4/2025 RCG Littleton Bennett RP54706A $75.00
+9/4/2025 Acertus Denver Denver 14519841 $185.00
+9/4/2025 Acertus Denver Denver 14519835 $185.00
+9/5/2025 RCG Littleton Bennett RP54704A $75.00
+
+================================================================================
+Page 4
+================================================================================
+
+Rich
+September
+Date Company Pick-Up Drop-off Load # Amount Date Paid Notes
+9/5/2025 RCG Littleton Bennett RP54708A $75.00
+9/5/2025 RCG Littleton Bennett RP55517A $75.00
+9/5/2025 RCG Littleton Bennett RP54709A $75.00
+9/5/2025 RCG Littleton Bennett RP54712A $75.00
+9/5/2025 RCG Littleton Bennett RP54710A $75.00
+9/5/2025 RCG Littleton Bennett RP54711A $75.00
+9/8/2025 RCG Littleton Bennett RP54714A $75.00
+9/8/2025 RCG Littleton Bennett RP57281A $75.00
+9/8/2025 RCG Littleton Bennett RP57279A $75.00
+9/8/2025 RCG Littleton Bennett RP57280A $75.00
+9/10/2025 Expedited Denver Lakewood EF-73423 $320.00
+9/10/2025 Expedited Lakewood Aurora EF-73445 $80.00
+9/11/2025 RCG Littleton Bennett RP57282A $75.00
+9/11/2025 RCG Littleton Bennett RP59731A $75.00
+9/11/2025 RCG Littleton Bennett RP59733A $75.00
+9/19/2025 RCG Littleton Bennett RP64201A $75.00
+9/19/2025 RCG Littleton Bennett RP64199A $75.00
+9/19/2025 RCG Littleton Bennett RP64198A $75.00
+9/19/2025 RCG Littleton Bennett RP66252A $75.00
+9/22/2025 RCG Littleton Bennett RP66756A $75.00
+9/22/2025 RCG Littleton Bennett RP66254A $75.00
+9/22/2025 RCG Littleton Bennett RP66255A $75.00
+9/22/2025 RCG Littleton Bennett RP66253A $75.00
+9/25/2025 RCG Denver Bennett RP69777A $75.00
+9/25/2025 RCG Denver Bennett RP69772A $75.00
+
+================================================================================
+Page 5
+================================================================================
+
+Rich
+September
+Date Company Pick-Up Drop-off Load # Amount Date Paid Notes
+9/25/2025 RCG Denver Bennett RP69775A $75.00
+9/25/2025 RCG Denver Bennett RP69780A $75.00
+9/25/2025 RCG Denver Bennett RP69781A $75.00
+9/25/2025 RCG Denver Bennett RP69774A $75.00
+9/25/2025 RCG Denver Bennett RP69773A $75.00
+9/25/2025 RCG Denver Bennett RP69776A $75.00
+9/26/2025 RCG Denver Bennett RP69778A $75.00
+9/26/2025 RCG Denver Bennett RP69784A $75.00
+9/26/2025 RCG Denver Bennett RP69779A $75.00
+9/26/2025 RCG Denver Bennett RP69783A $75.00
+9/26/2025 RCG Littleton Bennett RP71252A $75.00
+9/26/2025 RCG Littleton Bennett RP71246A $75.00
+9/26/2025 RCG Littleton Bennett RP71250A $75.00
+9/26/2025 RCG Littleton Bennett RP71245A $75.00
+9/28/2025 Leila Auto Aurora Stillwater 8190604 $300.00
+9/29/2025 RCG Tulsa Tulsa RP71546A $50.00
+9/29/2025 RCG Tulsa Tulsa RP71542A $50.00
+9/29/2025 RCG Tulsa Tulsa RP71549A $50.00
+9/29/2025 RCG Tulsa Tulsa RP71543A $50.00
+9/29/2025 RCG Tulsa Tulsa RP71545A $50.00
+9/29/2025 RCG Tulsa Tulsa RP71544A $50.00
+9/29/2025 RCG Tulsa Tulsa RP71547A $50.00
+9/29/2025 RCG Tulsa Tulsa RP71548A $50.00
+9/29/2025 RCG Tulsa Tulsa RP70998A $50.00
+9/29/2025 RCG Tulsa Tulsa RP70994A $50.00
+
+================================================================================
+Page 6
+================================================================================
+
+Rich
+September
+Date Company Pick-Up Drop-off Load # Amount Date Paid Notes
+9/29/2025 RCG Tulsa Tulsa RP70996A $50.00
+9/29/2025 RCG Tulsa Tulsa RP70993A $50.00
+9/29/2025 RCG Tulsa Tulsa RP70999A $50.00
+9/29/2025 RCG Tulsa Tulsa RP70995A $50.00
+9/29/2025 RCG Tulsa Tulsa RP70997A $50.00
+9/30/2025 RPM OKC Tulsa 31544-10482 $390.00
+
+================================================================================
+Page 7
+================================================================================
+
+August
+Date Company Pick-Up Drop-off Load # Amount Date Paid Notes
+8/1/2025 RCG Littleton Bennett RP31518A $75.00
+8/1/2025 RCG Littleton Bennett RP32206A $75.00
+8/1/2025 RCG Littleton Bennett RP32207A $75.00
+8/1/2025 RCG Littleton Bennett RP31513A $75.00
+8/1/2025 RCG Littleton Bennett RP33547A $75.00
+8/1/2025 RCG Littleton Bennett RP33548A $75.00
+8/1/2025 RCG Littleton Bennett RP33545A $75.00
+8/1/2025 RCG Littleton Bennett RP33544A $75.00
+8/4/2025 RCG Denver Bennett RP32290A $72.00
+8/4/2025 RCG Denver Bennett RP34720A $72.00
+8/4/2025 RCG Denver Bennett RP32288A $72.00
+8/4/2025 RCG Denver Bennett RP34716A $72.00
+8/4/2025 Expedited Denver Lakewood EF-69429 $150.00
+8/5/2025 RCG Denver Bennett RP32289A $72.00
+8/5/2025 RCG Denver Bennett RP34718A $72.00
+8/5/2025 RCG Denver Bennett RP34721A $72.00
+8/5/2025 RCG Denver Bennett RP32873A $72.00
+8/5/2025 Ready Denver Aurora 10443078848 $80.00
+8/5/2025 Ready Denver Aurora 10445596675 $80.00
+8/5/2025 Ready Denver Aurora 10443078593 $80.00
+8/6/2025 RCG Denver Bennett RP32285A $72.00
+8/6/2025 RCG Denver Bennett RP32284A $72.00
+8/6/2025 RCG Denver Bennett RP32286A $72.00
+8/6/2025 RCG Denver Bennett RP34717A $72.00
+8/6/2025 RCG Littleton Bennett RP36237A $75.00
+8/6/2025 RCG Littleton Bennett RP36239A $75.00
+
+================================================================================
+Page 8
+================================================================================
+
+August
+Date Company Pick-Up Drop-off Load # Amount Date Paid Notes
+8/6/2025 RCG Littleton Bennett RP36225A $75.00
+8/6/2025 RCG Littleton Bennett RP36246A $75.00
+8/15/2025 RCG Littleton Bennett RP40989A $75.00
+8/15/2025 RCG Littleton Bennett RP40996A $75.00
+8/15/2025 RCG Littleton Bennett RP42783A $75.00
+8/15/2025 RCG Littleton Bennett RP40998A $75.00
+8/15/2025 RCG Littleton Bennett RP42789A $75.00
+8/15/2025 RCG Littleton Bennett RP42779A $75.00
+8/15/2025 RCG Littleton Bennett RP40999A $75.00
+8/15/2025 RCG Littleton Bennett RP40983A $75.00
+8/16/2025 RCG Littleton Bennett RP42778A $75.00
+8/16/2025 RCG Littleton Bennett RP42782A $75.00
+8/16/2025 RCG Littleton Bennett RP42796A $75.00
+8/16/2025 RCG Littleton Bennett RP40995A $75.00
+8/18/2025 RCG Littleton Bennett RP42778A $75.00
+8/18/2025 RCG Littleton Bennett RP42782A $75.00
+8/18/2025 RCG Littleton Bennett RP42796A $75.00
+8/18/2025 RCG Littleton Bennett RP40995A $75.00
+8/19/2025 RCG Littleton Bennett RP42790A $75.00
+8/19/2025 RCG Littleton Bennett RP42781A $75.00
+8/19/2025 RCG Littleton Bennett RP42792A $75.00
+8/19/2025 RCG Littleton Bennett RP42785A $75.00
+8/19/2025 RCG Littleton Bennett RP42780A $75.00
+8/19/2025 RCG Littleton Bennett RP42784A $75.00
+8/19/2025 RCG Littleton Bennett RP42795A $75.00
+8/19/2025 RCG Littleton Bennett RP42797A $75.00
+
+================================================================================
+Page 9
+================================================================================
+
+August
+Date Company Pick-Up Drop-off Load # Amount Date Paid Notes
+8/20/2025 RCG Littleton Bennett RP42787A $75.00
+8/20/2025 RCG Littleton Bennett RP42791A $75.00
+8/20/2025 RCG Littleton Bennett RP42798A $75.00
+8/20/2025 RCG Littleton Bennett RP42788A $75.00
+8/20/2025 RCG Littleton Bennett RP42793A $75.00
+8/20/2025 RCG Littleton Bennett RP42794A $75.00
+8/20/2025 RCG Littleton Bennett RP43741A $75.00
+8/20/2025 RCG Littleton Bennett RP45373A $75.00
+8/21/2025 RCG Littleton Bennett RP45372A $75.00
+8/21/2025 RCG Littleton Bennett RP45374A $75.00
+8/21/2025 RCG Littleton Bennett RP45370A $75.00
+8/21/2025 RCG Littleton Bennett RP45368A $75.00
+8/21/2025 RCG Littleton Bennett RP45369A $75.00
+8/21/2025 RCG Littleton Bennett RP45371A $75.00
+8/21/2025 RCG Littleton Bennett RP45375A $75.00
+8/21/2025 RCG Littleton Bennett RP45376A $75.00
+8/22/2025 RCG Littleton Bennett RP45367A $75.00
+8/22/2025 RCG Littleton Bennett RP47269A $75.00
+8/22/2025 RCG Littleton Bennett RP47268A $75.00
+8/22/2025 RCG Littleton Bennett RP47267A $75.00
+8/22/2025 RCG Commerce City Bennett RP46782A $75.00
+8/22/2025 RCG Commerce City Bennett RP46783A $75.00
+8/22/2025 RCG Commerce City Bennett RP46784A $75.00
+8/27 Ready Denver Aurora 10456532884 $134.37 8/29?
+8/27 Ready Denver Aurora 10456531730 $134.37 8/29?
+8/28 RCG Littleton Bennett RP50082A $75.00
+
+================================================================================
+Page 10
+================================================================================
+
+August
+Date Company Pick-Up Drop-off Load # Amount Date Paid Notes
+8/28 RCG Littleton Bennett RP50823A $75.00
+8/28 RCG Littleton Bennett RP50092A $75.00
+8/28 RCG Littleton Bennett RP50087A $75.00
+8/28 RCG Littleton Bennett RP50083A $75.00
+8/28 RCG Littleton Bennett RP50088A $75.00
+8/28 RCG Littleton Bennett RP50090A $75.00
+8/28 RCG Littleton Bennett RP50086A $75.00
+8/29 RCG Littleton Bennett RP50091A $75.00
+8/29 RCG Littleton Bennett RP50084A $75.00
+8/29 RCG Littleton Bennett RP52333A $75.00
+8/29 RCG Littleton Bennett RP50093A $75.00
+8/29 RCG Littleton Bennett RP50085A $75.00
+8/29 RCG Littleton Bennett RP50824A $118.00
+8/29 RCG Littleton Bennett RP50089A $75.00
+
+================================================================================
+Page 11
+================================================================================
+
+July
+Date Company Pick-Up Drop-off Load # Amount Date Paid Notes
+7/3/2025 Monarch CO KS 21372004 $775.00
+7/7/2025 RCG Brighton Bennett RP11816A $75.00
+7/7/2025 RCG Brighton Bennett RP11822A $75.00
+7/7/2025 RCG Brighton Bennett RP11817A $75.00
+7/7/2025 RCG Brighton Bennett RP11815A $75.00
+7/7/2025 RCG Brighton Bennett RP11827A $75.00
+7/7/2025 RCG Brighton Bennett RP11821A $75.00
+7/7/2025 RCG Brighton Bennett RP11824A $75.00
+7/7/2025 RCG Brighton Bennett RP11818A $75.00
+7/8/2025 RCG Littleton Bennett RP10932A $75.00
+7/8/2025 RCG Littleton Bennett RP11335A $75.00
+7/8/2025 RCG Littleton Bennett RP10931A $75.00
+7/8/2025 RCG Littleton Bennett RP13241A $75.00
+7/8/2025 RCG Littleton Bennett RP13239A $75.00
+7/8/2025 RCG Littleton Bennett RP10930A $75.00
+7/8/2025 RCG Littleton Bennett RP13240A $75.00
+7/8/2025 RCG Littleton Bennett RP13242A $75.00
+7/9/2025 RCG Littleton Bennett RP13237A $75.00
+7/9/2025 RCG Littleton Bennett RP13238A $75.00
+7/9/2025 RCG Littleton Bennett RP11750A $75.00
+7/9/2025 RCG Littleton Bennett RP15888A $75.00
+7/9/2025 RCG Brighton Bennett RP10924A $75.00
+7/9/2025 RCG Brighton Bennett RP10925A $75.00
+7/9/2025 RCG Brighton Bennett RP11812A $75.00
+7/9/2025 RCG Brighton Bennett RP11810A $75.00
+7/10/2025 RCG Littleton Bennett RP15890A $75.00
+7/10/2025 RCG Littleton Bennett RP15885A $75.00
+7/10/2025 RCG Littleton Bennett RP15889A $75.00
+
+================================================================================
+Page 12
+================================================================================
+
+7/10/2025 RCG Littleton Bennett RP15905A $75.00
+7/10/2025 RCG Littleton Bennett RP15902A $75.00
+7/10/2025 RCG Littleton Bennett RP15884A $75.00
+7/10/2025 RCG Littleton Bennett RP16351A $75.00
+7/10/2025 RCG Littleton Bennett RP15883A $75.00
+7/11/2025 RCG Littleton Bennett RP15893A $75.00
+7/11/2025 RCG Littleton Bennett RP15891A $75.00
+7/11/2025 RCG Littleton Bennett RP15897A $75.00
+7/11/2025 RCG Littleton Bennett RP15886A $75.00
+7/11/2025 RCG Littleton Bennett RP15894A $75.00
+7/11/2025 RCG Littleton Bennett RP15904A $75.00
+7/11/2025 RCG Littleton Bennett RP15900A $75.00
+7/11/2025 RCG Littleton Bennett RP15892A $75.00
+7/18/2025 Acertus Greely Denver 13935829 $180.00
+7/18/2025 Acertus Eaton Denver 13935831 $145.00
+7/19/2025 Acertus Eaton Denver 13935843 $146.00
+7/19/2025 Acertus Eaton Denver 13935839 $146.00
+7/19/2025 Acertus Eaton Denver 13935837 $146.00
+7/23/2025 Acertus Eaton Denver 13935835 $145.00
+7/23/2025 Acertus Eaton Denver 13935833 $145.00
+7/23/2025 Acertus Eaton Denver 13935827 $145.00
+7/23/2025 Acertus Eaton Denver 13935823 $145.00
+7/25/2025 RCG Littleton Bennett RP26505A $75.00
+7/25/2025 RCG Littleton Bennett RP26495A $75.00
+7/25/2025 RCG Littleton Bennett RP26509A $75.00
+7/25/2025 RCG Littleton Bennett RP26502A $75.00
+7/25/2025 RCG Littleton Bennett RP26510A $75.00
+7/25/2025 RCG Littleton Bennett RP26512A $75.00
+7/25/2025 RCG Littleton Bennett RP26499A $75.00
+
+================================================================================
+Page 13
+================================================================================
+
+7/25/2025 RCG Littleton Bennett RP26497A $75.00
+7/28/2025 Anew Transport Centennial Commerce City 31488-66944 DRF
+7/28/2025 Anew Transport Golden Denver 31456-05168 $225.00 As well as a DRF
+7/30/2025 RCG Littleton Bennett RP31900A $75.00
+7/30/2025 RCG Littleton Bennett RP31515A $75.00
+7/30/2025 RCG Littleton Bennett RP31517A $75.00
+7/30/2025 RCG Littleton Bennett RP31496A $75.00
+7/30/2025 RCG Littleton Bennett RP31505A $75.00
+7/30/2025 RCG Littleton Bennett RP31508A $75.00
+7/30/2025 RCG Littleton Bennett RP31506A $75.00
+7/30/2025 RCG Littleton Bennett RP31512A $75.00
+7/31/2025 RCG Littleton Bennett RP31498A $75.00
+7/31/2025 RCG Littleton Bennett RP31509A $75.00
+7/31/2025 RCG Littleton Bennett RP31501A $75.00
+7/31/2025 RCG Littleton Bennett RP31507A $75.00
+7/31/2025 RCG Littleton Bennett RP31510A $75.00
+7/31/2025 RCG Littleton Bennett RP31494A $75.00
+7/31/2025 RCG Littleton Bennett RP31499A $75.00
+7/31/2025 RCG Littleton Bennett RP31493A $75.00
+8/1/2025 RCG Littleton Bennett RP31518A $75.00
+8/1/2025 RCG Littleton Bennett RP32206A $75.00
+8/1/2025 RCG Littleton Bennett RP32207A $75.00
+8/1/2025 RCG Littleton Bennett RP31513A $75.00
+8/1/2025 RCG Littleton Bennett RP33547A $75.00
+8/1/2025 RCG Littleton Bennett RP33548A $75.00
+8/1/2025 RCG Littleton Bennett RP33545A $75.00
+8/1/2025 RCG Littleton Bennett RP33544A $75.00
+
+================================================================================
+Page 14
+================================================================================
+
+June
+Date Company Pick-Up Drop-off Load # Amount Date Paid Notes
+6/9/2025 One Call Logistics IN OR BISH-049116 $3,700.00
+6/13/2025 Get It Done OR FL 20901915 $5,200.00
+6/14/2025 Cierta UT CO CC-5982 $950.00
+6/20/2025 Acertus Eaton Denver 13643287 $155.00
+6/20/2025 Acertus Eaton Denver 13643289 $150.00
+6/20/2025 Acertus Eaton Denver 13643291 $125.00
+6/20/2025 Acertus Eaton Denver 13643297 $200.00
+6/20/2025 Acertus Greeley Denver 13643299 $125.00
+6/20/2025 Acertus Eaton Denver 13643301 $150.00
+6/20/2025 Acertus Greeley Denver 13643303 $125.00
+6/20/2025 Acertus Eaton Denver 13643305 $150.00
+6/20/2025 Acertus Eaton Denver 13643319 $225.00
+6/20/2025 Acertus Eaton Denver 13643321 $125.00
+6/20/2025 Acertus Eaton Denver 13643325 $225.00
+6/20/2025 Acertus Eaton Denver 13643327 $150.00
+6/20/2025 Acertus Eaton Denver 13643329 $150.00
+6/20/2025 Acertus Eaton Denver 13650553 $150.00
+6/20/2025 Acertus Greeley Denver 13655701 $125.00
+6/20/2025 Acertus Eaton Denver 13655703 $125.00
+6/20/2025 Acertus Eaton Denver 13655705 $150.00
+6/20/2025 Acertus Eaton Denver 13643323 $150.00
+price increase by $45
+
+================================================================================
+Page 15
+================================================================================
+
+May
+Date Company Pick-Up Drop-off Load # Amount Date Paid Notes
+5/1/2025 RCG Littleton Bennett RN53049A $118.00
+5/1/2025 RCG Littleton Bennett RN53050A $75.00
+5/1/2025 RCG Littleton Bennett RN53745A $75.00
+5/2/2025 Acertus Denver Denver 13058863 $175.00
+5/2/2025 Ready Golden Aurora 10393628671 $85.64 5/3?
+5/2/2025 Super?? Lakewood Aurora 10446 $80.00
+5/2/2025 Ready Henderson Aurora 10394325196 $100.00 5/3?
+5/2/2025 Ready Denver Denver 10396451358 $80.00 5/6?
+5/2/2025 Ready Denver Denver 10397717393 $80.00 5/6?
+5/2/2025 Ready Denver Denver 10396935897 $80.00 5/6?
+5/3/2025 United Wheat Ridge Federal Heights 82456865 $60.00
+5/3/2025 United Golden Federal Heights 82449805 $160.00
+5/3/2025 United Englewood Parker 82457414 $80.00
+5/3/2025 United Englewood Parker 82449793 $160.00
+5/3/2025 United Centennial Parker 82449798 $160.00
+5/5/2025 Ready Brighton Aurora 10395699876 $100.00 5/6?
+5/5/2025 Ready Brighton Aurora 10396646199 $100.00 5/6?
+5/5/2025 Ready Brighton Aurora 10398399986 $100.00 5/6?
+5/6/2025 Ready Brighton Aurora 10393078094 $100.00 5/7?
+5/6/2025 Ready Brighton Aurora 10395636397 $100.00 5/7?
+5/6/2025 Ready Parker Aurora 10396041641 $75.98
+5/6/2025 RCG Brighton Bennett RN56431A $75.00 price increase by $45
+5/6/2025 RCG Brighton Bennett RN56432A $75.00
+5/6/2025 RCG Brighton Bennett RN56433A $75.00
+5/6/2025 Logistic Transit Lakewood Aurora 10446D $80.00
+5/7/2025 RCG Littleton Bennett RN58275A $75.00
+5/7/2025 RCG Littleton Bennett RN58276A $75.00
+
+================================================================================
+Page 16
+================================================================================
+
+5/7/2025 ING Solutions Littleton Littleton BA-531803 $150.00
+5/7/2025 Ready Norhtglenn Aurora 10396451486 $100.00 5/9?
+5/7/2025 Ready Westminster Aurora 10397101445 $80.00 5/9?
+5/7/2025 Ready Arvada Aurora 10397107028 $78.93 5/9?
+5/7/2025 Acertus Brighton Denver 13119865 $85.00
+5/7/2025 Acertus Brighton Denver 13119863 $100.00
+5/7/2025 Acertus Brighton Denver 13119861 $85.00
+5/7/2025 Acertus Brighton Denver 13119855 $85.00
+5/8/2025 Expedited Denver Lakewood EF-61906 $70.00
+5/8/2025 Direct Connect Denver Lakewood 5669652 $100.00
+5/8/2025 Acertus Denver Denver 13169019 $100.00
+5/8/2025 Acertus Denver Denver 13117039 $100.00
+5/9/2025 RCG Brighton Bennett RN59138A $75.00
+5/9/2025 RCG Brighton Bennett RN59136A $75.00
+5/9/2025 RCG Brighton Bennett RN59137A $75.00
+5/9/2025 RCG Brighton Bennett RN59134A $75.00
+5/9/2025 RCG Brighton Bennett RN59135A $105.00
+5/9/2025 RCG Brighton Bennett RN57875A $75.00
+5/9/2025 Ready Brighton Aurora 10401985970 $100.00 5/13?
+5/9/2025 Ready Brighton Aurora 10401084344 $125.00 5/13?
+5/9/2025 Ready Westminster Aurora 10398959863 $80.00 5/13?
+5/9/2025 Ready Westminster Aurora 10397787050 $80.00 5/13?
+5/9/2025 Ready Broomfield Aurora 10397152453 $80.00 5/13?
+5/10/25 Ready Thornton Aurora 10397735215 $80.00 5/13?
+5/10/25 Ready Denver Aurora 10401137374 $80.00 5/13?
+5/10/25 Ready Broomfield Aurora 10399440537 $80.00 5/13?
+5/10/25 Ready Denver Aurora 10399816626 $80.00 5/13?
+5/10/25 Carvana Denver Denver 114001 $75.00
+5/12/25 RCG Brighton Bennett RN60463A $120.00
+5/12/25 RCG Brighton Bennett RN60409A $75.00
+
+================================================================================
+Page 17
+================================================================================
+
+5/12/25 Ready Broomfield Aurora 10399665740 $80.00 5/13?
+5/12/25 Ready Broomfield Aurora 10401985352 $80.00 5/13?
+5/12/25 Ready Broomfield Aurora 10392916292 $150.00 5/14?
+5/12/25 Ready Broomfield Aurora 10393668337 $150.00 5/14?
+5/12/25 Ready Broomfield Aurora 10398493352 $150.00 5/14?
+5/12/25 Ready Broomfield Aurora 10398747764 $100.00 5/14?
+5/13/25 Ready Northglenn Aurora 10402169876 $100.00 5/15?
+5/13/25 Acertus Denver Denver 13221165 $85.00
+5/13/25 Acertus Broomfield Denver 13199415 $85.00
+5/13/25 Acertus Aurora Denver 13145151 $235.00
+5/14/25 Acertus Federal Heights Denver 13117045 $240.00
+5/14/25 Acertus Denver Denver 13119793 $180.00
+5/14/25 Ready Broomfield Aurora 10398493329 $150.00 5/15?
+5/14/25 Ready Broomfield Aurora 10398493353 $150.00 5/15?
+5/14/25 Logistic Transit Lakewood Aurora 10706 $80.00
+5/14/25 Epic Matrix Golden Aurora 150159 $100.00
+5/15/25 Crooza Denver Aurora 5823402 $125.00
+5/15/25 RCG Littleton Bennett RN63383A $75.00
+5/15/25 RCG Littleton Bennett RN63381A $75.00
+5/15/25 RCG Littleton Bennett RN63379A $75.00
+5/15/25 RCG Littleton Bennett RN63377A $75.00
+5/15/25 RCG Littleton Bennett RN63382A $75.00
+5/15/25 RCG Littleton Bennett RN63380A $75.00
+5/15/25 RCG Littleton Bennett RN64177A $75.00
+5/16/25 RCG Littleton Bennett RN63384A $75.00
+5/16/25 RCG Littleton Bennett RN63378A $75.00
+5/16/25 Reindeer Brighton Denver 1465044 $450.00
+5/16/25 Reindeer Brighton Denver 1465040 $450.00
+5/9/2025 Acertus Brighton Denver 13119859 $90.00
+5/22/2025 Logi Transports AR OK 20850676 $900.00
+
+================================================================================
+Page 18
+================================================================================
+
+5/22/2025 Monarch Transport OK TX 20998335 $475.00
+5/23/2025 Movewheels TX AR 5442201 $350.00
+5/31/2025 Bel-Transport OK TX HBRC $1,000.00
+
+================================================================================
+Page 19
+================================================================================
+
+April
+Date Company Pick-Up Drop-off Load # Amount Date Paid Notes
+4/3/2025 Acertus Sheridan Denver 12603059 $270.00 4/21
+4/3/2025 Acertus Commerce City Denver 12712675 $80.00 4/8
+4/3/2025 Acertus Commerce City Denver 12712671 $80.00 4/8
+4/3/2025 Acertus Commerce City Denver 12712667 $80.00 4/8
+4/3/2025 Acertus Commerce City Denver 12712663 $80.00 4/8
+4/4/2025 RCG Littleton Bennett RN30625A $75.00 4/9
+4/4/2025 RCG Littleton Bennett RN30628A $75.00 4/8
+4/4/2025 RCG Littleton Bennett RN30626A $75.00 4/9
+4/4/2025 Ready Thornton Aurora 10380667408 $130.00 4/5?
+4/4/2025 Ready Denver Aurora 10382744250 $80.00 4/8?
+4/4/2025 Ready Denver Aurora 10381548267 $71.23 4/5?
+4/4/2025 Acertus Parker Denver 12734881 $100.00 4/8
+4/4/2025 Ready Parker Aurora 10383076696 $93.82 4/8?
+4/5/2025 United Golden Federal Heights 81753682 $240.00 4/9
+4/5/2025 United Golden Federal Heights 82061449 $240.00 4/9
+4/7/2025 RCG Littleton Bennett RN32951A $75.00 4/11
+4/7/2025 Ready Littleton Aurora 10382282333 $80.57
+4/7/2025 Ready Littleton Aurora 10383554915 DRF $50 Vehicle not there
+4/7/2025 Ready Littleton Aurora 10383947904 Inop $50 Need to report unexpected inop
+4/7/2025 Ready Englewood Aurora 10382534905 $74.49 4/8?
+4/7/2025 Ready Westminster Aurora 10381176609 $100.00 4/9?
+4/7/2025 Ready Westminster Aurora 10381176600 $100.00 4/9?
+4/7/2025 Ready Denver Aurora 10382744294 $80.00 4/9?
+4/8/2025 Acertus Englewood Denver 12735079 $90.00 4/16
+4/8/2025 Acertus Denver Denver 12674293 $100.00 4/21
+4/8/2025 Carvana Englewood Denver 107124 $92.40 4/11
+4/8/2025 Ready Centennial Aurora 10381535283 $77.69 4/10?
+
+================================================================================
+Page 20
+================================================================================
+
+4/8/2025 Ready Centennial Aurora 10381534907 $77.69 4/10?
+4/8/2025 Ready Englewood Aurora 10383616088 $77.69 4/10?
+4/8/2025 Ready Centennial Aurora 10385592493 $77.69 4/10?
+4/8/2025 Ready Centennial Aurora 10385592488 $77.69 4/10?
+4/8/2025 Ready Centennial Aurora 10385592495 $77.69 4/10?
+4/8/2025 Ready Centennial Aurora 10385592472 $77.69 4/10?
+4/8/2025 Ready Centennial Aurora 10385592492 $77.69 4/10?
+4/9/2025 Acertus Brighton Denver 12766277 $100.00 4/16
+4/9/2025 Acertus Brighton Denver 12766303 $85.00 4/16
+4/9/2025 Acertus Brighton Denver 12766275 $85.00 4/16
+4/9/2025 Ready Englewood Aurora 10382382350 $72.06 4/11?
+4/9/2025 Ready Englewood Aurora 10382499017 $74.49 4/11?
+4/9/2025 Ready Englewood Aurora 10385712187 $74.49 4/11?
+4/9/2025 Expedited Lakewood Aurora EF-59604 $80.00 4/15
+4/9/2025 Expedited Lakewood Aurora EF-159393 $80.00 4/15
+4/9/2025 Ready Lakewood Aurora 10385021041 $70.64 4/11?
+4/10/2025 Ready Englewood Aurora 10386144354 $72.06 4/11?
+4/10/2025 Ready Lakewood Aurora 10382744060 $75.72 4/11?
+4/10/2025 Ready Lakewood Aurora 10385624834 $140.01 4/11?
+4/10/2025 Acertus Aurora Denver 12752503 $90.00 4/16
+4/10/2025 Acertus Aurora Denver 12785749 $85.00 4/16
+4/10/2025 Acertus Denver Denver 12735259 $103.00 4/16
+4/10/2025 Ready Englewood Aurora 10382643452 $77.69 4/12?
+4/10/2025 Ready Englewood Aurora 10385669200 $80.00 4/12?
+4/10/2025 Ready Centennial Aurora 10385724283 $77.69 4/12?
+4/11/2025 Ready Englewood Aurora 10387487268 $74.49 4/12? 2022 SUBARU OUTBACK | N3224618
+4/11/2025 Ready Englewood Aurora 10385747325 $74.49 load# 10389807006 - keep this $74.49
+4/11/2025 Ready Denver Aurora 10384019704 $100.00 4/12?
+4/11/2025 Ready Parker Aurora 10383763593 $93.82 4/15?
+
+================================================================================
+Page 21
+================================================================================
+
+4/11/2025 Ready Parker Aurora 10385462908 $79.60 4/15?
+4/11/2025 Ready Centennial Aurora 10384765267 $77.69 4/15?
+4/14/2025 Ready Littleton Aurora 10386353381 $77.69 4/15?
+4/14/2025 CarsArrive Highlands Ranch Denver 20521746 $85.00 4/21
+4/14/2025 Ready Centennial Aurora 10386204787 $77.69 4/15?
+4/14/2025 Ready Centennial Aurora 10384944061 $77.69 4/15?
+4/14/2025 Ready Centennial Aurora 10384943847 $77.69 4/15?
+4/14/2025 United Greenwood Village Parker 82186684 $240.00 4/21
+4/15/2025 United Englewood Parker 82164204 $80.00 4/21
+4/15/2025 United Denver Parker 82174858 $80.00 4/21
+4/15/2025 United Englewood Parker 82152081 $80.00 4/21
+4/15/2025 Ready Greenwood Village Aurora 10385741630 $74.49 4/17?
+4/15/2025 Ready Greenwood Village Aurora 10383922714 $74.49 4/17?
+4/15/2025 Ready Greenwood Village Aurora 10383922717 $74.49 4/17?
+4/15/2025 Ready Greenwood Village Aurora 10383922698 $74.49 4/17?
+4/15/2025 Ready Greenwood Village Aurora 10383922716 $74.49 4/17?
+4/15/2025 Ready Greenwood Village Aurora 10383922718 $74.49 4/17?
+4/16/2025 Acertus Aurora Denver 12865297 $85.00 4/21
+4/16/2025 Acertus Denver Denver 12735257 $100.00
+4/16/2025 Acertus Denver Denver 12876327 $100.00 4/21
+4/16/2025 Ready Denver Aurora 10386105708 $100.00 4/18?
+4/16/2025 Ready Denver Aurora 10386104855 $80.00 4/18?
+4/16/2025 Ready Broomfield Aurora 10386547114 $80.00 4/18?
+4/17/2025 Ready Englewood Aurora 10389807006 $74.49 4/18?
+4/17/2025 Acertus Centennial Denver 12910849 $90.00 4/21
+4/17/2025 Acertus Lakewood Denver 12875961 $95.00 4/21
+4/17/2025 Acertus Lakewood Denver 12883649 $100.00 4/21
+4/17/2025 Expedited Lakewood Aurora EF-60427 $80.00 4/23
+4/17/2025 Ready Brighton Aurora 10388703739 $100.00 4/19?
+
+================================================================================
+Page 22
+================================================================================
+
+4/17/2025 Ready Brighton Aurora 10387473577 $125.00 4/19?
+4/18/2025 Acertus Englewood Denver 12914043 $100.00
+4/18/2025 Acertus Englewood Thornton 12913921 $100.00
+4/18/2025 Ready Englewood Aurora 10389439280 $80.00 4/19?
+4/18/2025 Acertus Brighton Denver 12883609 $85.00
+4/23/2025 Acertus Aurora Denver 12933285 $90.00
+4/23/2025 Acertus Aurora Denver 12962971 $90.00
+4/23/2025 Carvana Aurora Denver 111120 $75.00
+4/23/2025 Ready Denver Aurora 10389515832 $80.00 4/25?
+4/23/2025 Ready Denver Aurora 10389662428 $80.00 4/25?
+4/23/2025 Ready Denver Aurora 10392805760 $80.00 4/25?
+4/24/2025 United Aurora Parker 82322847 $225.00
+4/24/2025 United Centennial Parker 82322806 $240.00
+4/25/2025 Ubacar Littleton Denver COPART-50212765 $130.00
+4/25/2025 Progressive Centennial Aurora 5493126 $100.00
+4/25/2025 Ready Brighton Aurora 10392931250 $100.00 4/29?
+4/25/2025 Ready Brighton Aurora 10392149898 $100.00 4/29?
+4/25/2025 Acertus Thornton Aurora 12962367 $150.00
+4/29/2025 MoveWheels Westminster Grand Junction 5439463 $450.00
+4/30/2025 Acertus Denver Denver 13046089 $100.00
+4/30/2025 Acertus Denver Denver 13058867 $100.00
+4/30/2025 Acertus Denver Denver 13046095 $300.00
+4/30/2025 United Littleton Parker 82393824 $240.00
+
+================================================================================
+Page 23
+================================================================================
+
+March
+Date Company Pick-Up Drop-off Load # Amount Date Paid
+3/3/2025 Ready Golden Aurora 10360804880 3/5
+3/3/2025 United Golden Federal Heights 81457069 3/6
+3/3/2025 Ready Westminster Aurora 10365106242 3/5
+3/3/2025 Ready Westminster Aurora 10365104112 3/5
+3/3/2025 United Aurora Parker 81481218 3/6
+3/3/2025 United Denver Parker 81452950 3/6
+3/3/2025 United Denver Parker 81522523 3/6
+3/4/2025 RCG Denver Denver RM94258A 3/7
+3/4/2025 RCG Denver Denver RM94259A 3/7
+3/4/2025 Ready Westminster Aurora 10365106729 3/6
+3/4/2025 Ready Westminster Aurora 10365105961 3/6
+3/4/2025 Ready Westminster Aurora 10365105506 3/6
+3/4/2025 CarsArrive Aurora Littleton 20376456 3/10
+3/4/2025 Ready Westminster Aurora 10365104420 3/6
+3/4/2025 Ready Westminster Aurora 10365105172 3/6
+3/5/2025 RCG Littleton Denver RM94131A 3/10
+3/5/2025 RCG Centennial Denver RM94359A 3/10
+3/5/2025 Expedited Lakewood Aurora EF-56313
+3/5/2025 Carvana Denver Denver 102689
+3/5/2025 Carvana Commerce City Denver 102738
+3/5/2025 Carvana Englewood Denver 102844
+3/6/2025 Ready Boulder Aurora 10364594866 5/8?
+3/6/2025 Ready Boulder Aurora 10366777641 5/8?
+
+================================================================================
+Page 24
+================================================================================
+
+3/6/2025 CarsArrive Boulder Golden 20376396 3/12
+3/6/2025 Ready Lakewood Aurora 10362506693 5/8?
+3/6/2025 Shipity Broomfield Aurora K34CO3
+3/6/2025 Shipity Broomfield Aurora K34CO4
+3/7/2025 RCG Littleton Bennett RM95462A
+3/7/2025 RCG Littleton Bennett RM95458A
+3/7/2025 RCG Littleton Bennett RM95464A
+3/7/2025 RCG Littleton Bennett RM96499A
+3/7/2025 RCG Littleton Bennett RM98176A
+3/7/2025 RCG Littleton Bennett RM98177A
+3/7/2025 Shipity Broomfield Aurora K34CO7
+3/7/2025 Ready Denver Aurora 10366284903 $80.00 3/11?
+3/7/2025 Ready Denver Aurora 10366985632 $80.00 3/11?
+3/11/2025 RCG Littleton Bennett RM98174A $75.00
+3/11/2025 RCG Littleton Bennett RM98175A $75.00
+3/11/2025 RCG Brighton Denver RM98078A $100.00
+3/11/2025 RCG Brighton Denver RM98080A $100.00
+3/11/2025 Ready Lakewood Aurora 10370000690 $70.64 3/13?
+3/11/2025 Ready Lakewood Littleton 10369953696 $75.00 3/13?
+3/11/2025 Ready Lakewood Aurora 10369322824 $70.64 3/13?
+3/11/2025 Ready Aurora Littleton 10370401989 $80.00 3/13?
+3/12/2025 RCG Centennial Denver RM96455A $90.00
+3/12/2025 RCG Lakewood Denver RM98605A $100.00
+3/13/2025 RCG Littleton Bennett RN11885A $75.00
+3/13/2025 RCG Littleton Bennett RN11892A $75.00
+
+================================================================================
+Page 25
+================================================================================
+
+3/13/2025 RCG Littleton Bennett RN11888A $75.00
+3/13/2025 RCG Littleton Bennett RN11886A $75.00
+3/13/2025 RCG Littleton Bennett RN11882A $75.00
+3/13/2025 RCG Littleton Bennett RN11895A $75.00
+3/14/2025 RCG Littleton Bennett RN11884A $75.00
+3/14/2025 RCG Littleton Bennett RN11894A $75.00
+3/14/2025 RCG Littleton Bennett RN11891A $75.00
+3/14/2025 RCG Littleton Bennett RN11887A $75.00
+3/14/2025 RCG Littleton Bennett RN11897A $75.00
+3/14/2025 RCG Littleton Bennett RN11883A $75.00
+3/17/2025 RCG Littleton Bennett RN12531A $75.00
+3/17/2025 RCG Littleton Bennett RN12530A $75.00
+3/17/2025 RCG Littleton Bennett RN12970A $75.00
+3/17/2025 Ready Parker Aurora 10373274218 $77.65 3/19?
+3/17/2025 RCG Parker Denver 12553711 $95.00 3/28
+3/17/2025 Acertus Centennial Denver 12557861 $85.00
+3/17/2025 Ready Denver Aurora 10372716013 $80.00 3/19?
+3/18/2025 RCG Littleton Bennett RN12971A $75.00
+3/18/2025 RCG Littleton Bennett RN12972A $75.00
+3/18/2025 RCG Littleton Bennett RN14446A $118.00
+3/18/2025 Ready Aurora Broomfield 10371795317 $68.62 3/19?
+3/18/2025 Ready Aurora Broomfield 10371795318 $68.62 3/19?
+3/18/2025 CarsArrive Broomfield Bennett 20428549 $100.00 3/27
+3/18/2025 Ready Westminster Aurora 10372871290 $76.07 3/20?
+3/18/2025 Ready Denver Aurora 10373674169 $80.00 3/20?
+
+================================================================================
+Page 26
+================================================================================
+
+3/19/2025 RCG Castle Pines Denver 12506857 $115.00
+3/19/2025 RCG Castle Rock Denver 12520807 $115.00
+3/19/2025 Ready Castle Rock Aurora 10373394671 $101.99 3/20?
+3/19/2025 Ready Englewood Aurora 10374352403 $74.49 3/21?
+3/19/2025 RCG Englewood Denver 12564445 $85.00
+3/19/2025 RCG Englewood Denver 12602399 $85.00 3/21?
+3/19/2025 Ready Westminster Aurora 10374171434 $80.00 3/21?
+3/19/2025 Ready Westminster Aurora 10368851939 $92.58
+3/20/2025 RCG Littleton Bennett RN18322A $75.00
+3/20/2025 RCG Littleton Bennett RN18323A $75.00
+3/20/2025 RCG Littleton Bennett RN18319A $75.00
+3/20/2025 RCG Commerce City Bennett RN20515A $75.00
+3/20/2025 RCG Commerce City Bennett RN20513A $75.00
+3/20/2025 RCG Commerce City Bennett RN20512A $75.00
+3/21/2025 RCG Littleton Bennett RN19407A $75.00 3/27
+3/21/2025 RCG Littleton Bennett RN19417A $75.00
+3/21/2025 RCG Littleton Bennett RN19410A $75.00
+3/21/2025 Cardinal Auto Denver Aurora Luke4043914993 $200.00
+3/21/2025 Ready Denver Aurora 10374250049 $80.00 3/25?
+3/21/2025 Ready Northglenn Aurora 10375004741 $80.00 3/25?
+3/24/2025 RCG Littleton Bennett RN19416A $75.00 3/27
+3/24/2025 RCG Littleton Bennett RN19408A $75.00 3/27
+3/24/2025 RCG Littleton Bennett RN19412A $75.00 3/27
+3/24/2025 RCG Centennial Denver 12602541 $130.00 3/27
+3/24/2025 Ready Centennial Aurora 10375646796 $77.69 3/26?
+
+================================================================================
+Page 27
+================================================================================
+
+3/24/2025 RCG Lakewood Denver 12567399 $95.00 4/21
+3/25/2025 United Parker Federal Heights 81878905 $210.00 3/27
+3/25/2025 Ready Englewood Aurora 10373651132 $70.30 3/26?
+3/25/2025 Ready Englewood Aurora 10373652826 $70.30 3/26?
+3/25/2025 Ready Englewood Aurora 10373652825 $70.30 3/26?
+3/25/2025 Ready Aurora Aurora 10375156293 $74.49 3/27?
+3/25/2025 Ready Aurora Aurora 10373991775 $72.68 3/27?
+3/26/2025 Ready Littleton Aurora 10375579422 $77.69 3/27?
+3/26/2025 Ready Littleton Aurora 10376150466 $75.79 3/27?
+3/26/2025 Helpful Englewood Lakewood 032425CO $100.00
+3/26/2025 Ready Denver Aurora 10375447829 $89.38 3/27?
+3/26/2025 RCG Aurora Denver 12623953 $85.00 3/28
+3/26/2025 RCG Denver Denver 12604833 $85.00 3/28
+3/26/2025 Ready Northglenn Aurora 10376201310 $100.00 3/28 ??
+3/26/2025 Ready Westminster Aurora 10376645066 $80.00 3/28 ??
+3/27/2025 RCG Littleton Bennett RN25362A $75.00 4/1
+3/27/2025 RCG Littleton Bennett RN25360A $75.00 4/1
+3/27/2025 RCG Littleton Bennett RN25356A $75.00 4/1
+3/27/2025 Ready Denver Aurora 10375534907 $137.88 3/28 ??
+3/27/2025 RCG Brighton Bennett RN23787A $75.00 4/1
+3/27/2025 RCG Commerce City Bennett RN26691A $75.00 4/1
+3/27/2025 RCG Commerce City Bennett RN26690A $75.00 4/1
+3/28/2025 RCG Littleton Bennett RN25353A $75.00 4/1
+3/28/2025 RCG Littleton Bennett RN25358A $75.00 4/4
+3/28/2025 RCG Littleton Bennett RN25355A $75.00 4/4
+
+================================================================================
+Page 28
+================================================================================
+
+3/28/2025 Acertus Aurora Denver 12687237 $85.00 4/4
+3/28/2025 Carvana Aurora Denver 105886 $75.00 4/2
+3/28/2025 United Aurora Parker 81901646 $80.00 4/1
+3/28/2025 United Aurora Parker 81929276 $80.00 4/1
+3/28/2025 United Aurora Parker 81911041 $80.00 4/1
+
+================================================================================
+Page 29
+================================================================================
+
+February
+Date Company Pick-Up Drop-off Load # Date Paid
+2/24/2025 United Littleton Parker 81396267 3/3
+2/24/2025 United Lakewood Parker 81409187 3/3
+2/24/2025 United Centennial Parker 81397574 3/3
+2/24/2025 United Parker Centennial 81342931 3/3
+2/24/2025 United Golden Federal Heights 81394929 3/3
+2/24/2025 RCG Englewood Denver RM70477A 3/4
+2/24/2025 RCG Lakewood Denver RM69761A 2/28
+2/25/2025 RCG Aurora Denver RM71970A 2/28
+2/25/2025 RCG Aurora Denver RM71975A 2/28
+2/25/2025 Anew Transport Denver Denver 31407-85767
+2/25/2025 Anew Transport Denver Denver 31425-86603
+2/25/2025 Anew Transport Denver Denver 31462-17243
+2/25/2025 Anew Transport Denver Denver 31434-01164
+2/25/2025 United Brighton Federal Heights 81396223 2/28
+2/25/2025 Ready Brighton Aurora 10360489513 2/27?
+2/26/2025 CarsArrive Denver Englewood 20340409 3/3
+2/26/2025 CarsArrive Arapahoe Denver 20362078 3/3
+2/26/2025 CarsArrive Denver Denver 20362079 3/3
+2/26/2025 RCG Littleton Bennett RM74677A 3/4
+2/26/2025 RCG Littleton Bennett RM68533A 3/4
+2/26/2025 RCG Littleton Bennett RM71367A 3/4
+2/27/2025 RCG Littleton Bennett RM74676A 3/4
+2/27/2025 RCG Littleton Bennett RM74681A 3/4
+
+================================================================================
+Page 30
+================================================================================
+
+2/27/2025 RCG Littleton Bennett RM74679A 3/4
+2/27/2025 RCG Englewood Denver RM67712A 3/4
+2/27/2025 RCG Centennial Denver RM74563A 3/4
+2/27/2025 Expedited Englewood Lakewood EF-55819
+2/28/2025 RCG Denver Bennett RM75782A 3/5
+2/28/2025 RCG Denver Bennett RM75781A 3/5
+2/28/2025 RCG Denver Bennett RM75783A 3/5
+2/28/2025 RCG Englewood Denver RM75439A 3/4
+2/28/2025 Acertus Denver Denver 12381361 3/4
+2/28/2025 Acertus Denver Aurora 12390535 3/4
+
+================================================================================
+Page 31
+================================================================================
+
+February
+Monday 1/3 Tuesday 1/4 Wednesday 1/5 Thursday 1/6 Friday 1/7
+Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid
+RPM Claremore Tulsa 31589-18745 2/25 Preowned Tulsa Sapulpa 615249 2/10 Direct Connect Tulsa Sapulpa 5666929 KB Freight Tulsa OKC F240652A
+Verily Tulsa Tulsa LP105687 Preowned Tulsa Sapulpa 615248 2/10 KB Freight Tulsa Norman T250164A
+United Tulsa Tulsa 81010755 2/13 CarsArrive Tulsa OKC 20263207 2/10 Posey OKC OKC 53733 2/13
+CarsArrive OKC Tulsa 20273172 2/10 City Auto Claremore Tulsa 2006
+Monday 1/10 Tuesday 1/11 Wednesday 1/12 Thursday 1/13 Friday 1/14
+Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid
+Monday 1/17 Tuesday 1/18 Wednesday 1/19 Thursday 1/20 Friday 1/21
+Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid
+Monday 1/24 Tuesday 1/25 Wednesday 1/26 Thursday 1/27 Friday 1/28
+Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid
+
+================================================================================
+Page 32
+================================================================================
+
+Insurance
+Added Rich to insurance 5/31
+Because I was at the end of my term the payment due 6/28, but will cover payments June, July & August.
+Date Amount Notes
+6/28 $4,933.07 Amount Owed
+7/27 $1,000.00 Rich sent via Zelle
+7/27 $3,933.07 Leftover balance
+11/20 $500.00 Payment taken from pay 11/18/24-11/22/24
+11/20 $3,433.07 Leftover balance
+7/12 $276.87 Escrow from June
+7/12 $3,156.20 Leftover balance
+7/24 313.06 7/24 Pay
+7/27 $2,843.14 Leftover Balance
+8/2 $180.00 8/2 Pay
+8/2 $2,663.14 Leftover Balance
+8/2 $140.00 10440061327 - Load 8/2
+8/2 $2,523.14 Leftover Balance
+8/18 $145.98 8/4-8/7 Pay
+8/18 $2,377.16 Leftover Balance $3,724.16
+9/3 $53.00 9/2-9/3 Pay
+9/3 $2,324.16 Leftover Balance
+10/4 -$57.78 Escrow Balance from 10/4
+10/4 $2,266.38 Leftover Balance
+8/28 $1,600.00 Amount Owed
+8/16 $550.00 small boat & trailer from 8/15
+8/26 $1,050.00 Rich sent via Zelle
+8/26 $0.00 Revewal Deposit made
+
+================================================================================
+Page 33
+================================================================================
+
+9/28 $1,451.00 Amount Owed
+9/27 $1,451.00 Rich sent via Zelle
+8/26 $0.00 September payment made
+10/28 $1,451.00 Amount Owed
+10/27 $1,451.00 Rich sent via Zelle
+10/27 $0.00 October payment made
+11/28 $1,451.00 Amount Owed
+11/27 $1,451.00 Rich sent via Zelle
+11/27 $0.00 November payment made
+12/28 $1,451.00 Amount Owed
+12/31 $450.00 Rich sent via Zelle
+12/31 $1,001.00 Owed as of 12/31
+1/3 $800.00 Rich sent via Zelle
+1/3 $201.00 Owed as of 1/3
+2/7 $1,199.94 Paid
+2/7 -$998.94 Escrow
+1/28 $1,456.00 Amount Owed
+1/28 $998.94 Escrow as of 2/7
+1/28 $457.06 Owed as of 2/7
+2/28 $457.06 From Paycheck 2/24-2/28
+2/28 $0.00 Janauary Insurance Paid Up
+2/28 $1,451.00 Amount Owed
+
+================================================================================
+Page 34
+================================================================================
+
+3/7 $450.00 Shipty x3 Vans
+3/14 $200.00 February Insurance
+3/14 $801.00 Owed left
+3/22 $801.00 3/6-3/13 pay
+3/22 $0.00 February Insurance Paid-up
+3/28 $1,451.00 Amount Owed
+4/5 $366.00 From Paycheck 3/31-4/5
+4/5 $1,085.00 Owed as of 4/5
+4/18 $585.00 Paystub 4/14-4/18
+4/18 $500.00 Amount Owed
+4/26 $150.00 Paystub 4/21-4/25
+4/18 $350.00 Amount Owed
+5/3 $350.00 Paystub -5/3
+3/22 $0.00 March Insurance Paid-up
+4/28 $1,451.00 Amount Owed
+5/13 $334.48 Paystub 5/9-5/12
+5/17 $90.00 5/12-5/19
+5/17 $657.00 5/12-5/19
+5/17 $369.52 Owed as of 5/17
+6/6 $369.52 One Call Job Leftover
+3/22 $0.00 April Insurance Paid-up
+5/28 $1,251.00 May Insurance
+6/6 $1,434.23 One Call Job Leftover
+6/6 $183.23 Escrow as of 6/6
+6/28 $1,251.00 June Insurance
+
+================================================================================
+Page 35
+================================================================================
+
+6/6 $183.23 Escrow from May
+6/6 $1,067.77 Amount Owed
+7/10 $950.00
+7/10 $117.77 Amount Owed as of 7/10
+7/12 $394.64 7/10-7/11
+7/12 $276.87 Escrow from June
+8/28 $2,947.00 August Renewal
+8/29 $1,500.00 Little Rich 8/25-8/29
+8/29 $1,196.48 Big Rich 8/25-8/29
+8/29 $250.52 Leftover
+9/3 $1,447.00
+$53.00
+9/28 $1,481.50 Septemeber Insurance
+9/13 $250.00 9/13 paid me insurance via Venmo
+9/13 $1,231.50 Leftover 9/13
+9/26 $742.22 Leftover 9/26
+10/4 $800.00 9/29-10/3 Paystub
+10/4 -$57.78 Escrow Balance
+
