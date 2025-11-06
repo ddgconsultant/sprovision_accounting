@@ -1,0 +1,573 @@
+================================================================================
+Page 1
+================================================================================
+
+Rich - Little
+October
+Date Company Pick-Up Drop-off Load # Amount Date Paid Notes
+10/1/2025 RPM Tulsa OKC 31594-20217 $130.00
+10/1/2025 RPM Tulsa OKC 31582-17506 $175.00
+10/1/2025 Ready Tulsa OKC 10473964273 $130.00
+10/1/2025 United Edmond OKC 84532072 $75.00
+10/1/2025 United OKC OKC 84532068 $75.00
+10/2/2025 RPM OKC OKC 31565-16521 $90.00
+10/1/2025 Auction Direct OKC Tulsa 227378 $300.00
+10/2/2025 CarsArrive Edmond Claremore 21162660 $205.00
+10/3/2025 United OKC Broken Arrow 84570434 $124.84
+10/1/2025 CarsArrive Midwest Tulsa 21153023 $175.00
+10/1/2025 RPM OKC Tulsa 31544-10482 $390.00
+10/6/2025 Acertus Moore Norman 14935725 $150.00
+10/6/2025 Acertus Moore OKC 14934141 $100.00
+10/6/2025 RPM OKC Tulsa 31561-61121 $200.00
+10/6/2025 Acertus Moore Tulsa 14935327 $170.00
+10/6/2025 RPM Tulsa OKC 31506-87785 $342.00
+10/8/2025 RPM Tulsa Norman 31565-43419 $130.00
+10/8/2025 RPM OKC Norman 31520-08615 $75.00
+10/8/2025 RPM OKC Tulsa 31578-97643 $390.00
+10/9/2025 RPM OKC Tulsa 31526-42527 $260.00
+10/9/2025 Carvana OKC Sapulpa 143968 $135.00
+10/9/2025 RPM Tulsa OKC 31577-18357 $170.00
+10/9/2025 RPM OKC Norman 31548-64811 $225.00 need new rate con
+
+================================================================================
+Page 2
+================================================================================
+
+10/13/2025 Expedited Transport Sapulpa Tulsa NisTul-1710 $100.00
+10/13/2025 L&R Brokers Sapulpa Yukon C17009 $250.00
+10/13/2025 L&R Brokers Sapulpa Yukon B88648 $250.00
+10/14/2025 RCG OKC Tulsa RP82481A $130.00
+10/14/2025 RPM OKC Tulsa 31588-77706 $310.00
+10/15/2025 United Broken Arrow OKC 84730985 $135.00
+10/15/2025 United Tulsa OKC 84705345 $125.00
+10/15/2025 Carvana Tulsa OKC 144630 $125.00
+10/16/2025 Carvana Norman OKC 143704 $108.00
+10/16/2025 Carvana OKC OKC 144474 $93.60
+10/16/2025 Carvana OKC OKC 144341 $120.96
+10/17/2025 CarsArrive OKC Tulsa 21220058 $170.00
+10/17/2025 Ready OKC OKC 10482527870 $101.04
+10/17/2025 Ready OKC OKC 10482546330 $90.24
+10/17/2025 L&R Brokers Sapulpa Yukon 808499 $250.00
+10/20/2025 RCG OKC Tulsa RP82489A $130.00
+10/20/2025 L&R Brokers Yukon Sapulpa EF13799 $250.00
+10/20/2025 CarsArrive Claremore OKC 21232166 $180.00
+10/21/2025 Mab Movers Tulsa OKC 22563269 $200.00 Cash
+10/21/2025 Carvana Tulsa OKC 144839 $120.00
+10/21/2025 Ready Tulsa Tulsa 10485426990 $112.00
+10/22/2025 Ship Your Car Now OKC Tulsa 12992323 $137.00
+10/22/2025 Ship Your Car Now OKC Tulsa 12992400 $150.00
+10/22/2025 Ship Your Car Now OKC Tulsa 12992402 $150.00
+10/23/2025 Carvana Tulsa OKC 146050 $130.00
+10/23/2025 Carvana Tulsa OKC 146070 $240.00
+
+================================================================================
+Page 3
+================================================================================
+
+10/23/2025 Ship Your Car OKC Tulsa 12992646 $150.00
+10/23/2025 Ship Your Car OKC Tulsa 12992403 $150.00
+10/23/2025 Ship Your Car OKC Tulsa 12992401 $150.00
+10/24/2025 RCG Tulsa El Reno 15135055 $170.00
+10/24/2025 RCG Tulsa El Reno 15135019 $170.00
+10/24/2025 RCG Tulsa El Reno 15135053 $170.00
+10/24/2025 Ship Your Car OKC Tulsa 12992645 $150.00
+10/13/2025 Montway OKC Broken Arrow 3034296 $500.00
+10/16/2025 Montway Tulsa OKC 3041359 $125.00
+10/16/2025 Montway OKC Sapulpa 3001026 $250.00
+10/20/2025 Anew Transport Tulsa Tulsa 31463-80467 $400.00 now 3%
+10/24/2025 CarsArrive Midwest Norman 21243372 $105.00
+10/24/2025 RPM OKC Tulsa 31554-89593 $390.00
+10/24/2025 RPM OKC OKC 31577-67546 $176.00
+10/24/2025 RPM OKC OKC 31588-30586 $176.00
+10/25/2025 RPM OKC Tulsa 31529-71101 $390.00
+10/25/2025 RPM Tulsa OKC 31550-37448 $310.00
+10/27/2025 RCG Tulsa El Reno 15140717 $170.00
+10/27/2025 RCG Tulsa El Reno 15134983 $170.00
+10/27/2025 Montway Sapulpa Norman 3055653 $150.00
+10/28/2025 Ready OKC OKC 10487023519 $90.00
+10/28/2025 Ready OKC OKC 10487024592 $90.00
+10/28/2025 RCG OKC Tulsa 15157111 $130.00
+10/28/2025 RCG OKC Tulsa 15157187 $130.00
+
+================================================================================
+Page 4
+================================================================================
+
+10/28/2025 Expedited OKC Tulsa EF-78816 $110.00
+10/29/2025 CarsArrive Tulsa OKC 21272874 $170.00
+10/29/2025 Expedited OKC Tulsa EF-78816D $220.00
+10/30/2025 RCG Tulsa El Reno RP89710A $170.00
+10/30/2025 RCG Tulsa El Reno RP89708A $170.00
+10/30/2025 RCG Tulsa El Reno RP89707A $170.00
+10/30/2025 Expedited OKC Sapulpa EF-79069 $110.00
+10/31/2025 RCG Tulsa El Reno RP90334A $170.00
+10/31/2025 RCG Tulsa El Reno RP89709A $170.00
+10/20/2025 Anew Transport Tulsa Tulsa 31472-97923 $400.00
+10/31/2025 Montway OKC Sapulpa 3058023 $300.00
+10/31/2025 Rite Way Midwest Sapulpa TS-202510-0128726-G $250.00
+
+================================================================================
+Page 5
+================================================================================
+
+Rich - Little
+September
+Date Company Pick-Up Drop-off Load # Amount Date Paid Notes
+8/6/2025 RC Logistics LLC Tulsa Sapulpa F00107R $100.00
+9/2/2025 Nationwide Transport Edmond Tulsa OKTUL $250.00
+9/2/2025 RPM Norman Tulsa 31502-63995 $190.00
+9/2/2025 Nationwide Transport Tulsa Edmond YULOKKAL $250.00
+9/2/2025 BS Auto Logistics Tulsa OKC 784075 $150.00
+9/3/2025 United OKC OKC 84134172 $90.00
+9/3/2025 United OKC OKC 84147747 $80.00
+9/3/2025 United Edmond OKC 84174830 $75.00
+9/3/2025 United Edmond OKC 84174832 $75.00
+9/4/2025 RPM OKC Tulsa 31524-17135 $300.00
+9/4/2025 RPM Norman Tulsa 31567-91578 $196.00
+9/4/2025 RPM Tulsa OKC 31599-58243 $430.00
+9/4/2025 RPM OKC Norman 31560-53386 $263.00 no POD
+9/5/2025 CarsArrive Edmond Broken Arrow 21040964 $170.00
+9/5/2025 Ship Guy Logistics Tulsa OKC 30527503-XL $225.00 Cash
+9/5/2025 United Broken Arrow OKC 84209453 $112.91
+9/5/2025 Montway Tulsa Edmond 2976542 $180.00
+9/5/2025 RPM OKC OKC 31530-78113 $177.00
+9/6/2025 RPM OKC OKC 31526-74624 $347.00
+9/6/2025 RPM OKC OKC 31521-98241 $176.00
+9/6/2025 United OKC OKC 84200734 $77.00
+9/6/2025 United OKC OKC 84202446 $160.00
+9/9/2025 Payless OKC Sapulpa PJ82164 $250.00
+
+================================================================================
+Page 6
+================================================================================
+
+9/9/2025 CarsArrive Edmond Broken Arrow 21061996 $165.00
+9/9/2025 Central Sapulpa OKC 10461287697 $120.00 f
+9/9/2025 CarsArrive Broken Arrow Edmond 21064087 $185.00
+9/11/2025 RPM OKC OKC 138219 $138.24
+9/11/2025 RPM OKC OKC 31577-29178 $176.00
+9/11/2025 RPM OKC OKC 31540-10524 $90.00
+9/11/2025 RPM OKC Norman 31559-83823 $263.00
+9/12/2025 CarsArrive OKC Tulsa 21076074 $185.00
+9/12/2025 CarsArrive Edmond Broken Arrow 21080452 $185.00
+9/12/2025 CarsArrive OKC Broken Arrow 21075323 $175.00
+9/12/2025 Carvana Sapulpa OKC 139011 $210.00
+9/12/2025 Ready Sapulpa OKC 10464036709 $150.00
+9/15/2025 A&M AutoMall Moore Tulsa 7931684 $150.00
+9/15/2025 A&M Garage Repair OKC Tulsa NisTul-6924 $250.00
+9/16/2025 CarsArrive Edmond Tulsa 21096421 $175.00
+9/17/2025 RPM Tulsa OKC 31548-23318 $400.00
+9/17/2025 RPM OKC OKC 31571-56975 $176.00
+9/17/2025 RPM OKC Norman 31560-10255 $225.00
+9/18/2025 RPM OKC OKC 31547-79049 $262.00
+9/18/2025 RPM OKC Norman 31584-82010 $225.00
+9/18/2025 RPM OKC OKC 31563-46249 $95.00
+9/19/2025 RCG OKC El Reno RP65635A $100.00
+9/19/2025 RCG OKC El Reno RP62482A $100.00
+9/19/2025 RPM OKC Tulsa 31513-06016 $260.00
+9/19/2025 RPM Tulsa OKC 31579-69492 $390.00
+9/16/2025 RPM OKC Tulsa 31544-93458 $155.00
+
+================================================================================
+Page 7
+================================================================================
+
+9/19/2025 RPM Tulsa OKC 31579-69492 $390.00
+9/20/2025 CarsArrive Norman Tulsa 21105535 $205.00
+9/20/2025 RPM Tulsa OKC 31542-28842 $260.00
+9/20/2025 RPM OKC Tulsa 31552-55387 $240.00
+9/20/2025 RPM Tulsa OKC 31588-40716 $120.00
+9/19/2025 RPM Norman Tulsa 31570-89321 $175.00
+9/23/2025 RPM OKC Tulsa 31533-94943 $240.00
+9/23/2025 CarsArrive OKC Tulsa 21117961 $190.00
+9/23/2025 Ready Sapulpa OKC 10468951178 $140.00
+9/23/2025 Green Freight Tulsa OKC 74107 $175.00
+9/24/2025 Expedited OKC Tulsa EF-75093 $345.00
+9/24/2025 United Broken Arrow OKC 84466920 $125.00
+9/24/2025 Carvana Sapulpa OKC 140721 $110.00
+9/24/2025 United Edmond OKC 84466921 $80.00
+9/25/2025 RPM Norman Tulsa 31563-78722 $150.00
+9/25/2025 RPM Tulsa OKC 31508-90343 $189.00
+9/25/2025 RPM OKC Tulsa 31545-73115 $175.00
+9/25/2025 RPM Tulsa OKC 31573-02155 $280.00
+9/25/2025 RPM OKC Tulsa 31550-27109 $309.00
+9/26/2025 RPM Tulsa OKC 31556-30754 $463.00
+9/29/2025 RPM OKC OKC 31512-36330 $550.00
+9/29/2025 RPM OKC Norman 31557-07573 $75.00
+9/29/2025 RPM OKC OKC 31562-50455 $75.00
+9/30/2025 Carvana OKC OKC 140979 $80.00
+9/22/2025 RPM OKC Tulsa 31544-45086 $240.00 ?? the rate con doesn't match the cars he took
+9/23/2025 RPM Tulsa Tulsa 31528-90999 $75.00 31522-73802 - DRF
+
+================================================================================
+Page 8
+================================================================================
+
+9/20/2025 RPM OKC OKC 31555-85667 $225.00
+9/22/2025 RPM Norman Tulsa 31504-72055 $150.00
+9/29/2025 RPM OKC Norman 31567-82066 $150.00
+9/29/2025 RPM OKC OKC 31594-28224 $225.00
+9/30/2025 RPM OKC Tulsa 31506-07203 $390.00
+9/23/2025 BS Auto Logistics Tulsa Edmond 784989 $200.00
+9/16/2025 Montway Tulsa OKC 2994487 $180.00
+
+================================================================================
+Page 9
+================================================================================
+
+August
+Date Company Pick-Up Drop-off Load # Amount Date Paid Notes
+8/1/2025 Legends Auto Sales Sapulpa OKC OKWT tulsa $200.00 Check
+8/1/2025 CarsArrive Tulsa OKC 20915198 $175.00
+8/4/2025 Expedited OKC Tulsa EF-69271 $125.00
+8/4/2025 United OKC Tulsa 83755201 $150.00
+8/4/2025 United OKC Tulsa 83755171 $150.00
+8/5/2025 Sakaem Logistics Tulsa Edmond 36141192 $250.00 Cash
+8/5/2025 Carvana OKC OKC 130908 $100.80
+8/5/2025 Carvana OKC OKC 131175 $96.00
+8/5/2025 Carvana Sapulpa OKC 131176 $172.80
+8/7/2025 CarsArrive OKC Broken Arrow 20942199 $180.00
+8/7/2025 United OKC Broken Arrow 83829674 $275.00
+8/7/2025 CarsArrive Claremore OKC 20937743 $200.00
+8/6/2025 RPM OKC Tulsa 31540-48280 $345.00
+8/8/2025 RPM Tulsa Norman 31591-00508 $190.00
+8/8/2025 RPM Norman Tulsa 31510-34970 $125.00
+8/8/2025 CarsArrive Edmond Haskell 20942281 $205.00
+8/9/2025 CarsArrive Norman Tulsa 20952928 $190.00
+8/11/2025 United OKC Tulsa 83867925 $338.19
+8/11/2025 RPM Tulsa OKC 31516-15445 $375.00
+8/11/2025 Carvana Tulsa OKC 131947 $259.00
+8/11/2025 Carvana Sapulpa OKC 132424 $110.00
+8/12/2025 United OKC Tulsa 83874162 $313.67
+8/12/2025 RPM Tulsa OKC 31545-60501 $375.00
+
+================================================================================
+Page 10
+================================================================================
+
+8/12/2025 RPM OKC Norman 31573-97487 $225.00
+8/12/2025 RPM OKC OKC 31503-75968 $75.00
+8/7/2025 Anew Transport Tulsa OKC 31464-33935 $200.00
+8/8/2025 Anew Transport Tulsa OKC 31448-64178 $225.00
+8/11/2025 Carvana Tulsa OKC 131947 $259.00
+8/11/2025 Carvana Sapulpa OKC 132424 $110.00
+8/12/2025 RPM OKC Norman 31581-37954 $75.00
+8/13/2025 Montway OKC Tulsa 219069 $175.00
+8/13/2025 Interstate Brokers OKC Sapulpa F8254903 $150.00
+8/13/2025 Acertus Moore Tulsa 14296751 $200.00
+8/13/2025 CarsArrive Tulsa Norman 20953950 $185.00
+8/13/2025 CarsArrive Tulsa Norman 20955781 $205.00
+8/13/2025 Chaco's Auto Sales Tulsa OKC 0611 $190.00
+8/14/2025 United OKC Tulsa 83897027 $341.92
+8/14/2025 Ready Claremore Norman 10448378333 $160.00 8/16?
+8/14/2025 Chaco's Auto Sales Glenpool OKC 6638 $190.00
+8/14/2025 Chaco's Auto Sales Tulsa OKC 8565 $150.00
+8/15/2025 Acertus Moore Tulsa 14332027 $160.00
+8/15/2025 One Call Logistics Catoosa Sand Springs JARB918 $400.00
+8/15/2025 CarsArrive Tulsa Norman 20970268 $180.00
+8/18/2025 Anew Transport Edmond OKC 31409-55437 DRF
+8/18/2025 Expedited OKC Tulsa EF-71165D $330.00
+8/18/2025 RPM Tulsa Norman 31531-26262 $390.00
+8/19/2025 CarsArrive Edmond Tulsa 20979887 $145.00
+8/19/2025 RPM OKC Tulsa 31552-25485 $250.00
+
+================================================================================
+Page 11
+================================================================================
+
+8/19/2025 RPM Tulsa OKC 31532-02093 $375.00
+8/20/2025 Acertus Moore Yukon 14338399 $125.00
+8/20/2025 Acertus OKC OKC 14394067 $115.00
+8/20/2025 Acertus Moore Guthrie 14338383 $125.00
+8/20/2025 Acertus Moore Stillwater 14332179 $250.00
+8/15/2025 RPM Tulsa Norman 31584-21850 $150.00
+8/21/2025 CarsArrive Norman Tulsa 20980556 $140.00
+8/21/2025 RPM Tulsa Norman 31505-44178 $260.00
+8/25/2025 Expedited OKC Tulsa EF-71514 $345.00
+8/25/2025 RPM Tulsa Norman 31511-07657 $190.00 f
+8/25/2025 RPM Tulsa Norman 31516-60990 $350.00
+8/26/2025 RPM OKC Norman 31582-22724 $263.00
+8/26/2025 RPM OKC Norman 31519-81770 $105.00
+8/26/2025 RPM Norman OKC 31591-86213 $100.00
+8/27/2025 CarsArrive Edmond Tulsa 21016834 $170.00
+8/27/2025 CarsArrive Edmond Tulsa 21015920 $185.00
+8/27/2025 Expedited OKC Tulsa EF-72127 $115.00
+8/27/2025 RPM Tulsa OKC 31547-86879 $400.00
+8/28/2025 RPM OKC Norman 31536-89073 $92.00
+8/28/2025 RPM OKC OKC 31510-97060 $262.00
+8/28/2025 RPM Norman OKC 31576-04591 $375.00
+8/28/2025 RPM OKC Norman 31531-13602 $335.00
+8/21/2025 RPM Norman Tulsa 31577-69431 $140.00
+8/21/2025 RPM Norman Tulsa 31522-65410 $130.00
+
+================================================================================
+Page 12
+================================================================================
+
+8/14/2025 RC Logistics LLC Tulsa Sapulpa 077465S $150.00
+
+================================================================================
+Page 13
+================================================================================
+
+July
+Date Company Pick-Up Drop-off Load # Amount Date Paid Notes
+7/9/2025 United OKC OKC 83411118 $325.00
+7/10/2025 United OKC OKC 83411117 $325.00
+7/11/2025 Expedited Yukon Sapulpa SGLB-3590-NBA27494 $125.00
+7/11/2025 CarsArrive OKC Tulsa 20803502 $160.00
+7/11/2025 Competition Auto Norman Tulsa 6783011 $150.00
+7/11/2025 Carvana Sapulpa PLC 126613 $330.00
+7/14/2025 United OKC OKC 83339322 $118.12
+7/14/2025 United OKC Guthrie 83498353 $134.11
+7/14/2025 United Norman OKC 83504709 $170.00
+7/14/2025 Ready OKC OKC 10432640195 $85.00 7/15?
+7/17/2025 Expedited OKC Tulsa EF-67522 $375.00
+7/17/2025 Carvana Tulsa OKC 127923 $110.00
+7/18/2025 Expedited OKC Tulsa EF-67522D $300.00
+7/18/2025 CarsArrive Glenpool OKC 20864382 $160.00
+7/18/2025 Carvana Tulsa OKC 128247 $132.00
+7/18/2025 Corsia Logistics Bixby OKC 403954 $300.00
+7/18/2025 United Tulsa Norman 83555398 $110.00
+7/22/2025 Carvana Jenks Tulsa 128646 $120.00
+7/22/2025 United OKC Tulsa 83594329 $312.02
+7/22/2025 United Tulsa Norman 83594964 $375.00
+7/24/2025 Expedited OKC Tulsa EF-67783D $125.00
+7/24/2025 CarsArrive OKC Broken Arrow 20885550 $180.00
+7/24/2025 A&M Automall OKC Tulsa 7028703 $150.00 Check
+7/24/2025 Carvana OKC OKC 128918 $80.00
+
+================================================================================
+Page 14
+================================================================================
+
+7/25/2025 United OKC Tulsa 83642707 $600.00
+7/25/2025 United OKC Tulsa 83646427 $600.00
+7/26/2025 United OKC Tulsa 83642708 $600.00
+7/26/2025 United Tulsa OKC 83656668 $100.00
+7/28/2025 We Will Transport It Morrison OKC 21701437 $300.00 Zelle
+7/28/2025 Anew Transport OKC Guthrie 31436-06018 $150.00
+7/28/2025 CarsArrive Edmond OKC 20902003 $105.00
+7/28/2025 United OKC OKC 83672587 $80.00
+7/28/2025 United OKC Norman 83689069 $200.00
+7/28/2025 United OKC Norman 83689071 $200.00
+7/29/2025 United Midwest OKC 83317733 $125.00
+7/29/2025 United Norman OKC 83704513 $80.00
+7/30/2025 United OKC Tinker AFB 83718835 $225.00
+7/30/2025 American Lenders OKC Tulsa 7131403 $250.00 Check mailed to me
+7/31/2025 Expedited OKC Tulsa EF-69274 $375.00
+7/31/2025 Carvana Sapulpa OKC 130438 $120.00
+7/31/2025 Carvana Tulsa OKC 129816 $132.00
+
+================================================================================
+Page 15
+================================================================================
+
+April-July
+Date Company Pick-Up Drop-off Load # Amount Date Paid Notes
+4/2/2025 Empire RV & Marine TX TX LONGHORN $400.00
+4/4/2025 Beeline TX AZ 20401105 $1,900.00
+4/5/2025 Beeline NM AZ 20393114 $1,200.00
+4/17/2025 LynJones AR OK 20564708 $800.00
+4/18/2025 Green Country OK OK COPART $400.00 ??
+4/18/2025 LTS OK AR 30420617LT $400.00
+4/26/2025 Monarch NV CO 20709406 $1,000.00
+4/30/2025 Empire RV & Marine CO TX DRV $1,500.00
+5/9/2025 Movewheels OK CA 5450315 $1,950.00
+35661424 / 6263
+5/15/2025 Nationwide United LA NV Gooseneck Camper $3,000.00
+6/3/2025 CNC Motors WA OR 2019 Forest 5th Wheel $400.00
+6/6/2025 We Will Transport It CO CO 21167508 $320.00
+6/7/2025 Empire RV & Marine CO TX Jayco $1,800.00
+6/9/2025 South Bay TX CA 326062 $2,150.00
+6/12/2025 Simple Car Shipping TX TC 21188724 $1,050.00
+6/24/2025 One Call OK OK PCRV-004257 $400.00 10.00 $390.00
+6/25/2025 One Call OK OK PCRV-781153 $400.00 10.00 $390.00
+6/26/2025 One Call OK OK PCRV-106299 $400.00 10.00 $390.00
+7/3/2025 Ready OKC Tulsa 10427292525 $182.00 7/4??
+7/11/2025 United OK OK 83268903 $255.00 1.75 $253.25
+7/11/2025 CarsArrive Tulsa Piedmont 20802049 $170.00
+
+================================================================================
+Page 16
+================================================================================
+
+7/11/2025 CarsArrive OKC Tulsa 20803608 $150.00
+$20,195.25
+$3,029.29
+$2,634.29
+6/23-6/27 Pay $219.00
+Leftover from 6/27 $2,415.29
+7/1-7/4 Pay $429.76
+Leftover from 7/14 $1,985.53
+7/7-7/11 Pay $677.11
+Leftover from 7/11 $1,308.42
+7/14 $677.11
+Leftover from 7/14 $631.31
+7/28 $631.31
+All paid up 7/28 $0.00
+
+================================================================================
+Page 17
+================================================================================
+
+March
+Date Company Pick-Up Drop-off Load # Amount Date Paid Notes
+3/4/2025 Express 4x4 OKC OKC ETR12151 $100.00 3/10
+3/4/2025 Express 4x4 OKC OKC ETR12150 $100.00 3/10
+3/4/2025 Express 4x4 Norman OKC ETR12149 $150.00 3/10
+3/4/2025 CarsArrive Norman OKC 20358538 $95.00 3/10
+3/5/2025 Ready El Reno OKC 10366787452 $165.00 3/6 208.15 - 3/11
+3/5/2025 CarsArrive Norman OKC 20387444 $95.00 3/10
+3/5/2025 CarsArrive Edmond OKC 20358539 $90.00
+3/5/2025 Verily OKC OKC LP106050 $200.00 3/10
+3/6/2025 Nationwide United Sawyer Moore 101335 / 6185 $700.00 3/7
+3/6/2025 United OKC Yukon 81565655 $166.66 3/12
+3/7/2025 ACV Norman OKC 98427340 $90.00
+3/7/2025 United OKC OKC 81579850 $140.00
+3/7/2025 ACV Midwest OKC 30939364 $85.00
+3/8/2025 United OKC Cushing 81156126 $175.00
+3/8/2025 Carvana Wellston OKC 102915 $155.52
+3/8/2025 United OKC OKC 81617623 $140.00
+3/10/2025 Ready Norman Tulsa 10366126559 $208.15 3/11?
+3/10/2025 Expedited OKC Tulsa EF-56625 $300.00
+3/10/2025 Carvana Sapulpa OKC 103418 $240.00
+3/11/2025 Express 4x4 OKC Sapulpa ETR12313 $125.00
+3/11/2025 Broadreach OKC Tulsa 30285 $175.00
+3/11/2025 ACV OKC Tulsa 43101461 $165.00
+
+================================================================================
+Page 18
+================================================================================
+
+3/11/2025 KB Freight Tulsa Norman LF240007B $115.00
+3/11/2025 CarsArrive Tulsa OKC 20400966 $160.00
+3/11/2025 Redline Motorsports Sapulpa OKC 4634542 $150.00
+3/12/2025 United OKC OKC 81672882 $75.00
+3/12/2025 United Midwest OKC 81620672 $80.00
+3/12/2025 United Edmond OKC 81654549 $75.00
+3/12/2025 Carvana OKC OKC 103839 $90.00
+3/13/2025 Expedited OKC Tulsa EF-57074 $375.00 3/19
+3/13/2025 Anew Tansport Broken Arrow OKC 31451-02855 $275.00
+3/13/2025 Anew Tansport Sapulpa OKC 31488-38024 $115.00
+3/14/2025 Ready OKC OKC 10371705745 $73.98 5/15?
+3/14/2025 Ready OKC OKC 10371705786 $73.98 5/15?
+3/14/2025 United OKC OKC 81672882 $75.00
+3/14/2025 United OKC OKC 81654549 $75.00
+3/14/2025 United OKC OKC 81620672 $80.00
+3/14/2025 CarShipCentral OKC OKC 5385695 $300.00
+3/17/2025 ACV OKC Tulsa 48109082 $175.00
+3/17/2025 CarsArrive Edmond Tulsa 20418730 $160.00 3/27
+3/17/2025 CarsArrive Midwest Tulsa 20415056 $145.00 3/27
+3/17/2025 Central Tulsa OKC 10371950289 $135.00
+3/17/2025 Direct Connect Tulsa Salpulpa 5667977 $125.00 3/20
+3/17/2025 Xpress Auto Tulsa OKC 30562947-XT $175.00
+3/18/2025 CarsArrive OKC OKC 20389496 $100.00 3/27
+
+================================================================================
+Page 19
+================================================================================
+
+3/18/2025 CarsArrive OKC OKC 20433982 $75.00 3/27
+3/18/2025 Central OKC OKC 10372490581 $75.00
+3/18/2025 Carvana OKC OKC 104641 $180.00
+3/19/2025 Acertus OKC OKC 12583881 $150.00
+3/19/2025 Verily OKC OKC LP106402 $150.00
+3/20/2025 Logi Transports Tishomingo Okmulgee 20243518 $300.00
+3/20/2025 Verily OKC OKC LP106496 $200.00
+3/20/2025 Verily OKC OKC VS914479DNI $200.00
+3/21/2025 CarsArrive Midwest Tulsa 20443033 $135.00 3/27
+3/21/2025 CarsArrive Edmond Tulsa 20443177 $160.00 3/27
+3/21/2025 CarsArrive Broken Arrow Tulsa 20436147 $105.00 3/27
+3/21/2025 CarsArrive Broken Arrow Tulsa 20436148 $105.00 3/27
+3/25 One Call Oklahoma Nevada ENRVC-SK $1,900.00 3/27
+3/27 Monarch Nevada Washington 35453069 $850.00
+3/29 Preowned Idaho Colorado 627908 $753.00 4/4
+3/31 RCG Washington Colorado RN19213A $1,400.00 4/4
+
+================================================================================
+Page 20
+================================================================================
+
+February
+Date Company Pick-Up Drop-off Load # Date Paid
+2/2/2025 United OKC Weatherford 81111938 2/5
+2/3/2025 CarsArrive Elk City Tulsa 20266466 2/6
+2/3/2025 CarsArrive OKC Ft. Gibson 20282992 2/6
+2/3/2025 Carvana OKC OKC 97493 2/6
+2/4/2025 Carvana Sapulpa OKC 97747 2/10
+2/4/2025 KB Freight Tulsa OKC F240561Z 2/7
+2/4/2025 No Limit Stillwater OKC Ok 2020 2/13
+2/5/2025 Flexco Edmond Owasso QN-11528 2/10
+2/5/2025 Ready OKC Tulsa 10351893440 2/6
+2/5/2025 Preowned Yukon Sapulpa 615535 2/10
+2/5/2025 KB Freight Tulsa Norman PXT00376 2/13
+2/5/2025 Direct Connect Tulsa Sapulpa 5666826 2/18
+2/6/2025 Progressive Bethany OKC 3997255 2/18 printed check
+2/6/2025 Carvana OKC OKC 98170 2/10
+2/6/2025 Carvana OKC OKC 98460 2/10
+2/6/2025 Ready OKC OKC 10351923259 2/7
+2/6/2025 Ready OKC OKC 10351923151 2/7
+2/6/2025 United OKC OKC 81161017 2/13
+2/7/2025 BS Auto Tulsa OKC 773526 waiting on payment
+2/10/2025 CarsArrive Guthrie OKC 20256703 2/13
+2/10/2025 Ready Okarche Norman 10354092906 2/12
+2/10/2025 Carvana Okarche Norman 98966 2/13
+
+================================================================================
+Page 21
+================================================================================
+
+2/10/2025 Ready OKC Norman 10353583548 2/12
+2/11/2025 United OKC Guthrie 81212361 2/20
+2/11/2025 CarsArrive OKC Tulsa 20263311 2/20
+2/11/2025 CarsArrive OKC Tulsa 20268537 2/20
+2/11/2025 Carvana Sapulpa OKC 98967 2/13
+2/12/2025 United OKC Tulsa 80905744 2/20
+2/12/2025 United OKC Tulsa 80918916 2/20
+2/13/2025 Overseas Tulsa OKC Tulsa -> OKC 2/14
+2/13/2025 Carvana OKC OKC 99188
+2/13/2025 Hais Global OKC OKC JM2024
+2/13/2025 United OKC Tulsa 81274621 2/20
+2/14/2025 United Norman OKC 81277498 2/20
+2/14/2025 United Edmond OKC 81251185 2/20
+2/14/2025 United OKC OKC 81264845 2/20
+2/15/2025 United OKC OKC 81268857 2/20
+2/15/2025 United OKC OKC 81268860 2/20
+2/17/2025 One Call Sapulpa Shawnee PCRV-96958 2/20
+2/20/2025 Ready OKC Owasso 10360228011 2/22?
+2/20/2025 Quick Auto OKC Tulsa A-257
+2/20/2025 CarsArrive Tulsa Moore 20339857 2/26
+2/20/2025 L&R Brokers Tulsa Yukon E46965
+2/21/2025 Progressive OKC OKC 4279216
+2/21/2025 CarsArrive OKC OKC 20348562 2/26
+
+================================================================================
+Page 22
+================================================================================
+
+2/21/2025 United Norman OKC 81324226 2/25
+2/21/2025 United Midwest City OKC 81392223 2/25
+
+================================================================================
+Page 23
+================================================================================
+
+January
+Wednesday 1/1 Thursday 1/2 Friday 1/3
+Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid
+Monday 1/6 Tuesday 1/7 Wednesday 1/8 Thursday 1/9 Friday 1/10
+Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid
+Monday 1/13 Tuesday 1/14 Wednesday 1/15 Thursday 1/16 Friday 1/17
+Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid
+Monday 1/20 Tuesday 1/21 Wednesday 1/22 Thursday 1/23 Friday 1/24
+Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid
+Express 4x4 Purcell OKC ETR10641 Anew Cushing Tulsa 31467-75026 Ready OKC OKC 10345016671 1/24? United OKC OKC 80485828
+Ready Sapulpa Tulsa 10344520336 1/23? Carvana OKC OKC 95880 United Chandler OKC 80976893
+Forsee Tulsa OKC 19640647 / HK
+Monday 1/27 Tuesday 1/28 Wednesday 1/29 Thursday 1/30 Friday 1/31
+Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid
+United OKC Cushing 80438271 One Call Sapulpa Shawnee PCRV-301491 Express 4x4 Okarche OKC ETR10800
+Carvana Cushing OKC 96611 Total Transport OKC Galvenston 19786774
+Ready OKC OKC 10346959893 1/29?
+

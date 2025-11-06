@@ -1,0 +1,923 @@
+================================================================================
+Page 1
+================================================================================
+
+Tony
+November
+Date Company Pick-Up Drop-off Load # Amount Date Paid Notes
+11/3/2025 RCG Littleton Bennett RP94427A $75.00
+11/3/2025 RCG Littleton Bennett RP94425A $75.00
+11/3/2025 RCG Littleton Bennett RP94458A $75.00
+11/3/2025 RCG Brighton Bennett RP94545A $105.00
+11/3/2025 RCG Brighton Bennett RP94850A $75.00
+11/3/2025 RCG Brighton Bennett RP94932A $75.00
+11/3/2025 Ready Brighton Aurora 10489025554 $100.00
+11/3/2025 Ready Henderson Aurora 10489292992 $100.00
+11/4/2025 RCG Littleton Bennett RP94576A $75.00
+11/4/2025 RCG Littleton Bennett RP94429A $75.00
+11/4/2025 RCG Littleton Bennett RP94430A $75.00
+11/4/2025 RCG Littleton Bennett RP94428A $75.00
+11/4/2025 RCG Littleton Bennett RP94426A $75.00
+11/4/2025 RCG Littleton Bennett RP94654A $75.00
+11/4/2025 RCG Brighton Bennett RP94586A $75.00
+11/4/2025 RCG Brighton Bennett RP94847A $75.00
+11/4/2025 RCG Brighton Bennett RP94732A $75.00
+11/5/2025 RCG Littleton Bennett RP94655A $75.00
+11/5/2025 RCG Littleton Bennett RP89839A $118.00
+11/5/2025 RCG Littleton Bennett RP89841A $75.00
+
+================================================================================
+Page 2
+================================================================================
+
+Tony
+October
+Date Company Pick-Up Drop-off Load # Amount Date Paid Notes
+10/1/2025 RCG Littleton Bennett RP74202A
+10/1/2025 RCG Littleton Bennett RP74191A
+10/1/2025 RCG Littleton Bennett RP74186A
+10/1/2025 RCG Littleton Bennett RP74198A
+10/1/2025 RCG Littleton Bennett RP74196A
+10/1/2025 RCG Littleton Bennett RP74181A
+10/1/2025 RCG Brighton Bennett RP72440A
+10/1/2025 RCG Brighton Bennett RP72446A
+10/1/2025 RCG Brighton Bennett RP72445A
+10/2/2025 RCG Littleton Bennett RP74197A
+10/2/2025 RCG Littleton Bennett RP74182A
+10/2/2025 RCG Littleton Bennett RP74193A
+10/2/2025 RCG Littleton Bennett RP74190A
+10/2/2025 RCG Littleton Bennett RP74188A
+10/2/2025 RCG Littleton Bennett RP74184A
+10/2/2025 RCG Brighton Bennett RP72442A
+10/2/2025 RCG Brighton Bennett RP75584A
+10/2/2025 RCG Brighton Bennett RP74959A
+10/2/2025 Ready Northglenn Aurora 10473296386
+10/2/2025 Ready Northglenn Aurora 10473296417
+10/2/2025 Ready Erie Aurora 10472096954
+10/6/2025 RCG Littleton Bennett RP74201A
+10/6/2025 RCG Littleton Bennett RP74199A
+
+================================================================================
+Page 3
+================================================================================
+
+10/6/2025 RCG Littleton Bennett RP74200A
+10/6/2025 RCG Littleton Bennett RP74192A
+10/6/2025 RCG Littleton Bennett RP74189A
+10/6/2025 RCG Littleton Bennett RP74187A
+10/6/2025 RCG Brighton Bennett RP74957A
+10/6/2025 RCG Brighton Bennett RP74961A
+10/6/2025 RCG Brighton Bennett RP74964A
+10/9/2025 RCG Brighton Bennett RP74960A
+10/9/2025 RCG Brighton Bennett RP74956A
+10/9/2025 RCG Brighton Bennett RP74951A
+10/9/2025 RCG Littleton Bennett RP74183A
+10/9/2025 RCG Littleton Bennett RP74180A
+10/9/2025 RCG Littleton Bennett RP74185A
+10/9/2025 RCG Brighton Bennett RP74954A
+10/9/2025 RCG Brighton Bennett RP74963A
+10/9/2025 RCG Brighton Bennett RP77589A
+10/10/2025 RCG Littleton Bennett RP79268A
+10/10/2025 RCG Littleton Bennett RP79273A
+10/10/2025 RCG Littleton Bennett RP79263A
+10/10/2025 RCG Littleton Bennett RP79272A
+10/10/2025 RCG Littleton Bennett RP79261A
+10/10/2025 RCG Littleton Bennett RP79262A
+10/13/2025 RCG Littleton Bennett RP79269A
+10/13/2025 RCG Littleton Bennett RP79267A
+10/13/2025 RCG Littleton Bennett RP79266A
+10/13/2025 RCG Littleton Bennett RP79274A
+10/13/2025 RCG Littleton Bennett RP79271A
+
+================================================================================
+Page 4
+================================================================================
+
+10/13/2025 RCG Littleton Bennett RP79264A
+10/13/2025 Ready Denver Aurora
+10/13/2025 Ready Denver Aurora
+10/13/2025 Ready Denver Aurora
+10/14/2025 RCG Brighton Bennett RP81633A
+10/14/2025 RCG Brighton Bennett RP80199A
+10/14/2025 RCG Brighton Bennett RP80198A
+10/14/2025 RCG Brighton Bennett RP80202A
+10/14/2025 RCG Brighton Bennett RP80200A
+10/14/2025 RCG Brighton Bennett RP80201A
+10/14/2025 RCG Brighton Bennett RP80203A
+10/14/2025 RCG Brighton Bennett RP77591A
+10/14/2025 RCG Brighton Bennett RP77590A
+10/15/2025 RCG Littleton Bennett RP81638A
+10/15/2025 RCG Littleton Bennett RP81637A
+10/15/2025 RCG Littleton Bennett RP81640A
+10/15/2025 RCG Littleton Bennett RP81634A
+10/15/2025 RCG Littleton Bennett RP81635A
+10/15/2025 RCG Littleton Bennett RP81639A
+10/15/2025 RCG Brighton Bennett RP77585A
+10/15/2025 RCG Brighton Bennett RP82783A
+10/15/2025 RCG Brighton Bennett RP82781A
+10/16/2025 RCG Littleton Bennett RP82138A
+10/16/2025 RCG Littleton Bennett RP81636A
+10/16/2025 RCG Littleton Bennett RP81641A
+10/16/2025 RCG Brighton Bennett RP82787A
+10/16/2025 RCG Brighton Bennett RP82784A
+
+================================================================================
+Page 5
+================================================================================
+
+10/16/2025 RCG Brighton Bennett RP82790A
+10/16/2025 RCG Brighton Bennett RP82785A
+10/16/2025 RCG Brighton Bennett RP82782A
+10/16/2025 RCG Brighton Bennett RP82788A
+10/17/2025 RCG Littleton Bennett RP84379A
+10/17/2025 RCG Littleton Bennett RP84380A
+10/17/2025 RCG Littleton Bennett RP84378A
+10/17/2025 RCG Brighton Bennett RP82789A
+10/17/2025 RCG Brighton Bennett RP82786A
+10/17/2025 RCG Brighton Bennett RP83334A
+10/17/2025 RCG Brighton Bennett RP85126A $75.00
+10/17/2025 RCG Brighton Bennett RP85125A $75.00
+10/17/2025 RCG Brighton Bennett RP87122A $75.00
+10/21/2025 RCG Littleton Bennett RP86204A
+10/21/2025 RCG Littleton Bennett RP86205A
+10/21/2025 RCG Littleton Bennett RP87064A
+10/21/2025 RCG Brighton Bennett RP87123A
+10/21/2025 RCG Brighton Bennett RP87121A
+10/21/2025 RCG Brighton Bennett RP87125A
+10/21/2025 RCG Brighton Bennett RP87124A
+10/21/2025 RCG Brighton Bennett RP88078A
+10/21/2025 RCG Brighton Bennett RP88076A
+
+================================================================================
+Page 6
+================================================================================
+
+Tony
+September
+Date Company Pick-Up Drop-off Load # Amount Date Paid Notes
+9/2/2025 RCG Brighton Bennett RP50923A
+9/2/2025 RCG Brighton Bennett RP50924A
+9/2/2025 RCG Brighton Bennett RP52265A
+9/2/2025 RCG Brighton Bennett RP52327A
+9/2/2025 RCG Brighton Bennett RP52888A
+9/2/2025 RCG Brighton Bennett RP52850A
+9/2/2025 RCG Brighton Bennett RP53588A
+9/2/2025 RCG Brighton Bennett RP52328A
+9/2/2025 RCG Brighton Bennett RP53667A
+9/3/2025 RCG Brighton Bennett RP53666A
+9/3/2025 RCG Brighton Bennett RP53665A
+9/3/2025 RCG Brighton Bennett RP55891A
+9/4/2025 RCG Brighton Bennett RP55887A
+9/4/2025 RCG Brighton Bennett RP55886A
+9/4/2025 RCG Brighton Bennett RP55890A
+
+================================================================================
+Page 7
+================================================================================
+
+9/5/2025 RCG Brighton Bennett RP55885A
+9/5/2025 RCG Brighton Bennett RP55892A
+9/5/2025 RCG Brighton Bennett RP55888A
+9/5/2025 RCG Brighton Bennett RP55889A
+9/5/2025 RCG Brighton Bennett RP55882A
+9/5/2025 RCG Brighton Bennett RP55883A
+9/5/2025 RCG Brighton Bennett RP55884A
+9/8/2025 RCG Brighton Bennett RP57666A
+9/8/2025 RCG Brighton Bennett RP58356A
+9/8/2025 RCG Brighton Bennett RP56419A
+9/8/2025 RCG Brighton Bennett RP56420A
+9/8/2025 RCG Brighton Bennett RP58355A
+9/11/2025 RCG Brighton Bennett RP60507A
+9/11/2025 RCG Brighton Bennett RP60504A
+9/11/2025 RCG Brighton Bennett RP60508A
+9/11/2025 RCG Brighton Bennett RP60505A
+9/11/2025 RCG Brighton Bennett RP61111A
+9/11/2025 RCG Brighton Bennett RP60509A
+9/11/2025 RCG Brighton Bennett RP60510A
+
+================================================================================
+Page 8
+================================================================================
+
+9/11/2025 RCG Brighton Bennett RP60502A
+9/12/2025 RCG Brighton Bennett RP60500A
+9/12/2025 RCG Brighton Bennett RP60506A
+9/12/2025 RCG Brighton Bennett RP60511A
+9/12/2025 RCG Brighton Bennett RP60501A
+9/12/2025 RCG Brighton Bennett RP60503A
+9/12/2025 RCG Brighton Bennett RP60499A
+9/16/2025 RCG Brighton Bennett RP62760A
+9/16/2025 RCG Brighton Bennett RP62761A
+9/16/2025 RCG Brighton Bennett RP62758A
+9/16/2025 RCG Littleton Bennett RP59732A
+9/16/2025 RCG Littleton Bennett RP59730A
+9/16/2025 RCG Littleton Bennett RP59736A
+9/16/2025 RCG Brighton Bennett RP62759A
+9/16/2025 RCG Brighton Bennett RP61780A
+9/16/2025 RCG Brighton Bennett RP63533A
+9/17/2025 RCG Littleton Bennett RP59737A
+9/17/2025 RCG Littleton Bennett RP59735A
+9/17/2025 RCG Littleton Bennett RP60156A
+9/17/2025 RCG Littleton Bennett RP59734A
+9/17/2025 RCG Littleton Bennett RP61784A
+9/17/2025 RCG Littleton Bennett RP59736A
+9/17/2025 RCG Brighton Bennett RP63531A
+9/17/2025 RCG Brighton Bennett RP64906A
+9/18/2025 RCG Brighton Bennett RP64912A
+
+================================================================================
+Page 9
+================================================================================
+
+9/18/2025 RCG Brighton Bennett RP64911A
+9/18/2025 RCG Brighton Bennett RP64914A
+9/18/2025 RCG Littleton Bennett RP64200A
+9/18/2025 RCG Littleton Bennett RP61782A
+9/18/2025 RCG Littleton Bennett RP61785A
+9/18/2025 RCG Littleton Bennett RP61783A
+9/18/2025 RCG Littleton Bennett RP61781A
+9/18/2025 RCG Littleton Bennett RP64197A
+9/19/2025 RCG Brighton Bennett RP64910A
+9/19/2025 RCG Brighton Bennett RP64915A
+9/25/2025 RCG Brighton Bennett RP69766A
+9/25/2025 RCG Brighton Bennett RP69768A
+9/25/2025 RCG Brighton Bennett RP69767A
+9/25/2025 RCG Brighton Bennett RP69769A
+9/25/2025 RCG Brighton Bennett RP69770A
+9/25/2025 RCG Brighton Bennett RP69771A
+9/29/2025 RCG Littleton Bennett RP71249A
+9/29/2025 RCG Littleton Bennett RP71248A
+9/29/2025 RCG Littleton Bennett RP69690A
+9/29/2025 RCG Littleton Bennett RP71247A
+9/29/2025 RCG Littleton Bennett RP71251A
+9/29/2025 RCG Littleton Bennett RP72353A
+9/30/2025 Ready Brighton Aurora
+9/30/2025 Ready Brighton Aurora
+9/30/2025 Ready Brighton Aurora
+
+================================================================================
+Page 10
+================================================================================
+
+9/30/2025 RCG Brighton Bennett RP72439A
+9/30/2025 RCG Brighton Bennett RP72444A
+9/30/2025 RCG Brighton Bennett RP72441A
+9/30/2025 RCG Brighton Bennett RP73021A
+9/30/2025 RCG Brighton Bennett RP72447A
+9/30/2025 RCG Brighton Bennett RP72443A
+4/29/2025 Ready Brighton Aurora 10395699487 $100.00
+4/29/2025 Ready Brighton Aurora 10394306426 $100.00
+4/29/2025 Ready Broomfield Aurora 10393010262 $80.00
+4/29/2025 Ready Broomfield Aurora 10395098314 $80.00
+4/29/2025 Ready Broomfield Aurora 10395097708 $80.00
+
+================================================================================
+Page 11
+================================================================================
+
+August
+Date Company Pick-Up Drop-off Load # Amount Date Paid Notes
+8/1/2025 RCG Littleton Bennett RP31500A $75.00
+8/1/2025 RCG Littleton Bennett RP31495A $75.00
+8/1/2025 RCG Littleton Bennett RP31511A $75.00
+8/1/2025 RCG Littleton Bennett RP31503A $75.00
+8/1/2025 RCG Littleton Bennett RP31899A $75.00
+8/1/2025 RCG Littleton Bennett RP31504A $75.00
+8/1/2025 RCG Brighton Bennett RP32276A $75.00
+8/6/2025 RCG Littleton Bennett RP36231A $75.00
+8/6/2025 RCG Littleton Bennett RP36240A $75.00
+8/6/2025 RCG Littleton Bennett RP36245A $75.00
+8/6/2025 RCG Littleton Bennett RP36232A $75.00
+8/6/2025 RCG Littleton Bennett RP36226A $75.00
+8/6/2025 RCG Littleton Bennett RP36241A $75.00
+8/7/2025 RCG Littleton Bennett RP36252A $75.00
+8/7/2025 RCG Littleton Bennett RP36227A $75.00
+8/7/2025 RCG Littleton Bennett RP36228A $75.00
+8/7/2025 RCG Littleton Bennett RP36247A $75.00
+8/7/2025 RCG Littleton Bennett RP36223A $75.00
+8/7/2025 RCG Littleton Bennett RP36248A $75.00
+8/8/2025 RCG Littleton Bennett RP36249A $75.00
+8/8/2025 RCG Littleton Bennett RP36229A $75.00
+8/8/2025 RCG Littleton Bennett RP36230A $75.00
+8/8/2025 RCG Littleton Bennett RP36235A $75.00
+8/8/2025 RCG Littleton Bennett RP36234A $75.00
+
+================================================================================
+Page 12
+================================================================================
+
+8/8/2025 RCG Littleton Bennett RP38273A $75.00
+8/8/2025 RCG Brighton Bennett RP36972A $75.00
+8/8/2025 RCG Brighton Bennett RP36975A $75.00
+8/8/2025 RCG Brighton Bennett RP35530A $75.00
+8/11/2025 RCG Littleton Bennett RP36238A $75.00
+8/11/2025 RCG Littleton Bennett RP36250A $75.00
+8/11/2025 RCG Littleton Bennett RP36243A $75.00
+8/11/2025 RCG Littleton Bennett RP36221A $75.00
+8/11/2025 RCG Littleton Bennett RP36224A $75.00
+8/11/2025 RCG Littleton Bennett RP36244A $75.00
+8/11/2025 Ready Erie Aurora 10446562105 $80.00
+8/11/2025 Ready Westminster Aurora 10447832305 $80.00
+8/11/2025 Ready Denver Aurora 10445910838 $80.00
+8/12/2025 RCG Littleton Bennett RP38271A $75.00
+8/12/2025 RCG Littleton Bennett RP38270A $118.00
+8/12/2025 RCG Littleton Bennett RP38757A $75.00
+8/12/2025 RCG Littleton Bennett RP38272A $75.00
+8/12/2025 RCG Littleton Bennett RP39320A $75.00
+8/12/2025 RCG Littleton Bennett RP39319A $75.00
+8/12/2025 Expedited Lakewood Aurora EF-70230 $80.00
+8/12/2025 Ready Westminster Aurora 10448376367 $80.00
+8/12/2025 Ready Thornton Aurora 10448375261 $125.00
+8/13/2025 Ready Brighton Aurora 10446237187 $100.00 Inop
+8/13/2025 Ready Brighton Aurora 10448282061 $100.00
+8/13/2025 RCG Brighton Bennett RP39377A $75.00
+8/13/2025 RCG Brighton Bennett RP39381A $75.00
+8/13/2025 RCG Brighton Bennett RP39379A $75.00
+
+================================================================================
+Page 13
+================================================================================
+
+8/13/2025 RCG Brighton Bennett RP40254A $75.00
+8/14/2025 RCG Littleton Bennett
+8/14/2025 RCG Littleton Bennett
+8/14/2025 RCG Littleton Bennett
+8/14/2025 RCG Littleton Bennett
+8/14/2025 RCG Littleton Bennett
+8/14/2025 RCG Littleton Bennett
+
+================================================================================
+Page 14
+================================================================================
+
+4/29/2025 Ready Brighton Aurora 10395699487 $100.00
+4/29/2025 Ready Brighton Aurora 10394306426 $100.00
+4/29/2025 Ready Broomfield Aurora 10393010262 $80.00
+4/29/2025 Ready Broomfield Aurora 10395098314 $80.00
+4/29/2025 Ready Broomfield Aurora 10395097708 $80.00
+
+================================================================================
+Page 15
+================================================================================
+
+July
+Date Company Pick-Up Drop-off Load # Amount Date Paid Notes
+
+================================================================================
+Page 18
+================================================================================
+
+4/29/2025 Ready Brighton Aurora 10395699487 $100.00
+4/29/2025 Ready Brighton Aurora 10394306426 $100.00
+4/29/2025 Ready Broomfield Aurora 10393010262 $80.00
+4/29/2025 Ready Broomfield Aurora 10395098314 $80.00
+4/29/2025 Ready Broomfield Aurora 10395097708 $80.00
+
+================================================================================
+Page 19
+================================================================================
+
+June
+Date Company Pick-Up Drop-off Load # Amount Date Paid Notes
+
+================================================================================
+Page 22
+================================================================================
+
+4/29/2025 Ready Brighton Aurora 10395699487 $100.00
+4/29/2025 Ready Brighton Aurora 10394306426 $100.00
+4/29/2025 Ready Broomfield Aurora 10393010262 $80.00
+4/29/2025 Ready Broomfield Aurora 10395098314 $80.00
+4/29/2025 Ready Broomfield Aurora 10395097708 $80.00
+
+================================================================================
+Page 23
+================================================================================
+
+May
+Date Company Pick-Up Drop-off Load # Amount Date Paid Notes
+
+================================================================================
+Page 26
+================================================================================
+
+4/29/2025 Ready Brighton Aurora 10395699487 $100.00
+4/29/2025 Ready Brighton Aurora 10394306426 $100.00
+4/29/2025 Ready Broomfield Aurora 10393010262 $80.00
+4/29/2025 Ready Broomfield Aurora 10395098314 $80.00
+4/29/2025 Ready Broomfield Aurora 10395097708 $80.00
+
+================================================================================
+Page 27
+================================================================================
+
+April
+Date Company Pick-Up Drop-off Load # Amount Date Paid Notes
+4/1/2025 RCG Littleton Bennett RN27264A $75.00 4/4
+4/1/2025 PDRevolution Inc. Littleton Denver 705 Copart $150.00
+4/1/2025 United Greenwood Village Parker 81997185 $240.00 4/21
+4/1/2025 Acertus Parker Denver 12706389 $100.00 4/4
+4/1/2025 Ready Parker Aurora 10378497578 $79.60
+4/1/2025 Ready Centennial Aurora 10378112699 $80.00
+4/2/2025 United Centennial Parker 81996301 $80.00 4/8
+4/2/2025 Acertus Lakewood Denver 12688857 $85.00 4/21
+4/2/2025 Ready Lakewood Aurora 10381595043 $75.72
+4/2/2025 Ready Lakewood Aurora 10381489370 $75.72
+4/2/2025 Acertus Commerce City Denver 12712689 $80.00 4/8
+4/2/2025 Acertus Commerce City Denver 12712685 $80.00 4/8
+4/2/2025 Acertus Commerce City Denver 12712677 $80.00 4/8
+4/2/2025 Ready Denver Aurora 10376433851 $127.18
+4/2/2025 Ready Centennial Aurora 10381869865 $77.69
+4/2/2025 Ready Centennial Aurora 10381828250 $77.69
+4/3/2025 RCG Littleton Bennett RN31090A $75.00 4/8
+4/3/2025 RCG Littleton Bennett RN30627A $75.00 4/8
+4/3/2025 RCG Littleton Bennett RN30624A $75.00 4/8
+4/3/2025 Expedited Lakewood Aurora EF-59037 $80.00 4/7
+4/3/2025 Ready Lakewood Aurora 10381568092 $100.00
+4/3/2025 Ready Denver Aurora 10379613334 $75.00
+4/3/2025 United Lakewood Parker 81997707 $240.00 4/8
+4/4/2025 Acertus Commerce City Denver 12712681 $80.00 4/8
+4/4/2025 Acertus Commerce City Denver 12712669 $80.00 4/8
+
+================================================================================
+Page 28
+================================================================================
+
+4/4/2025 Acertus Commerce City Denver 12712661 $80.00 4/8
+4/4/2025 RCG Littleton Bennett RN33447A $75.00 4/8
+4/4/2025 RCG Littleton Bennett RN32949A $118.00 4/9
+4/4/2025 RCG Littleton Bennett RN32950A $75.00 4/9
+4/4/2025 Ready Centennial Aurora 10381789095 $77.69
+4/7/2025 PDRevolution Inc. Brighton Denver 415 Copart $150.00
+4/7/2025 Ready Brighton Aurora 10381673567 $169.78
+4/7/2025 Ready Brighton Aurora 10384399405 $100.00
+4/7/2025 Ready Lakewood Aurora 10381232673 $85.00
+4/7/2025 Expedited Lakewood Aurora EF-59377 $80.00 4/10
+4/7/2025 Expedited Lakewood Aurora EF-59384 $80.00 4/10
+4/8/2025 Ready Henderson Aurora 10381179478 $125.00
+4/8/2025 Ready Henderson Aurora 10381179480 $125.00
+4/8/2025 Sill-Terhar Aurora Broomfield 50516 $285.00
+4/9/2025 Ready Brighton Aurora 10383878981 $100.00
+4/9/2025 Ready Brighton Aurora 10382355998 $100.00
+4/9/2025 Ready Brighton Aurora 10383025613 $100.00
+4/10/2025 RCG Littleton Bennett RN36440A $75.00 4/16
+4/10/2025 RCG Littleton Bennett RN36442A $75.00 4/16
+4/10/2025 RCG Littleton Bennett RN36441A $75.00 4/16
+4/10/2025 Sill-Terhar Aurora Broomfield 5128629 $175.00
+4/10/2025 Carvana Commerce City Denver 107316 $86.23
+4/10/2025 Carvana Commerce City Denver 108727 $150.00
+4/10/2025 Ready Parker Aurora 10383204632 $143.48
+4/10/2025 RPM Parker Aurora 31532-76680 $125.00 4/16
+4/10/2025 Ready Parker Aurora 10383202981 $93.82
+4/10/2025 Ready Parker Aurora 10383292225 $93.82
+4/11/2025 RCG Littleton Bennett RN36441A $75.00 4/16
+
+================================================================================
+Page 29
+================================================================================
+
+4/11/2025 RCG Littleton Bennett RN36442A $75.00 4/16
+4/11/2025 RCG Littleton Bennett RN36440A $75.00 4/16
+4/11/2025 RCG Littleton Bennett RN36978A $75.00 4/16
+4/11/2025 RCG Littleton Bennett RN39162A $75.00 4/16
+4/11/2025 RCG Littleton Bennett RN39163A $75.00 4/16
+4/11/2025 Preowned Denver Aurora 631129 $100.00 4/16
+4/14/2025 ShipYourCarNow Aurora Denver 12935347 $80.00 4/21
+4/14/2025 Carvana Denver Denver 109143 $96.00
+4/14/2025 Expedited Denver Lakewood EF-60084 $170.00 4/17
+4/14/2025 Ready Lakewood Aurora 10388182853 $70.64
+4/14/2025 Ready Westminster Aurora 10385038816 $117.03
+4/14/2025 Ready Erie Aurora 10384220107 $80.00
+4/15/2025 Ready Brighton Aurora 10385232076 $100.00
+4/15/2025 Ready Brighton Aurora 10387943754 $100.00 inop rate?
+4/15/2025 Ready Brighton Aurora 10387943745 $174.02 inop
+4/15/2025 Epic Metrix Denver Aurora 307508/A29392/215833 $300.00
+4/15/2025 Ready Broomfield Aurora 10388839766 $80.00
+4/15/2025 Ready Broomfield Aurora 10388839699 $80.00
+4/15/2025 Helpful Logistics Broomfield Aurora 041425CO $100.00
+4/15/2025 Expedited Lakewood Aurora EF-60199 $80.00 4/18
+4/16/2025 Freight Tech Brighton Aurora 785463 $175.00
+4/16/2025 Ready Brighton Aurora 10387482498 $159.80
+4/16/2025 Ready Henderson Aurora 10386435134 $125.00
+4/16/2025 Crooza Denver Aurora 5326736 $225.00
+4/16/2025 United Englewood Parker 81905800 $80.00 4/21
+4/16/2025 United Greenwood Village Parker 82214244 $75.00 4/21
+4/17/2025 RCG Littleton Bennett RN42348A $75.00 4/21
+4/17/2025 RCG Littleton Bennett RN42347A $75.00 4/21
+
+================================================================================
+Page 30
+================================================================================
+
+4/17/2025 RCG Littleton Bennett RN42346A $75.00 4/21
+4/17/2025 Carvana Aurora Denver 110002 $75.00
+4/17/2025 Carvana Commerce City Denver 110004 $75.00
+4/18/2025 Sill-Terhar Aurora Broomfield 5357944 $90.00
+4/18/2025 Carvana Aurora Denver 110290 $75.00
+4/18/2025 Acertus Commerce City Denver 12933327 $85.00
+4/21/2025 Carvana Denver Denver 110292 $75.00
+4/21/2025 Acertus Denver Denver 12911019 $100.00
+4/21/2025 Acertus Denver Denver 12911021 $100.00
+4/21/2025 Acertus Brighton Denver 12883607 $155.00
+4/21/2025 Ready Brighton Aurora 10391175808 $100.00
+4/24/2025 VRCG Denver Denver BRIAN-DEN1-042325 $100.00
+4/24/2025 VRCG Denver Wesminster BRAD-DEN1-042325 $100.00
+4/24/2025 Acertus Broomfield Denver 12996787 $125.00
+4/24/2025 Acertus Denver Denver 12932063 $85.00
+4/24/2025 United Aurora Parker 82323188 $240.00
+4/25/2025 RCG Littleton Bennett RN50104A $75.00
+4/25/2025 RCG Littleton Bennett RN50102A $75.00
+4/25/2025 RCG Littleton Bennett RN50103A $75.00
+4/25/2025 Logistic Transit Lakewood Aurora 10299 $160.00
+4/25/2025 Acertus Denver Denver 12880401 $90.00
+4/25/2025 United Aurora Parker 82323059 $240.00
+4/28/2025 Ready Brighton Aurora 10391613012 $166.99
+4/28/2025 Ready Brighton Aurora 10394100079 $125.00
+4/28/2025 Acertus Aurora Denver 13036167 $85.00
+4/28/2025 ACV Wheat Ridge Aurora 37221391 $115.00
+4/28/2025 Ready Lakewood Aurora 10393616277 $92.12
+4/28/2025 Acertus Commerce City Denver 13004555 $85.00
+
+================================================================================
+Page 31
+================================================================================
+
+4/29/2025 Freight Tech Brighton Denver 792531 $175.00
+4/29/2025 Ready Brighton Aurora 10395699487 $100.00
+4/29/2025 Ready Brighton Aurora 10394306426 $100.00
+4/29/2025 Ready Broomfield Aurora 10393010262 $80.00
+4/29/2025 Ready Broomfield Aurora 10395098314 $80.00
+4/29/2025 Ready Broomfield Aurora 10395097708 $80.00
+
+================================================================================
+Page 32
+================================================================================
+
+March
+Date Company Pick-Up Drop-off Load # Amount Date Paid Notes
+3/3/2025 RCG Littleton Bennett RM93773A $75.00 3/6
+3/3/2025 RCG Littleton Bennett RM92516A $75.00 3/6
+3/3/2025 Expedited Denver Lakewood EF-56100 $225.00
+3/3/2025 Acertus Denver Centennial 12312667 $100.00 3/6
+3/3/2025 VRCG Inc Denver Centennial BRIAN-DEN1-022825 $100.00
+3/5/2025 RCG Littleton Bennett RM95465A $75.00 3/10
+3/5/2025 RCG Littleton Bennett RM95463A $75.00 3/10
+3/5/2025 RCG Littleton Bennett RM95461A $75.00 3/10
+3/5/2025 RCG Brighton Denver RM91839A $100.00 3/10
+3/5/2025 Ready Brighton Aurora 10364965747 $100.00
+3/5/2025 Ready Brighton Aurora 10366605993 $100.00
+3/5/2025 Ready Brighton Aurora 10366865199 $100.00
+3/6/2025 RCG Littleton Bennett RM95459A $75.00
+3/6/2025 RCG Littleton Bennett RM95460A $75.00
+3/6/2025 RCG Littleton Bennett RM95457A $75.00
+3/6/2025 CarsArrive Denver Denver 20387257 $75.00 3/12
+3/6/2025 Ready Aurora Broomfield 10364707393 $68.82
+3/6/2025 Ready Broomfield Aurora 10365042495 $80.00
+3/6/2025 CarsArrive Thornton Denver 20386579 $75.00 3/12
+3/6/2025 Ready Denver Aurora 10365883215 $80.00
+3/6/2025 Ready Northglenn Aurora 10364513188 $80.00
+3/7/2025 RCG Brighton Bennett RM96586A $75.00
+3/7/2025 RCG Brighton Bennett RM96593A $75.00
+
+================================================================================
+Page 33
+================================================================================
+
+3/7/2025 RCG Brighton Bennett RM96578A $75.00
+3/7/2025 Carvana Denver Denver 103294 $80.00
+3/7/2025 Carvana Aurora Denver 103293 $80.00
+3/7/2025 Ready Westminster Aurora 10364355086 $80.00
+3/7/2025 Ready Broomfield Aurora 10366700995 $80.00
+3/7/2025 Ready Denver Aurora 10366985251 $80.00
+3/10/2025 Ready Brighton Auroa 10367277527 $100.00
+3/10/2025 RCG Brighton Bennett RM96583A $75.00
+3/10/2025 RCG Brighton Bennett RM96575A $75.00
+3/10/2025 RCG Westminster Denver RM97213A $90.00
+3/10/2025 RCG Westminster Denver RM94918A $200.00
+3/10/2025 RCG Denver Denver RM95125A $85.00
+3/10/2025 RCG Denver Denver RM53591A $85.00
+3/10/2025 Expedited Lakewood Aurora EF-56720 $80.00
+3/10/2025 Expedited Lakewood Aurora EF-56784 $80.00
+3/11/2025 Ready Brighton Auroa 10369061869 $100.00 Not Inop price
+3/11/2025 Ready Brighton Auroa 10369062497 $100.00 Not Inop price
+3/11/2025 Ready Brighton Auroa 10369062559 $100.00
+3/11/2025 Sill Terhar Aurora Broomfield 4626792 $195.00
+3/11/2025 Acertus Broomfield Denver 12487459 $100.00
+3/11/2025 Ready Denver Auroa 10367675832 $80.00
+3/11/2025 Ready Denver Auroa 10368969873 $80.00
+3/12/2025 RCG Brighton Bennett RM99503A $75.00
+3/12/2025 RCG Brighton Bennett RM99494A $75.00
+3/12/2025 RCG Brighton Bennett RN11386A $75.00
+
+================================================================================
+Page 34
+================================================================================
+
+3/12/2025 Carvana Aurora Denver 103946 $75.00
+3/12/2025 Carvana Denver Denver 10394 $75.00
+3/13/2025 RCG Littleton Bennett RN11889A $75.00
+3/13/2025 RCG Littleton Bennett RN11893A $75.00
+3/13/2025 RCG Littleton Bennett RN11890A $75.00
+3/13/2025 Ready Brighton Aurora 10370065253 $159.80
+3/13/2025 Ready Brighton Aurora 10370065036 $159.80
+3/13/2025 Ready Brighton Aurora 10369062522 $100.00 inop??
+3/18/2025 RCG Littleton Bennett RN14443A $75.00
+3/18/2025 RCG Littleton Bennett RN14444A $75.00
+3/18/2025 RCG Littleton Bennett RN14445A $75.00
+3/18/2025 RCG Littleton Denver 12543293 $105.00
+3/18/2025 RCG Littleton Bennett RN14447A $75.00
+3/18/2025 RCG Littleton Bennett RN16579A $75.00
+3/18/2025 Sill Terhar Aurora Broomfield 4730498 $115.00
+3/18/2025 Ready Brighton Aurora 10374193942 $100.00
+3/18/2025 Ready Brighton Aurora 10373990593 $100.00
+3/18/2025 Ready Brighton Aurora 10372297155 $100.00
+3/19/2025 Freight Tech Brighton Denver 769623 $175.00
+3/19/2025 Ready Brighton Aurora 10372759321 $100.00 inop
+3/19/2025 Ready Aurora Aurora 10374466482 $74.49
+3/19/2025 Ready Aurora Aurora 10373274081 $72.68
+3/19/2025 RPM Englewood Aurora 31589-16669 $215.00
+3/20/2025 RCG Littleton Bennett RN18324A $75.00
+3/20/2025 RCG Littleton Bennett RN18317A $75.00
+
+================================================================================
+Page 35
+================================================================================
+
+3/20/2025 RCG Littleton Bennett RN18318A $75.00
+3/20/2025 VRCG Inc Denver Golden BRIAN-DEN1-031725 $100.00
+3/20/2025 Ready Golden Aurora 10373991693 $75.72
+3/20/2025 Ready Lakewood Aurora 10374466546 $75.72
+3/21/2025 RCG Littleton Bennett RN18321A $75.00 3/27
+3/21/2025 RCG Littleton Bennett RN18320A $75.00 3/27
+3/21/2025 RCG Littleton Bennett RN19413A $75.00 3/27
+3/21/2025 Ready Lakewood Aurora 10375445218 $80.00
+3/21/2025 CarsArrive Littleton Denver 20437693 $75.00 3/27
+3/24/2025 RCG Littleton Bennett RN19416A $75.00
+3/24/2025 RCG Littleton Bennett RN19408A $75.00
+3/24/2025 RCG Littleton Bennett RN19412A $75.00
+3/24/2025 RCG Brighton Bennett RN19489A $75.00 3/27
+3/24/2025 RCG Brighton Bennett RN22604A $75.00 3/27
+3/24/2025 RCG Commerce City Bennett RN20514A $75.00 3/27
+3/24/2025 Ready Englewood Aurora 10375389377 $120.00 3/26 & 4/1 2 payments
+3/24/2025 Anew Littleton Denver 31470-97791 $150.00
+3/25/2025 Sill Terhar Aurora Broomfield 4858669 $135.00
+3/25/2025 Ready Arvada Aurora 10374319804 $76.56 3/26
+3/25/2025 Ready Golden Aurora 10374695313 $75.72 3/26
+3/25/2025 Ready Lakewood Aurora 10374344930 $75.17 3/26
+3/26/2025 RCG Littleton Bennett RN23181A $75.00 4/1
+3/26/2025 RCG Littleton Bennett RN25351A $75.00 4/1
+3/26/2025 RCG Littleton Bennett RN25357A $118.00 4/1
+3/26/2025 Ready Brighton Aurora 10372759573 $125.00 3/28
+
+================================================================================
+Page 36
+================================================================================
+
+3/26/2025 Ready Brighton Aurora 10377902121 $159.98 3/28
+3/26/2025 Ready Brighton Aurora 10376469404 $159.80 3/28
+3/27/2025 RCG Littleton Bennett RN21152A $75.00 4/1
+3/27/2025 RCG Littleton Bennett RN23180A $75.00 4/1
+3/27/2025 RCG Littleton Bennett RN22492A $75.00 4/1
+3/27/2025 Acertus Broomfield Denver 12675233 $125.00 4/4
+3/27/2025 Ready Broomfield Aurora 10378761877 $80.00 3/28
+3/27/2025 Ready Lakewood Aurora 10376727514 $70.64 3/31
+3/27/2025 Ready Lakewood Aurora 10377571094 $70.64 3/31
+3/27/2025 Acertus Commerce City Denver 12712677 $80.00 4/4
+3/27/2025 Acertus Commerce City Denver 12712685 $80.00 4/4
+3/27/2025 Expedited Lakewood Aurora EF-58366 $80.00 4/1
+3/28/2025 RCG Littleton Bennett RN25359A $75.00 4/1
+3/28/2025 RCG Littleton Bennett RN25348A $75.00 4/1
+3/28/2025 RCG Littleton Bennett RN25352A $75.00 4/4
+3/28/2025 RCG Littleton Bennett RN25361A $75.00 4/1
+3/28/2025 RCG Littleton Bennett RN25349A $75.00 4/4
+3/28/2025 RCG Littleton Bennett RN25350A $75.00 4/4
+3/28/2025 RPM Arvada Aurora 31507-06075 $135.00
+3/31/2025 RCG Littleton Bennett RN25354A $75.00 4/4
+3/31/2025 RCG Littleton Bennett RN25747A $75.00 4/4
+3/31/2025 RCG Littleton Bennett RN25746A $75.00 4/4
+3/31/2025 RCG Littleton Bennett RN27262A $75.00 4/4
+3/31/2025 RCG Littleton Bennett RN27261A $75.00 4/4
+3/31/2025 RCG Littleton Bennett RN27263A $75.00 4/4
+
+================================================================================
+Page 37
+================================================================================
+
+3/31/2025 Ready Northglenn Aurora 10376981121 $80.00 4/2
+3/31/2025 Ready Broomfield Aurora 10376094502 $80.00 4/2
+3/31/2025 Ready Broomfield Aurora 10377066316 $80.00 4/2
+
+================================================================================
+Page 38
+================================================================================
+
+February
+Date Company Pick-Up Drop-off Load # Amount Date Paid Notes
+2/3/2025 RCG Littleton Bennett RM49071A $72.00 2/5
+2/3/2025 RCG Littleton Bennett RM49069A $72.00 2/5
+2/3/2025 RCG Littleton Bennett RM49070A $72.00 2/5
+2/3/2025 Expedited Denver Lakewood EF-53006 $200.00
+2/3/2025 Expedited Denver Lakewood EF-53005 $100.00
+2/3/2025 Ship Your Denver Northglenn 12918556 $190.00 2/5
+2/4/2025 RCG Littleton Bennett RM50877A $72.00 2/6
+2/4/2025 RCG Littleton Bennett RM50875A $72.00 2/6
+2/4/2025 RCG Littleton Bennett RM52271A $72.00 2/6
+2/4/2025 Ready Wheat Ridge Aurora 10350261308 $73.15
+2/4/2025 Ready Wheat Ridge Aurora 10348411210 $73.15
+2/4/2025 Ready Golden Aurora 10348528070 $82.91
+2/4/2025 Ready Wheat Ridge Aurora 10348665160 $25.00 DRF
+2/4/2025 Ready Lakewood Aurora 10348520690 $82.58
+2/4/2025 Ready Lakewood Aurora 10348521145 $82.58
+2/4/2025 Ready Lakewood Aurora 10349200918 $85.50
+2/5/2025 Expedited Denver Lakewood EF-53353 $150.00
+2/5/2025 Expedited Denver Lakewood EF-53243 $75.00
+2/6/2025 RCG Littleton Bennett RM54910A $72.00 2/10
+2/6/2025 RCG Littleton Bennett RM54908A $72.00 2/10
+2/6/2025 RCG Littleton Bennett RM54916A $72.00 2/10
+2/6/2025 RCG Littleton Bennett RM54911A $72.00 2/10
+2/6/2025 RCG Littleton Bennett RM54917A $72.00 2/10
+
+================================================================================
+Page 39
+================================================================================
+
+2/6/2025 RCG Littleton Bennett RM54915A $72.00 2/10
+2/7/2025 RCG Littleton Bennett RM54903A $72.00 2/13
+2/7/2025 RCG Littleton Bennett RM54907A $72.00 2/13
+2/7/2025 RCG Littleton Bennett RM54906A $72.00 2/13
+2/7/2025 RCG Aurora Denver RM53529A $90.00 2/13
+2/7/2025 Verily Broomfield Littleton VS913240 $100.00
+2/7/2025 Carvana Englewood Denver 98846 $80.00
+2/10/2025 RCG Littleton Bennett RM54914A $72.00 2/13
+2/10/2025 RCG Littleton Bennett RM54904A $72.00 2/13
+2/10/2025 RCG Littleton Bennett RM54905A $72.00 2/13
+2/10/2025 RCG Littleton Bennett RM54913A $72.00 2/13
+2/10/2025 RCG Littleton Bennett RM54912A $72.00 2/13
+2/10/2025 RCG Littleton Bennett RM54909A $72.00 2/13
+2/10/2025 RCG Brighton Denver RM59941A $85.00 2/13
+2/10/2025 RCG Brighton Denver RM58488A $90.00 2/13
+2/11/2025 Ready Brighton Aurora 10353459739 $114.14 ??
+2/11/2025 Ready Brighton Aurora 10353459175 $179.61
+2/11/2025 Ready Denver Aurora 10352849812 $88.43
+2/11/2025 RCG Denver Denver RM57387A $85.00 2/20
+2/13/2025 Expedited Denver Lakewood EF-54125 $225.00
+2/13/2025 Expedited Lakewood Aurora EF-54287 $80.00
+2/13/2025 Ready Lakewood Denver 10356018933 $75.72
+2/13/2025 RCG Lakewood Denver RM57857A $90.00 2/20
+2/13/2025 Ready Aurora Broomfield 10354169972 $73.00
+2/13/2025 Ready Broomfield Aurora 10356157807 $80.00
+
+================================================================================
+Page 40
+================================================================================
+
+2/13/2025 Ready Broomfield Aurora 10355908711 $80.00
+2/13/2025 Ready Broomfield Aurora 10354060121 $80.00
+2/14/2025 RCG Littleton Bennett RM61823A $72.00 2/20
+2/14/2025 RCG Littleton Bennett RM61851A $72.00 2/20
+2/14/2025 RCG Littleton Bennett RM61843A $72.00 2/20
+2/14/2025 Ready Lakewood Aurora 10356018933 $75.72
+2/14/2025 Ready Wheat Ridge Aurora 10355588300 $71.60
+2/14/2025 Carvana Aurora Denver 99865 $75.00
+2/14/2025 Carvana Aurora Denver 99896 $75.00
+2/14/2025 Carvana Denver Denver 99945 $75.00
+2/17/2025 RCG Littleton Bennett RM61840A $72.00 2/20
+2/17/2025 RCG Littleton Bennett RM61841A $72.00 2/20
+2/17/2025 RCG Littleton Bennett RM61849A $72.00 2/20
+2/17/2025 RCG Littleton Bennett RM61830A $72.00 2/20
+2/17/2025 RCG Littleton Bennett RM61836A $72.00 2/20
+2/17/2025 RCG Littleton Bennett RM61838A $72.00 2/20
+2/18/2025 RCG Littleton Bennett RM61852A $72.00 2/25
+2/18/2025 RCG Littleton Bennett RM61835A $72.00 2/25
+2/18/2025 RCG Littleton Bennett RM61825A $72.00 2/25
+2/18/2025 RCG Littleton Bennett RM61827A $72.00 2/25
+2/18/2025 RCG Littleton Bennett RM61831A $72.00 2/25
+2/18/2025 RCG Littleton Bennett RM61845A $72.00 2/25
+2/19/2025 RCG Littleton Bennett RM61829A $72.00 2/25
+2/19/2025 RCG Littleton Bennett RM61850A $72.00 2/25
+2/19/2025 RCG Littleton Bennett RM61844A $72.00 2/25
+
+================================================================================
+Page 41
+================================================================================
+
+2/19/2025 Ready Thornton Aurora 10358394977 $100.00
+2/19/2025 Ready Thornton Aurora 10358394978 $80.00
+2/19/2025 Ready Denver Aurora 10357974278 $80.00
+2/20/2025 RCG Littleton Bennett RM61826A $72.00 2/25
+2/20/2025 RCG Littleton Bennett RM61824A $72.00 2/25
+2/20/2025 RCG Littleton Bennett RM61833A $72.00 2/25
+2/20/2025 Ready Brighton Aurora 10358706273 $116.40 ??
+2/20/2025 Ready Brighton Aurora 10358734926 $155.90
+2/20/2025 Ready Brighton Aurora 10359080589 $155.90
+2/20/2025 Expedited Denver Lakewood EF-54979 $80.00
+2/20/2025 Carvana Denver Denver 100795 $80.00
+2/20/2025 United Golden Federal Heights 81298116 $160.00 2/25
+2/21/2025 RCG Littleton Bennett RM67973A $72.00 2/28
+2/21/2025 RCG Littleton Bennett RM67976A $72.00 2/28
+2/21/2025 RCG Littleton Bennett RM67971A $72.00 2/28
+2/21/2025 RCG Littleton Bennett RM67977A $72.00 2/28
+2/21/2025 RCG Littleton Bennett RM67968A $72.00 2/28
+2/21/2025 RCG Littleton Bennett RM67974A $72.00 2/28
+2/24/2025 RCG Littleton Bennett RM67972A $72.00 2/28
+2/24/2025 RCG Littleton Bennett RM67978A $72.00 2/28
+2/24/2025 RCG Littleton Bennett RM67975A $72.00 2/28
+2/24/2025 RCG Littleton Bennett RM67967A $72.00 2/28
+2/24/2025 RCG Littleton Bennett RM67969A $72.00 2/28
+2/24/2025 RCG Littleton Bennett RM67970A $72.00 2/28
+2/25/2025 RCG Brighton Bennett RM72183A $75.00 2/28
+
+================================================================================
+Page 42
+================================================================================
+
+2/25/2025 RCG Brighton Bennett RM70713A $75.00 2/28
+2/25/2025 RCG Brighton Bennett RM70717A $75.00 2/28
+2/25/2025 Expedited Denver Lakewood EF-55294 $150.00
+2/25/2025 Carvana Denver Denver 101517 $75.00
+2/25/2025 Ready Denver Denver 10360933678 $80.00
+2/25/2025 Ready Denver Denver 10360933679 $80.00
+2/25/2025 Ready Denver Denver 10360934085 $80.00
+2/26/2025 Sill TerHar Aurora Broomfield 692792 $220.00
+2/26/2025 Sill TerHar Aurora Broomfield 267559 $200.00
+2/26/2025 Sill TerHar Aurora Broomfield 2959 $115.00
+2/26/2025 RCG Commerce City Denver RM71301A $85.00 3/3
+2/26/2025 RCG Commerce City Denver RM60653A $85.00 3/3
+2/26/2025 Ready Westminster Aurora 10361204195 $100.00
+2/26/2025 Ready Westminster Aurora 10361204604 $80.00
+2/26/2025 Ready Aurora Broomfield 10363743248 $68.62
+2/26/2025 Ready Aurora Broomfield 10363744465 $68.62
+2/26/2025 Ready Westminster Aurora 10360485162 $92.89
+2/27/2025 RCG Littleton Bennett RM75710A $72.00 3/4
+2/27/2025 RCG Littleton Bennett RM74671A $75.00 3/4
+2/27/2025 RCG Littleton Bennett RM74673A $75.00 3/4
+2/27/2025 Sill TerHar Aurora Broomfield 4421920 $80.00
+2/27/2025 Sill TerHar Littleton Broomfield 4421017 $260.00
+2/27/2025 Ready Aurora Broomfield 10363709120 $68.62
+2/28/2025 RCG Littleton Bennett RM74675A $75.00 3/5
+2/28/2025 RCG Littleton Bennett RM74680A $118.00 3/5
+
+================================================================================
+Page 43
+================================================================================
+
+2/28/2025 RCG Littleton Bennett RM74674A $75.00 3/4
+2/28/2025 RCG Littleton Bennett RM74672A $75.00 3/5
+2/28/2025 RCG Littleton Bennett RM74670A $75.00 3/4
+2/28/2025 RCG Littleton Bennett RM74678A $75.00 3/5
+$11,113.04
+
+================================================================================
+Page 44
+================================================================================
+
+January
+Wednesday 1/1 Thursday 1/2 Friday 1/3
+Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid
+RCG Littleton Bennett RM23629A 1/6 RCG Littleton Bennett RM26238A 1/9
+RCG Littleton Bennett RM22280A 1/6 RCG Littleton Bennett RM26240A 1/9
+RCG Littleton Bennett RM23631A 1/6 RCG Littleton Bennett RM26237A 1/9
+RCG Littleton Bennett RM24225A 1/6 RCG Littleton Bennett RM26239A 1/9
+RCG Littleton Bennett RM24223A 1/6 RCG Littleton Bennett RM27005A 1/9
+RCG Littleton Bennett RM24222A 1/6 RCG Littleton Bennett RM27002A 1/9
+United Lakewood Parker 80723384 1/6 United Aurora Parker 80745404 1/9
+United Lakewood Parker 80723383 1/6 United Aurora Parker 80745576 1/9
+United Lakewood Parker 80689118 1/6 United Aurora Parker 80745624 1/9
+Monday 1/6 Tuesday 1/7 Wednesday 1/8 Thursday 1/9 Friday 1/10
+Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid
+Ready Henderson Aurora 10335622165 1/7 off - snow day RCG Littleton Bennett RM28913A 1/10 RCG Littleton Bennett RM28908A 1/13 RCG Littleton Bennett RM31048A 1/15
+Ready Henderson Aurora 10335330855 1/7 RCG Littleton Bennett RM28910A 1/10 RCG Littleton Bennett RM31041A 1/13 RCG Littleton Bennett RM31040A 1/15
+United Centennial Parker 80788982 1/9 RCG Littleton Bennett RM27004A 1/10 RCG Littleton Bennett RM31046A 1/13 RCG Littleton Bennett RM31042A 1/15
+United Centennial Parker 80788983 1/9 RCG Littleton Bennett RM28911A 1/10 Expedited Denver Lakewood EF-50630 1/13 RCG Littleton Bennett RM31047A 1/15
+United Greenwood Village Parker 80757763 1/9 RCG Littleton Bennett RM28912A 1/10 Expedited Centennial Lakewood EF-50520 1/13 RCG Littleton Bennett RM31044A 1/15
+United Centennial Parker 80743775 1/9 RCG Littleton Bennett RM28909A 1/10 Ready Denver Aurora 10334920967 1/13 RCG Littleton Bennett RM31043A 1/15
+United Aurora Parker 80743707 1/13 Ready Denver Aurora 10335476385 1/13 Ready Henderson Aurora 10336613567 1/14
+Ready Denver Aurora 10335826461 1/13 Ready Henderson Aurora 10336612163 1/14
+Monday 1/13 Tuesday 1/14 Wednesday 1/15 Thursday 1/16 Friday 1/17
+Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid
+RCG Littleton Bennett RM33096A 1/15 Ready Henderson Aurora 10339742936 1/15 Ready Brighton Aurora 10341061477 1/16 RCG Littleton Bennett RM37208A 1/23 RCG Littleton Bennett RM37206A 1/23
+RCG Littleton Bennett RM31045A 1/15 Ready Henderson Aurora 10339742723 1/15 Ready Brighton Aurora 10339230523 1/16 RCG Littleton Bennett RM37207A 1/23 RCG Littleton Bennett RM37749A 1/23
+RCG Littleton Bennett RM33097A 1/15 Ready Henderson Aurora 10339742724 1/15 Ready Brighton Aurora 10339692998 1/16 RCG Littleton Bennett RM37209A 1/23 RCG Littleton Bennett RM39516A 1/23
+Ready Brighton Aurora 10339539510 1/15 Ready Henderson Aurora 10339742300 1/15 Ready Lakewood Aurora 10339737353 1/17 Carvana Aurora Denver 95346 1/23 prepared for snow storm
+Ready Brighton Aurora 10339316767 1/15 Ready Henderson Aurora 10339742553 1/16 Ready Golden Aurora 10340559487 1/17 Ready Brighton Aurora 10339254648 1/21
+Ready Golden Aurora 10337890936 1/14 United Golden Federal Heights 80803275 1/17 Ready Broomfield Aurora 10340479437 1/21
+Ready Golden Aurora 10337405940 1/14 Ready Denver Aurora 10338361045 1/16 Ready Westminster Aurora 10341903664 1/21
+Monday 1/20 Tuesday 1/21 Wednesday 1/22 Thursday 1/23 Friday 1/24
+Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid
+off - weather off - weather RCG / CJ Brighton Denver RM38453A 1/24 RCG Littleton Bennett RM42738A 1/27 RCG Littleton Bennett RM42741A 1/31
+RCG / CJ Denver Denver RM40559A 1/24 RCG Littleton Bennett RM42739A 1/27 RCG Littleton Bennett RM42737A 1/31
+RCG / CJ Denver Denver RM33557A 1/24 RCG Littleton Bennett RM40749A 1/27 RCG Littleton Bennett RM42740A 1/31
+RCG / CJ Denver Denver RM34156A 1/24 Freight Brighton Denver 739269 2/4 RCG / CJ Brighton Denver RM27894A 1/31
+Ready Brighton Aurora 10341896478 1/24 Freight Brighton Denver 738682 2/4 Expedited Lakewood Aurora EF-52023 1/28
+Ready Brighton Aurora 10343184107 1/27
+Monday 1/27 Tuesday 1/28 Wednesday 1/29 Thursday 1/30 Friday 1/31
+Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid Company Pick-Up Drop-off Load # Date Paid
+Sill-TerHar Aurora Broomfield 21487020 1/30 RCG Littleton Bennett RM45247A 1/31 Sill-TerHar Aurora Broomfield 991938 1/30 Ready Brighton Aurora 10348115904 1/31 off
+Ready Denver Aurora 10345366419 1/28 RCG Littleton Bennett RM45244A 1/31 Ready Brighton Aurora 10347129024 1/30 Ready Brighton Aurora 10347128871 1/31
+Ready Denver Aurora 10345367425 1/28 RCG Littleton Bennett RM45243A 1/31 Ready Brighton Aurora 10347129077 1/30 Ready Brighton Aurora 10347679490 1/31
+Ready Denver Aurora 10345477496 1/28 RCG Littleton Bennett RM45242A 1/31 Ready Brighton Aurora 10347128887 1/30 Expedited Denver Lakewood EF-52843D 2/6 ??
+RCG Littleton Bennett RM45245A 1/31 RCG Littleton Bennett RM45240A 1/31 Sill-TerHar Aurora Broomfield C25489 1/30 Ready Lakewood Aurora 10346942444 2/3 ??
+RCG Littleton Bennett RM45249A 1/31 RCG Littleton Bennett RM45248A 1/31 Ready Lakewood Aurora 10348348465 1/31 Ready Lakewood Aurora 10348520340 2/3 ??
+RCG Littleton Bennett RM45246A 1/31 Sill-TerHar Aurora Broomfield C25489 1/30 Ready Lakewood Aurora 10347666266 1/31 Ready Lakewood Aurora 10348520369 2/3 ??
+Sill-TerHar Aurora Broomfield 155434 1/30
+
