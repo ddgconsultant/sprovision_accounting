@@ -59,12 +59,13 @@ def main():
             print(f"  Skipping (not found): {filename}")
 
     print()
-    print("Step 2: Parsing Bank Statement Data...")
+    print("Step 2: Parsing Bank Statement Data (TruckSmarter ACH Withdrawals)...")
     print("-" * 80)
 
-    # Parse bank statement files
+    # Parse bank statement files - ONLY TruckSmarter ACH withdrawals
+    # Parser looks ONLY for: "S PROVISIONS LLC | Ach transfer via TruckSmarter app"
     bank_files = [
-        'March - September.txt',  # This file contains both remittances and bank statements
+        'March-Oct.txt',  # Contains TruckSmarter PNG bank statement data
     ]
 
     for filename in bank_files:
@@ -74,7 +75,7 @@ def main():
             try:
                 transactions = bank_parser.parse_file(str(filepath))
                 data.add_bank_transactions(transactions)
-                print(f"    Found {len(transactions)} bank transactions")
+                print(f"    Found {len(transactions)} TruckSmarter ACH withdrawals")
             except Exception as e:
                 print(f"    Error: {str(e)}")
 

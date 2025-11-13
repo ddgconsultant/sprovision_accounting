@@ -27,7 +27,7 @@ class PaymentRemittance:
 
 @dataclass
 class BankTransaction:
-    """Represents a bank transaction (Zelle payment to driver)"""
+    """Represents a bank transaction (TruckSmarter ACH withdrawal)"""
     transaction_date: datetime
     amount: Decimal
     description: str
@@ -150,7 +150,7 @@ class PaymentRemittanceParser:
 
 
 class BankStatementParser:
-    """Parser for FirstBank statements"""
+    """Parser for TruckSmarter bank statements"""
 
     def parse_file(self, filepath: str) -> List[BankTransaction]:
         """Parse a bank statement text file"""
@@ -159,28 +159,38 @@ class BankStatementParser:
 
         transactions = []
 
-        # Look for Zelle transfers
-        zelle_pattern = r'(\d+-\d+)\s+([\d,]+\.\d{2})\s+INTERNETTRANSFER#\d+TO([A-Z\-\(\) ]+)\(ZELLE\)'
-        matches = re.finditer(zelle_pattern, content)
+        # ONLY look for TruckSmarter ACH transfers (withdrawals)
+        # Format: "Apr 03 S PROVISIONS LLC | Ach transfer via TruckSmarter app 4,085.55 0.00"
+        trucksmarter_pattern = r'([A-Z][a-z]{2})\s+(\d{2})\s+S PROVISIONS LLC \| Ach transfer via TruckSmarter app\s+([\d,]+\.\d{2})'
+        matches = re.finditer(trucksmarter_pattern, content)
 
         for match in matches:
-            date_str = match.group(1)
-            amount_str = match.group(2).replace(',', '')
-            recipient = match.group(3).strip()
+            month_str = match.group(1)
+            day_str = match.group(2)
+            amount_str = match.group(3).replace(',', '')
 
-            # Parse date - need to extract year from statement
-            year_match = re.search(r'STATEMENT (\d+)-\d+-(\d{4})', content)
-            year = int(year_match.group(2)) if year_match else datetime.now().year
+            # Parse date - extract year from statement period
+            # Look for "Statement Period" line: "Apr 01 2025 - Apr 30 2025"
+            year = datetime.now().year
+            year_match = re.search(r'Statement Period\s+[A-Z][a-z]{2}\s+\d{2}\s+(\d{4})', content)
+            if year_match:
+                year = int(year_match.group(1))
 
-            month, day = map(int, date_str.split('-'))
+            # Convert month abbreviation to number
+            month_map = {
+                'Jan': 1, 'Feb': 2, 'Mar': 3, 'Apr': 4, 'May': 5, 'Jun': 6,
+                'Jul': 7, 'Aug': 8, 'Sep': 9, 'Oct': 10, 'Nov': 11, 'Dec': 12
+            }
+            month = month_map.get(month_str, 1)
+            day = int(day_str)
             trans_date = datetime(year, month, day)
 
             transaction = BankTransaction(
                 transaction_date=trans_date,
                 amount=Decimal(amount_str),
-                description=f"Zelle to {recipient}",
-                recipient=recipient,
-                transaction_type="ZELLE",
+                description="S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+                recipient="S PROVISIONS LLC",
+                transaction_type="ACH_WITHDRAWAL",
                 source_file=filepath
             )
             transactions.append(transaction)
