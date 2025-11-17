@@ -1,0 +1,4 @@
+Supplier Name,Supplier #,Supplier Site,Payment Number,Payment Date,Payment Currency,Payment Amount,Invoice Number,Invoice Description,Invoice Date,Invoice Amount,Invoice Currency,Inv Amount Withheld,Inv Discount Taken,Inv Amount Paid,Line Amount,Line Description,VIN,Work Order,PO #,Contractor,Week Ending,
+S PROVISIONS LLC - CO,95744,RDY-CO-AURORA-1,62528633,14-JUN-25,USD,80.00,10418891157	,JM1BPBLM6R1709909 From DENVER CO 80233 To AURORA CO 80011 Operable,12-JUN-25,80.00,USD,,0.00,80.00,80.00,BASE,JM1BPBLM6R1709909,,,,,
+S PROVISIONS LLC - CO,95744,RDY-CO-AURORA-1,62528633,14-JUN-25,USD,80.00,10418891157	,JM1BPBLM6R1709909 From DENVER CO 80233 To AURORA CO 80011 Operable,12-JUN-25,80.00,USD,,0.00,80.00,0.00,Fuel Surcharge Per Mile,JM1BPBLM6R1709909,,,,,
+

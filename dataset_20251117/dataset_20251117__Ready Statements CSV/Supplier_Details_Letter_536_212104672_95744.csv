@@ -1,0 +1,4 @@
+Supplier Name,Supplier #,Supplier Site,Payment Number,Payment Date,Payment Currency,Payment Amount,Invoice Number,Invoice Description,Invoice Date,Invoice Amount,Invoice Currency,Inv Amount Withheld,Inv Discount Taken,Inv Amount Paid,Line Amount,Line Description,VIN,Work Order,PO #,Contractor,Week Ending,
+S PROVISIONS LLC - CO,95744,RDY-CO-AURORA-1,62663103,10-OCT-25,USD,240.00,10478782861	,JN8AS5MVXAW143851 From CLAREMORE OK 74017 To SAPULPA OK 74066 Operable,08-OCT-25,120.00,USD,,0.00,120.00,120.00,BASE,JN8AS5MVXAW143851,,,,,
+S PROVISIONS LLC - CO,95744,RDY-CO-AURORA-1,62663103,10-OCT-25,USD,240.00,10478781966	,1B4GP44382B671989 From CLAREMORE OK 74017 To SAPULPA OK 74066 Operable,08-OCT-25,120.00,USD,,0.00,120.00,120.00,BASE,1B4GP44382B671989,,,,,
+

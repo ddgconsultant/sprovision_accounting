@@ -1,0 +1,4 @@
+Supplier Name,Supplier #,Supplier Site,Payment Number,Payment Date,Payment Currency,Payment Amount,Invoice Number,Invoice Description,Invoice Date,Invoice Amount,Invoice Currency,Inv Amount Withheld,Inv Discount Taken,Inv Amount Paid,Line Amount,Line Description,VIN,Work Order,PO #,Contractor,Week Ending,
+S PROVISIONS LLC - CO,95744,RDY-CO-AURORA-1,62523806,11-JUN-25,USD,81.81,10413468570_060625	,,06-JUN-25,6.81,USD,,0.00,6.81,6.81,,KNDJ23AU3N7177352,,,,,
+S PROVISIONS LLC - CO,95744,RDY-CO-AURORA-1,62523806,11-JUN-25,USD,81.81,10416441846	,1FMCU9G93HUE38148 From LAKEWOOD CO 80215 To AURORA CO 80011 Operable,10-JUN-25,75.00,USD,,0.00,75.00,75.00,BASE,1FMCU9G93HUE38148,,,,,
+
