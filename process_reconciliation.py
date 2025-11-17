@@ -12,6 +12,7 @@ from reconciliation_parser import (
     PaymentRemittanceParser,
     BankStatementParser,
     DriverScheduleParser,
+    ReadyStatementParser,
     ReconciliationData
 )
 from reconciliation_engine import ReconciliationEngine
@@ -28,6 +29,7 @@ def main():
     remittance_parser = PaymentRemittanceParser()
     bank_parser = BankStatementParser()
     schedule_parser = DriverScheduleParser()
+    ready_parser = ReadyStatementParser()
 
     # Initialize data container
     data = ReconciliationData()
@@ -105,7 +107,29 @@ def main():
             print(f"  Skipping (not found): {filename}")
 
     print()
-    print("Step 4: Data Summary...")
+    print("Step 4: Parsing Ready Logistics Statements...")
+    print("-" * 80)
+
+    # Find all Ready Statement CSV files
+    import glob
+    ready_csv_pattern = "dataset_*/dataset_*__Ready Statements CSV/*.csv"
+    ready_files = glob.glob(ready_csv_pattern)
+
+    if ready_files:
+        print(f"  Found {len(ready_files)} Ready statement CSV files")
+        for filepath in ready_files:
+            try:
+                statements = ready_parser.parse_file(filepath)
+                data.add_ready_statements(statements)
+                if statements:
+                    print(f"    {Path(filepath).name}: {len(statements)} statements")
+            except Exception as e:
+                print(f"    Error parsing {Path(filepath).name}: {str(e)}")
+    else:
+        print("  No Ready statement CSV files found")
+
+    print()
+    print("Step 5: Data Summary...")
     print("-" * 80)
 
     summary = data.get_summary()
@@ -115,9 +139,11 @@ def main():
     print(f"    Total Amount: ${summary['bank_transactions_total']:,.2f}")
     print(f"  Driver Schedule Entries: {summary['driver_schedule_entries']}")
     print(f"    Total Amount: ${summary['driver_schedule_total']:,.2f}")
+    print(f"  Ready Statements: {summary['ready_statements_count']}")
+    print(f"    Total Amount: ${summary['ready_statements_total']:,.2f}")
 
     print()
-    print("Step 5: Running Reconciliation...")
+    print("Step 6: Running Reconciliation...")
     print("-" * 80)
 
     # Run reconciliation with 90-day lookback for payment lag
@@ -130,7 +156,7 @@ def main():
     print(f"  Orphan Bank Transactions: {len(report.orphan_bank_transactions)}")
 
     print()
-    print("Step 6: Generating Reports...")
+    print("Step 7: Generating Reports...")
     print("-" * 80)
 
     # Generate reports

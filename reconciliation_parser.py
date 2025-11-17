@@ -58,6 +58,23 @@ class DriverScheduleEntry:
         return f"DriverScheduleEntry({self.driver}, {self.date.strftime('%Y-%m-%d')}, {self.company}, {amt})"
 
 
+@dataclass
+class ReadyStatement:
+    """Represents a Ready Logistics payment statement entry"""
+    invoice_number: str
+    invoice_description: str
+    invoice_date: datetime
+    invoice_amount: Decimal
+    payment_number: str
+    payment_date: datetime
+    payment_amount: Decimal
+    vin: str = ""
+    source_file: str = ""
+
+    def __repr__(self):
+        return f"ReadyStatement({self.invoice_number}, Payment Date: {self.payment_date.strftime('%Y-%m-%d')}, ${self.payment_amount})"
+
+
 class PaymentRemittanceParser:
     """Parser for Cox Automotive payment remittance emails"""
 
@@ -262,6 +279,65 @@ class DriverScheduleParser:
         return entries
 
 
+class ReadyStatementParser:
+    """Parser for Ready Logistics Supplier Detail Letter CSV files"""
+
+    def parse_file(self, filepath: str) -> List[ReadyStatement]:
+        """Parse a Ready Logistics CSV statement file"""
+        import csv
+
+        statements = []
+
+        with open(filepath, 'r', encoding='utf-8') as f:
+            reader = csv.DictReader(f)
+
+            for row in reader:
+                try:
+                    # Skip empty rows
+                    if not row.get('Invoice Number') or not row['Invoice Number'].strip():
+                        continue
+
+                    # Parse invoice number (may have tabs or extra whitespace)
+                    invoice_number = row['Invoice Number'].strip()
+
+                    # Parse dates - format is like "15-AUG-25" or "16-AUG-25"
+                    invoice_date_str = row['Invoice Date'].strip()
+                    payment_date_str = row['Payment Date'].strip()
+
+                    # Convert date format: "15-AUG-25" -> datetime
+                    invoice_date = datetime.strptime(invoice_date_str, '%d-%b-%y')
+                    payment_date = datetime.strptime(payment_date_str, '%d-%b-%y')
+
+                    # Parse amounts
+                    invoice_amount = Decimal(row['Invoice Amount'].strip())
+                    payment_amount = Decimal(row['Payment Amount'].strip())
+
+                    # Get other fields
+                    invoice_description = row.get('Invoice Description', '').strip()
+                    payment_number = row.get('Payment Number', '').strip()
+                    vin = row.get('VIN', '').strip()
+
+                    statement = ReadyStatement(
+                        invoice_number=invoice_number,
+                        invoice_description=invoice_description,
+                        invoice_date=invoice_date,
+                        invoice_amount=invoice_amount,
+                        payment_number=payment_number,
+                        payment_date=payment_date,
+                        payment_amount=payment_amount,
+                        vin=vin,
+                        source_file=filepath
+                    )
+                    statements.append(statement)
+
+                except Exception as e:
+                    # Skip malformed lines
+                    print(f"Warning: Could not parse Ready statement row: {e}")
+                    continue
+
+        return statements
+
+
 class ReconciliationData:
     """Container for all parsed reconciliation data"""
 
@@ -269,6 +345,7 @@ class ReconciliationData:
         self.payment_remittances: List[PaymentRemittance] = []
         self.bank_transactions: List[BankTransaction] = []
         self.driver_schedules: List[DriverScheduleEntry] = []
+        self.ready_statements: List[ReadyStatement] = []
 
     def add_payment_remittances(self, payments: List[PaymentRemittance]):
         self.payment_remittances.extend(payments)
@@ -279,11 +356,15 @@ class ReconciliationData:
     def add_driver_schedules(self, schedules: List[DriverScheduleEntry]):
         self.driver_schedules.extend(schedules)
 
+    def add_ready_statements(self, statements: List[ReadyStatement]):
+        self.ready_statements.extend(statements)
+
     def get_summary(self) -> Dict:
         """Get summary statistics"""
         total_remittances = sum(p.payment_amount for p in self.payment_remittances)
         total_bank_payments = sum(t.amount for t in self.bank_transactions)
         total_scheduled = sum(s.amount for s in self.driver_schedules if s.amount)
+        total_ready_payments = sum(r.payment_amount for r in self.ready_statements)
 
         return {
             'payment_remittances_count': len(self.payment_remittances),
@@ -292,4 +373,6 @@ class ReconciliationData:
             'bank_transactions_total': total_bank_payments,
             'driver_schedule_entries': len(self.driver_schedules),
             'driver_schedule_total': total_scheduled,
+            'ready_statements_count': len(self.ready_statements),
+            'ready_statements_total': total_ready_payments,
         }
