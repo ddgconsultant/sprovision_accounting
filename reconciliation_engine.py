@@ -80,6 +80,31 @@ class ReconciliationEngine:
                 return value
         return name
 
+    def _match_ready_statements_to_schedules(self):
+        """
+        Match Ready Logistics statements to driver schedule entries
+        Sets date_paid for Ready loads based on the Ready statement payment date
+        """
+        # Build lookup dictionary for Ready statements by invoice number
+        ready_statements_by_invoice = {}
+        for statement in self.data.ready_statements:
+            ready_statements_by_invoice[statement.invoice_number] = statement
+
+        # Match to driver schedules
+        matched_count = 0
+        for schedule_entry in self.data.driver_schedules:
+            # Check if this is a Ready load (company is "Ready")
+            if schedule_entry.company.upper() == "READY":
+                # Look up in Ready statements by load number
+                if schedule_entry.load_number in ready_statements_by_invoice:
+                    ready_statement = ready_statements_by_invoice[schedule_entry.load_number]
+                    # Set the date_paid from the Ready statement
+                    schedule_entry.date_paid = ready_statement.payment_date
+                    matched_count += 1
+
+        if matched_count > 0:
+            print(f"    Matched {matched_count} Ready loads to Ready statements")
+
     def reconcile(self, lookback_days: int = 90) -> ReconciliationReport:
         """
         Perform full reconciliation
@@ -91,6 +116,9 @@ class ReconciliationEngine:
         self.data.payment_remittances.sort(key=lambda x: x.payment_date)
         self.data.bank_transactions.sort(key=lambda x: x.transaction_date)
         self.data.driver_schedules.sort(key=lambda x: x.date)
+
+        # Match Ready statements to driver schedules and set date_paid
+        self._match_ready_statements_to_schedules()
 
         # Calculate date ranges
         all_dates = []
@@ -122,6 +150,18 @@ class ReconciliationEngine:
 
         for schedule_entry in self.data.driver_schedules:
             if not schedule_entry.amount:
+                continue
+
+            # For Ready loads with date_paid set, consider them "paid directly" (no driver payment needed)
+            # Ready pays directly to business, so there's no Zelle payment to the driver
+            if schedule_entry.company.upper() == "READY" and schedule_entry.date_paid:
+                match = ReconciliationMatch(
+                    driver_entry=schedule_entry,
+                    bank_transaction=None,
+                    match_type="READY_DIRECT_PAYMENT",
+                )
+                report.full_matches.append(match)
+                matched_schedules.add(id(schedule_entry))
                 continue
 
             driver_normalized = self.normalize_driver_name(schedule_entry.driver)

@@ -136,15 +136,23 @@ class ReportGenerator:
 
             for match in sorted(report.full_matches,
                               key=lambda x: x.driver_entry.date if x.driver_entry else datetime.min):
-                if match.driver_entry and match.bank_transaction:
+                if match.driver_entry:
                     lines.append(f"\nSchedule Date: {match.driver_entry.date.strftime('%Y-%m-%d')}")
                     lines.append(f"  Driver: {match.driver_entry.driver}")
                     lines.append(f"  Company: {match.driver_entry.company}")
                     lines.append(f"  Load #: {match.driver_entry.load_number}")
                     lines.append(f"  Scheduled Amount: ${match.driver_entry.amount:,.2f}" if match.driver_entry.amount else "  Scheduled Amount: N/A")
-                    lines.append(f"  Payment Date: {match.bank_transaction.transaction_date.strftime('%Y-%m-%d')}")
-                    lines.append(f"  Paid Amount: ${match.bank_transaction.amount:,.2f}")
-                    lines.append(f"  Days to Payment: {(match.bank_transaction.transaction_date - match.driver_entry.date).days}")
+
+                    # For Ready direct payments, show the Ready payment date
+                    if match.match_type == "READY_DIRECT_PAYMENT":
+                        if match.driver_entry.date_paid:
+                            lines.append(f"  Ready Payment Date: {match.driver_entry.date_paid.strftime('%Y-%m-%d')}")
+                            lines.append(f"  Days to Payment: {(match.driver_entry.date_paid - match.driver_entry.date).days}")
+                        lines.append(f"  Note: Ready direct payment (no driver payment needed)")
+                    elif match.bank_transaction:
+                        lines.append(f"  Payment Date: {match.bank_transaction.transaction_date.strftime('%Y-%m-%d')}")
+                        lines.append(f"  Paid Amount: ${match.bank_transaction.amount:,.2f}")
+                        lines.append(f"  Days to Payment: {(match.bank_transaction.transaction_date - match.driver_entry.date).days}")
 
         lines.append("")
         lines.append("=" * 80)
@@ -174,6 +182,20 @@ class ReportGenerator:
                 'amount_discrepancies': len(report.amount_discrepancies),
             },
             'driver_summaries': report.driver_summaries,
+            'paid_loads': [
+                {
+                    'date': match.driver_entry.date if match.driver_entry else None,
+                    'driver': match.driver_entry.driver if match.driver_entry else None,
+                    'company': match.driver_entry.company if match.driver_entry else None,
+                    'load_number': match.driver_entry.load_number if match.driver_entry else None,
+                    'amount': match.driver_entry.amount if match.driver_entry else None,
+                    'pickup': match.driver_entry.pickup if match.driver_entry else None,
+                    'dropoff': match.driver_entry.dropoff if match.driver_entry else None,
+                    'date_paid': match.driver_entry.date_paid if (match.driver_entry and match.driver_entry.date_paid) else (match.bank_transaction.transaction_date if match.bank_transaction else None),
+                    'payment_type': match.match_type,
+                }
+                for match in report.full_matches
+            ],
             'unpaid_loads': [
                 {
                     'date': entry.date,
