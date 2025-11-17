@@ -407,6 +407,9 @@ def reconcile_data(loads, payments, deposits):
                         break
 
         if matched_deposit:
+            # Update the load's date_paid field with the deposit date
+            load.date_paid = matched_deposit.date
+
             recon = Reconciliation(
                 load=load,
                 deposit=matched_deposit,
@@ -458,6 +461,8 @@ def print_reconciliation_report(reconciled, unmatched_loads, unmatched_payments,
             print(f"      Route: {recon.load.pickup} → {recon.load.dropoff}")
             print(f"      Load #: {recon.load.load_num}")
             print(f"      Amount: ${recon.load.amount}")
+            if recon.load.date_paid:
+                print(f"      Date Paid: {recon.load.date_paid}")
             if recon.load.notes:
                 print(f"      Notes: {recon.load.notes}")
             print(f"      Source: {recon.load.source_file}")
@@ -470,6 +475,15 @@ def print_reconciliation_report(reconciled, unmatched_loads, unmatched_payments,
             print(f"      Amount: ${recon.deposit.amount}")
             print(f"      Balance After: ${recon.deposit.balance}")
             print(f"      Source: {recon.deposit.source_file}")
+
+            # Check for amount discrepancies
+            if recon.load:
+                difference = recon.deposit.amount - recon.load.amount
+                if abs(difference) > Decimal('0.01'):
+                    if difference < 0:
+                        print(f"      ⚠️  UNDERPAID: ${abs(difference):.2f} SHORT (Expected ${recon.load.amount:.2f}, Received ${recon.deposit.amount:.2f})")
+                    else:
+                        print(f"      ✓ OVERPAID: ${difference:.2f} EXTRA (Expected ${recon.load.amount:.2f}, Received ${recon.deposit.amount:.2f})")
 
         print()
 
