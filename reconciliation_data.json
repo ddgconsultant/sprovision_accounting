@@ -8,7 +8,7 @@
         "dropoff": "Tulsa",
         "load_num": "31544-10482",
         "amount": 390.0,
-        "date_paid": null,
+        "date_paid": "Jun 30",
         "notes": null,
         "source_file": "Little Rich - '25 Schedule (1).txt"
       },
@@ -32,7 +32,7 @@
         "dropoff": "Norman",
         "load_num": "14935725",
         "amount": 150.0,
-        "date_paid": null,
+        "date_paid": "Oct 06",
         "notes": null,
         "source_file": "Little Rich - '25 Schedule (1).txt"
       },
@@ -56,7 +56,7 @@
         "dropoff": "OKC",
         "load_num": "14934141",
         "amount": 100.0,
-        "date_paid": null,
+        "date_paid": "Oct 07",
         "notes": null,
         "source_file": "Little Rich - '25 Schedule (1).txt"
       },
@@ -80,7 +80,7 @@
         "dropoff": "Tulsa",
         "load_num": "14935327",
         "amount": 170.0,
-        "date_paid": null,
+        "date_paid": "Oct 07",
         "notes": null,
         "source_file": "Little Rich - '25 Schedule (1).txt"
       },
@@ -104,7 +104,7 @@
         "dropoff": "Tulsa",
         "load_num": "31578-97643",
         "amount": 390.0,
-        "date_paid": null,
+        "date_paid": "Jul 01",
         "notes": null,
         "source_file": "Little Rich - '25 Schedule (1).txt"
       },
@@ -128,7 +128,7 @@
         "dropoff": "Tulsa",
         "load_num": "RP82481A",
         "amount": 130.0,
-        "date_paid": null,
+        "date_paid": "Oct 15",
         "notes": null,
         "source_file": "Little Rich - '25 Schedule (1).txt"
       },
@@ -152,7 +152,7 @@
         "dropoff": "Tulsa",
         "load_num": "RP82489A",
         "amount": 130.0,
-        "date_paid": null,
+        "date_paid": "Oct 23",
         "notes": null,
         "source_file": "Little Rich - '25 Schedule (1).txt"
       },
@@ -176,7 +176,7 @@
         "dropoff": "El",
         "load_num": "15135055",
         "amount": 170.0,
-        "date_paid": null,
+        "date_paid": "Oct 28",
         "notes": null,
         "source_file": "Little Rich - '25 Schedule (1).txt"
       },
@@ -200,7 +200,7 @@
         "dropoff": "El",
         "load_num": "15135019",
         "amount": 170.0,
-        "date_paid": null,
+        "date_paid": "Oct 28",
         "notes": null,
         "source_file": "Little Rich - '25 Schedule (1).txt"
       },
@@ -224,7 +224,7 @@
         "dropoff": "El",
         "load_num": "15135053",
         "amount": 170.0,
-        "date_paid": null,
+        "date_paid": "Oct 28",
         "notes": null,
         "source_file": "Little Rich - '25 Schedule (1).txt"
       },
@@ -248,7 +248,7 @@
         "dropoff": "Tulsa",
         "load_num": "31554-89593",
         "amount": 390.0,
-        "date_paid": null,
+        "date_paid": "Jul 01",
         "notes": null,
         "source_file": "Little Rich - '25 Schedule (1).txt"
       },
@@ -272,7 +272,7 @@
         "dropoff": "Tulsa",
         "load_num": "31529-71101",
         "amount": 390.0,
-        "date_paid": null,
+        "date_paid": "Sep 10",
         "notes": null,
         "source_file": "Little Rich - '25 Schedule (1).txt"
       },
@@ -296,7 +296,7 @@
         "dropoff": "Tulsa",
         "load_num": "15157111",
         "amount": 130.0,
-        "date_paid": null,
+        "date_paid": "Oct 30",
         "notes": null,
         "source_file": "Little Rich - '25 Schedule (1).txt"
       },
@@ -320,7 +320,7 @@
         "dropoff": "Tulsa",
         "load_num": "15157187",
         "amount": 130.0,
-        "date_paid": null,
+        "date_paid": "Oct 30",
         "notes": null,
         "source_file": "Little Rich - '25 Schedule (1).txt"
       },
@@ -344,7 +344,7 @@
         "dropoff": "El",
         "load_num": "RP65635A",
         "amount": 100.0,
-        "date_paid": null,
+        "date_paid": "Sep 23",
         "notes": null,
         "source_file": "Little Rich - '25 Schedule (1).txt"
       },
@@ -368,7 +368,7 @@
         "dropoff": "El",
         "load_num": "RP62482A",
         "amount": 100.0,
-        "date_paid": null,
+        "date_paid": "Sep 23",
         "notes": null,
         "source_file": "Little Rich - '25 Schedule (1).txt"
       },
@@ -392,7 +392,7 @@
         "dropoff": "OKC",
         "load_num": "31579-69492",
         "amount": 390.0,
-        "date_paid": null,
+        "date_paid": "Sep 18",
         "notes": null,
         "source_file": "Little Rich - '25 Schedule (1).txt"
       },
@@ -416,7 +416,7 @@
         "dropoff": "Tulsa",
         "load_num": "14296751",
         "amount": 200.0,
-        "date_paid": null,
+        "date_paid": "Aug 13",
         "notes": null,
         "source_file": "Little Rich - '25 Schedule (1).txt"
       },
@@ -440,7 +440,7 @@
         "dropoff": "Tulsa",
         "load_num": "14332027",
         "amount": 160.0,
-        "date_paid": null,
+        "date_paid": "Aug 21",
         "notes": null,
         "source_file": "Little Rich - '25 Schedule (1).txt"
       },
@@ -464,7 +464,7 @@
         "dropoff": "Yukon",
         "load_num": "14338399",
         "amount": 125.0,
-        "date_paid": null,
+        "date_paid": "Aug 21",
         "notes": null,
         "source_file": "Little Rich - '25 Schedule (1).txt"
       },
@@ -488,7 +488,7 @@
         "dropoff": "OKC",
         "load_num": "14394067",
         "amount": 115.0,
-        "date_paid": null,
+        "date_paid": "Aug 21",
         "notes": null,
         "source_file": "Little Rich - '25 Schedule (1).txt"
       },
@@ -512,7 +512,7 @@
         "dropoff": "Guthrie",
         "load_num": "14338383",
         "amount": 125.0,
-        "date_paid": null,
+        "date_paid": "Aug 21",
         "notes": null,
         "source_file": "Little Rich - '25 Schedule (1).txt"
       },
@@ -536,7 +536,7 @@
         "dropoff": "Stillwater",
         "load_num": "14332179",
         "amount": 250.0,
-        "date_paid": null,
+        "date_paid": "Aug 21",
         "notes": null,
         "source_file": "Little Rich - '25 Schedule (1).txt"
       },
@@ -560,7 +560,7 @@
         "dropoff": "Tulsa",
         "load_num": "RP75395A",
         "amount": 130.0,
-        "date_paid": null,
+        "date_paid": "Oct 07",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -584,7 +584,7 @@
         "dropoff": "Tulsa",
         "load_num": "RP75595A",
         "amount": 130.0,
-        "date_paid": null,
+        "date_paid": "Oct 07",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -608,7 +608,7 @@
         "dropoff": "Tulsa",
         "load_num": "RP75391A",
         "amount": 130.0,
-        "date_paid": null,
+        "date_paid": "Oct 07",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -632,7 +632,7 @@
         "dropoff": "Tulsa",
         "load_num": "RP75393A",
         "amount": 130.0,
-        "date_paid": null,
+        "date_paid": "Oct 08",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -656,7 +656,7 @@
         "dropoff": "Tulsa",
         "load_num": "RP75394A",
         "amount": 130.0,
-        "date_paid": null,
+        "date_paid": "Oct 08",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -680,7 +680,7 @@
         "dropoff": "Tulsa",
         "load_num": "RP75392A",
         "amount": 130.0,
-        "date_paid": null,
+        "date_paid": "Oct 08",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -704,7 +704,7 @@
         "dropoff": "Tulsa",
         "load_num": "RP76140A",
         "amount": 50.0,
-        "date_paid": null,
+        "date_paid": "Oct 14",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -728,7 +728,7 @@
         "dropoff": "Tulsa",
         "load_num": "RP83230A",
         "amount": 50.0,
-        "date_paid": null,
+        "date_paid": "Oct 14",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -752,7 +752,7 @@
         "dropoff": "Tulsa",
         "load_num": "RP83231A",
         "amount": 50.0,
-        "date_paid": null,
+        "date_paid": "Oct 14",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -776,7 +776,7 @@
         "dropoff": "Tulsa",
         "load_num": "RP83232A",
         "amount": 50.0,
-        "date_paid": null,
+        "date_paid": "Oct 14",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -800,7 +800,7 @@
         "dropoff": "Tulsa",
         "load_num": "RP82484A",
         "amount": 130.0,
-        "date_paid": null,
+        "date_paid": "Oct 14",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -824,7 +824,7 @@
         "dropoff": "Tulsa",
         "load_num": "RP82478A",
         "amount": 130.0,
-        "date_paid": null,
+        "date_paid": "Oct 14",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -848,7 +848,7 @@
         "dropoff": "Tulsa",
         "load_num": "RP82487A",
         "amount": 130.0,
-        "date_paid": null,
+        "date_paid": "Oct 14",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -872,7 +872,7 @@
         "dropoff": "Tulsa",
         "load_num": "RP82480A",
         "amount": 130.0,
-        "date_paid": null,
+        "date_paid": "Oct 14",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -896,7 +896,7 @@
         "dropoff": "Bennett",
         "load_num": "RP50094A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 03",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -920,7 +920,7 @@
         "dropoff": "Bennett",
         "load_num": "RP52889A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 03",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -944,7 +944,7 @@
         "dropoff": "Bennett",
         "load_num": "RP52329A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 03",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -968,7 +968,7 @@
         "dropoff": "Bennett",
         "load_num": "RP52330A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 03",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -992,7 +992,7 @@
         "dropoff": "Bennett",
         "load_num": "RP52335A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 04",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1016,7 +1016,7 @@
         "dropoff": "Bennett",
         "load_num": "RP52332A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 04",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1040,7 +1040,7 @@
         "dropoff": "Bennett",
         "load_num": "RP52334A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 04",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1064,7 +1064,7 @@
         "dropoff": "Bennett",
         "load_num": "RP52331A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 04",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1088,7 +1088,7 @@
         "dropoff": "Bennett",
         "load_num": "RP53589A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 04",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1112,7 +1112,7 @@
         "dropoff": "Bennett",
         "load_num": "RP54699A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 04",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1136,7 +1136,7 @@
         "dropoff": "Bennett",
         "load_num": "RP54713A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 04",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1160,7 +1160,7 @@
         "dropoff": "Bennett",
         "load_num": "RP54701A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 04",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1184,7 +1184,7 @@
         "dropoff": "Bennett",
         "load_num": "RP54705A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 07",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1208,7 +1208,7 @@
         "dropoff": "Bennett",
         "load_num": "RP54698A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 07",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1232,7 +1232,7 @@
         "dropoff": "Bennett",
         "load_num": "RP54700A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 07",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1256,7 +1256,7 @@
         "dropoff": "Bennett",
         "load_num": "RP54703A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 07",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1280,7 +1280,7 @@
         "dropoff": "Bennett",
         "load_num": "RP54707A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 07",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1304,7 +1304,7 @@
         "dropoff": "Bennett",
         "load_num": "RP54697A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 07",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1328,7 +1328,7 @@
         "dropoff": "Bennett",
         "load_num": "RP54702A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 07",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1352,7 +1352,7 @@
         "dropoff": "Bennett",
         "load_num": "RP54706A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 07",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1376,7 +1376,7 @@
         "dropoff": "Denver",
         "load_num": "14519841",
         "amount": 185.0,
-        "date_paid": null,
+        "date_paid": "Sep 08",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1400,7 +1400,7 @@
         "dropoff": "Denver",
         "load_num": "14519835",
         "amount": 185.0,
-        "date_paid": null,
+        "date_paid": "Sep 08",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1424,7 +1424,7 @@
         "dropoff": "Bennett",
         "load_num": "RP54704A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 08",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1448,7 +1448,7 @@
         "dropoff": "Bennett",
         "load_num": "RP54708A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 08",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1472,7 +1472,7 @@
         "dropoff": "Bennett",
         "load_num": "RP55517A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 07",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1496,7 +1496,7 @@
         "dropoff": "Bennett",
         "load_num": "RP54709A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 08",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1520,7 +1520,7 @@
         "dropoff": "Bennett",
         "load_num": "RP54712A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 08",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1544,7 +1544,7 @@
         "dropoff": "Bennett",
         "load_num": "RP54710A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 08",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1568,7 +1568,7 @@
         "dropoff": "Bennett",
         "load_num": "RP54711A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 08",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1592,7 +1592,7 @@
         "dropoff": "Bennett",
         "load_num": "RP54714A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 09",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1616,7 +1616,7 @@
         "dropoff": "Bennett",
         "load_num": "RP57281A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 09",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1640,7 +1640,7 @@
         "dropoff": "Bennett",
         "load_num": "RP57279A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 09",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1664,7 +1664,7 @@
         "dropoff": "Bennett",
         "load_num": "RP57280A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 09",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1688,7 +1688,7 @@
         "dropoff": "Bennett",
         "load_num": "RP57282A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 12",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1712,7 +1712,7 @@
         "dropoff": "Bennett",
         "load_num": "RP59731A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 12",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1736,7 +1736,7 @@
         "dropoff": "Bennett",
         "load_num": "RP59733A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 12",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1760,7 +1760,7 @@
         "dropoff": "Bennett",
         "load_num": "RP64201A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 23",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1784,7 +1784,7 @@
         "dropoff": "Bennett",
         "load_num": "RP64199A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 23",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1808,7 +1808,7 @@
         "dropoff": "Bennett",
         "load_num": "RP64198A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 23",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1832,7 +1832,7 @@
         "dropoff": "Bennett",
         "load_num": "RP66252A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 23",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1856,7 +1856,7 @@
         "dropoff": "Bennett",
         "load_num": "RP66756A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 23",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1880,7 +1880,7 @@
         "dropoff": "Bennett",
         "load_num": "RP66254A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 23",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1904,7 +1904,7 @@
         "dropoff": "Bennett",
         "load_num": "RP66255A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 23",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1928,7 +1928,7 @@
         "dropoff": "Bennett",
         "load_num": "RP66253A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 23",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1952,7 +1952,7 @@
         "dropoff": "Bennett",
         "load_num": "RP69777A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 26",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -1976,7 +1976,7 @@
         "dropoff": "Bennett",
         "load_num": "RP69772A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 26",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2000,7 +2000,7 @@
         "dropoff": "Bennett",
         "load_num": "RP69775A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 26",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2024,7 +2024,7 @@
         "dropoff": "Bennett",
         "load_num": "RP69780A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 26",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2048,7 +2048,7 @@
         "dropoff": "Bennett",
         "load_num": "RP69781A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 26",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2072,7 +2072,7 @@
         "dropoff": "Bennett",
         "load_num": "RP69774A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 26",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2096,7 +2096,7 @@
         "dropoff": "Bennett",
         "load_num": "RP69773A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 26",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2120,7 +2120,7 @@
         "dropoff": "Bennett",
         "load_num": "RP69776A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 26",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2144,7 +2144,7 @@
         "dropoff": "Bennett",
         "load_num": "RP69778A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 29",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2168,7 +2168,7 @@
         "dropoff": "Bennett",
         "load_num": "RP69784A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 29",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2192,7 +2192,7 @@
         "dropoff": "Bennett",
         "load_num": "RP69779A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Oct 03",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2216,7 +2216,7 @@
         "dropoff": "Bennett",
         "load_num": "RP69783A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 29",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2240,7 +2240,7 @@
         "dropoff": "Bennett",
         "load_num": "RP71252A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Oct 03",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2264,7 +2264,7 @@
         "dropoff": "Bennett",
         "load_num": "RP71246A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Oct 03",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2288,7 +2288,7 @@
         "dropoff": "Bennett",
         "load_num": "RP71250A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Oct 03",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2312,7 +2312,7 @@
         "dropoff": "Bennett",
         "load_num": "RP71245A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 29",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2336,7 +2336,7 @@
         "dropoff": "Tulsa",
         "load_num": "RP71546A",
         "amount": 50.0,
-        "date_paid": null,
+        "date_paid": "Sep 30",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2360,7 +2360,7 @@
         "dropoff": "Tulsa",
         "load_num": "RP71542A",
         "amount": 50.0,
-        "date_paid": null,
+        "date_paid": "Sep 30",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2384,7 +2384,7 @@
         "dropoff": "Tulsa",
         "load_num": "RP71549A",
         "amount": 50.0,
-        "date_paid": null,
+        "date_paid": "Sep 30",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2408,7 +2408,7 @@
         "dropoff": "Tulsa",
         "load_num": "RP71543A",
         "amount": 50.0,
-        "date_paid": null,
+        "date_paid": "Sep 30",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2432,7 +2432,7 @@
         "dropoff": "Tulsa",
         "load_num": "RP71545A",
         "amount": 50.0,
-        "date_paid": null,
+        "date_paid": "Sep 30",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2456,7 +2456,7 @@
         "dropoff": "Tulsa",
         "load_num": "RP71544A",
         "amount": 50.0,
-        "date_paid": null,
+        "date_paid": "Sep 30",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2480,7 +2480,7 @@
         "dropoff": "Tulsa",
         "load_num": "RP71547A",
         "amount": 50.0,
-        "date_paid": null,
+        "date_paid": "Sep 30",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2504,7 +2504,7 @@
         "dropoff": "Tulsa",
         "load_num": "RP71548A",
         "amount": 50.0,
-        "date_paid": null,
+        "date_paid": "Sep 30",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2528,7 +2528,7 @@
         "dropoff": "Tulsa",
         "load_num": "RP70998A",
         "amount": 50.0,
-        "date_paid": null,
+        "date_paid": "Sep 30",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2552,7 +2552,7 @@
         "dropoff": "Tulsa",
         "load_num": "RP70994A",
         "amount": 50.0,
-        "date_paid": null,
+        "date_paid": "Sep 30",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2576,7 +2576,7 @@
         "dropoff": "Tulsa",
         "load_num": "RP70996A",
         "amount": 50.0,
-        "date_paid": null,
+        "date_paid": "Sep 30",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2600,7 +2600,7 @@
         "dropoff": "Tulsa",
         "load_num": "RP70993A",
         "amount": 50.0,
-        "date_paid": null,
+        "date_paid": "Sep 30",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2624,7 +2624,7 @@
         "dropoff": "Tulsa",
         "load_num": "RP70999A",
         "amount": 50.0,
-        "date_paid": null,
+        "date_paid": "Sep 30",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2648,7 +2648,7 @@
         "dropoff": "Tulsa",
         "load_num": "RP70995A",
         "amount": 50.0,
-        "date_paid": null,
+        "date_paid": "Sep 30",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2672,7 +2672,7 @@
         "dropoff": "Tulsa",
         "load_num": "RP70997A",
         "amount": 50.0,
-        "date_paid": null,
+        "date_paid": "Sep 30",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2696,7 +2696,7 @@
         "dropoff": "Bennett",
         "load_num": "RP31518A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 03",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2720,7 +2720,7 @@
         "dropoff": "Bennett",
         "load_num": "RP32206A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 03",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2744,7 +2744,7 @@
         "dropoff": "Bennett",
         "load_num": "RP32207A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 03",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2768,7 +2768,7 @@
         "dropoff": "Bennett",
         "load_num": "RP31513A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 03",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2792,7 +2792,7 @@
         "dropoff": "Bennett",
         "load_num": "RP33547A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 04",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2816,7 +2816,7 @@
         "dropoff": "Bennett",
         "load_num": "RP33548A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 04",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2840,7 +2840,7 @@
         "dropoff": "Bennett",
         "load_num": "RP33545A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 02",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2864,7 +2864,7 @@
         "dropoff": "Bennett",
         "load_num": "RP33544A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 04",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2888,7 +2888,7 @@
         "dropoff": "Bennett",
         "load_num": "RP32290A",
         "amount": 72.0,
-        "date_paid": null,
+        "date_paid": "Aug 05",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2912,7 +2912,7 @@
         "dropoff": "Bennett",
         "load_num": "RP34720A",
         "amount": 72.0,
-        "date_paid": null,
+        "date_paid": "Aug 05",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2936,7 +2936,7 @@
         "dropoff": "Bennett",
         "load_num": "RP32288A",
         "amount": 72.0,
-        "date_paid": null,
+        "date_paid": "Aug 05",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2960,7 +2960,7 @@
         "dropoff": "Bennett",
         "load_num": "RP34716A",
         "amount": 72.0,
-        "date_paid": null,
+        "date_paid": "Aug 05",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -2984,7 +2984,7 @@
         "dropoff": "Bennett",
         "load_num": "RP32289A",
         "amount": 72.0,
-        "date_paid": null,
+        "date_paid": "Aug 06",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3008,7 +3008,7 @@
         "dropoff": "Bennett",
         "load_num": "RP34718A",
         "amount": 72.0,
-        "date_paid": null,
+        "date_paid": "Aug 06",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3032,7 +3032,7 @@
         "dropoff": "Bennett",
         "load_num": "RP34721A",
         "amount": 72.0,
-        "date_paid": null,
+        "date_paid": "Aug 07",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3056,7 +3056,7 @@
         "dropoff": "Bennett",
         "load_num": "RP32873A",
         "amount": 72.0,
-        "date_paid": null,
+        "date_paid": "Aug 06",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3080,7 +3080,7 @@
         "dropoff": "Bennett",
         "load_num": "RP32285A",
         "amount": 72.0,
-        "date_paid": null,
+        "date_paid": "Aug 08",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3104,7 +3104,7 @@
         "dropoff": "Bennett",
         "load_num": "RP32284A",
         "amount": 72.0,
-        "date_paid": null,
+        "date_paid": "Aug 08",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3128,7 +3128,7 @@
         "dropoff": "Bennett",
         "load_num": "RP32286A",
         "amount": 72.0,
-        "date_paid": null,
+        "date_paid": "Aug 08",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3152,7 +3152,7 @@
         "dropoff": "Bennett",
         "load_num": "RP34717A",
         "amount": 72.0,
-        "date_paid": null,
+        "date_paid": "Aug 08",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3176,7 +3176,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36237A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 08",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3200,7 +3200,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36239A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 08",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3224,7 +3224,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36225A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 08",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3248,7 +3248,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36246A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 08",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3272,7 +3272,7 @@
         "dropoff": "Bennett",
         "load_num": "RP40989A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 18",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3296,7 +3296,7 @@
         "dropoff": "Bennett",
         "load_num": "RP40996A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 18",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3320,7 +3320,7 @@
         "dropoff": "Bennett",
         "load_num": "RP42783A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 18",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3344,7 +3344,7 @@
         "dropoff": "Bennett",
         "load_num": "RP40998A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 18",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3368,7 +3368,7 @@
         "dropoff": "Bennett",
         "load_num": "RP42789A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 18",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3392,7 +3392,7 @@
         "dropoff": "Bennett",
         "load_num": "RP42779A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 18",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3416,7 +3416,7 @@
         "dropoff": "Bennett",
         "load_num": "RP40999A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 21",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3440,7 +3440,7 @@
         "dropoff": "Bennett",
         "load_num": "RP40983A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 21",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3464,7 +3464,7 @@
         "dropoff": "Bennett",
         "load_num": "RP42778A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 19",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3488,7 +3488,7 @@
         "dropoff": "Bennett",
         "load_num": "RP42782A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 19",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3512,7 +3512,7 @@
         "dropoff": "Bennett",
         "load_num": "RP42796A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 19",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3536,7 +3536,7 @@
         "dropoff": "Bennett",
         "load_num": "RP40995A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 19",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3560,7 +3560,7 @@
         "dropoff": "Bennett",
         "load_num": "RP42778A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 19",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3584,7 +3584,7 @@
         "dropoff": "Bennett",
         "load_num": "RP42782A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 19",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3608,7 +3608,7 @@
         "dropoff": "Bennett",
         "load_num": "RP42796A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 19",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3632,7 +3632,7 @@
         "dropoff": "Bennett",
         "load_num": "RP40995A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 19",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3656,7 +3656,7 @@
         "dropoff": "Bennett",
         "load_num": "RP42790A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 20",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3680,7 +3680,7 @@
         "dropoff": "Bennett",
         "load_num": "RP42781A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 20",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3704,7 +3704,7 @@
         "dropoff": "Bennett",
         "load_num": "RP42792A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 20",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3728,7 +3728,7 @@
         "dropoff": "Bennett",
         "load_num": "RP42785A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 20",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3752,7 +3752,7 @@
         "dropoff": "Bennett",
         "load_num": "RP42780A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 20",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3776,7 +3776,7 @@
         "dropoff": "Bennett",
         "load_num": "RP42784A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 20",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3800,7 +3800,7 @@
         "dropoff": "Bennett",
         "load_num": "RP42795A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 20",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3824,7 +3824,7 @@
         "dropoff": "Bennett",
         "load_num": "RP42797A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 20",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3848,7 +3848,7 @@
         "dropoff": "Bennett",
         "load_num": "RP42787A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 22",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3872,7 +3872,7 @@
         "dropoff": "Bennett",
         "load_num": "RP42791A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 21",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3896,7 +3896,7 @@
         "dropoff": "Bennett",
         "load_num": "RP42798A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 21",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3920,7 +3920,7 @@
         "dropoff": "Bennett",
         "load_num": "RP42788A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 21",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3944,7 +3944,7 @@
         "dropoff": "Bennett",
         "load_num": "RP42793A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 21",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3968,7 +3968,7 @@
         "dropoff": "Bennett",
         "load_num": "RP42794A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 21",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -3992,7 +3992,7 @@
         "dropoff": "Bennett",
         "load_num": "RP43741A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 21",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4016,7 +4016,7 @@
         "dropoff": "Bennett",
         "load_num": "RP45373A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 21",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4040,7 +4040,7 @@
         "dropoff": "Bennett",
         "load_num": "RP45372A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 26",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4064,7 +4064,7 @@
         "dropoff": "Bennett",
         "load_num": "RP45374A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 26",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4088,7 +4088,7 @@
         "dropoff": "Bennett",
         "load_num": "RP45370A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 26",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4112,7 +4112,7 @@
         "dropoff": "Bennett",
         "load_num": "RP45368A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 26",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4136,7 +4136,7 @@
         "dropoff": "Bennett",
         "load_num": "RP45369A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 26",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4160,7 +4160,7 @@
         "dropoff": "Bennett",
         "load_num": "RP45371A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 26",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4184,7 +4184,7 @@
         "dropoff": "Bennett",
         "load_num": "RP45375A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 26",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4208,7 +4208,7 @@
         "dropoff": "Bennett",
         "load_num": "RP45376A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 26",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4232,7 +4232,7 @@
         "dropoff": "Bennett",
         "load_num": "RP45367A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 25",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4256,7 +4256,7 @@
         "dropoff": "Bennett",
         "load_num": "RP47269A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 25",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4280,7 +4280,7 @@
         "dropoff": "Bennett",
         "load_num": "RP47268A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 25",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4304,7 +4304,7 @@
         "dropoff": "Bennett",
         "load_num": "RP47267A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 25",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4328,7 +4328,7 @@
         "dropoff": "City",
         "load_num": "RP46782A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 26",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4352,7 +4352,7 @@
         "dropoff": "City",
         "load_num": "RP46783A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 26",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4376,7 +4376,7 @@
         "dropoff": "City",
         "load_num": "RP46784A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 26",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4400,7 +4400,7 @@
         "dropoff": "Bennett",
         "load_num": "RP11816A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 08",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4424,7 +4424,7 @@
         "dropoff": "Bennett",
         "load_num": "RP11822A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 08",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4448,7 +4448,7 @@
         "dropoff": "Bennett",
         "load_num": "RP11817A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 08",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4472,7 +4472,7 @@
         "dropoff": "Bennett",
         "load_num": "RP11815A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 08",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4496,7 +4496,7 @@
         "dropoff": "Bennett",
         "load_num": "RP11827A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 08",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4520,7 +4520,7 @@
         "dropoff": "Bennett",
         "load_num": "RP11821A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 08",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4544,7 +4544,7 @@
         "dropoff": "Bennett",
         "load_num": "RP11824A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 08",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4568,7 +4568,7 @@
         "dropoff": "Bennett",
         "load_num": "RP11818A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 09",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4592,7 +4592,7 @@
         "dropoff": "Bennett",
         "load_num": "RP10932A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 09",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4616,7 +4616,7 @@
         "dropoff": "Bennett",
         "load_num": "RP11335A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 09",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4640,7 +4640,7 @@
         "dropoff": "Bennett",
         "load_num": "RP10931A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 09",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4664,7 +4664,7 @@
         "dropoff": "Bennett",
         "load_num": "RP13241A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 09",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4688,7 +4688,7 @@
         "dropoff": "Bennett",
         "load_num": "RP13239A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 10",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4712,7 +4712,7 @@
         "dropoff": "Bennett",
         "load_num": "RP10930A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 10",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4736,7 +4736,7 @@
         "dropoff": "Bennett",
         "load_num": "RP13240A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 10",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4760,7 +4760,7 @@
         "dropoff": "Bennett",
         "load_num": "RP13242A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 10",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4784,7 +4784,7 @@
         "dropoff": "Bennett",
         "load_num": "RP13237A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 10",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4808,7 +4808,7 @@
         "dropoff": "Bennett",
         "load_num": "RP13238A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 10",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4832,7 +4832,7 @@
         "dropoff": "Bennett",
         "load_num": "RP11750A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 10",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4856,7 +4856,7 @@
         "dropoff": "Bennett",
         "load_num": "RP15888A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 10",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4880,7 +4880,7 @@
         "dropoff": "Bennett",
         "load_num": "RP10924A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 10",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4904,7 +4904,7 @@
         "dropoff": "Bennett",
         "load_num": "RP10925A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 10",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4928,7 +4928,7 @@
         "dropoff": "Bennett",
         "load_num": "RP11812A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 10",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4952,7 +4952,7 @@
         "dropoff": "Bennett",
         "load_num": "RP11810A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 10",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -4976,7 +4976,7 @@
         "dropoff": "Bennett",
         "load_num": "RP15890A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 11",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5000,7 +5000,7 @@
         "dropoff": "Bennett",
         "load_num": "RP15885A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 11",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5024,7 +5024,7 @@
         "dropoff": "Bennett",
         "load_num": "RP15889A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 11",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5048,7 +5048,7 @@
         "dropoff": "Bennett",
         "load_num": "RP15905A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 11",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5072,7 +5072,7 @@
         "dropoff": "Bennett",
         "load_num": "RP15902A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 11",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5096,7 +5096,7 @@
         "dropoff": "Bennett",
         "load_num": "RP15884A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 11",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5120,7 +5120,7 @@
         "dropoff": "Bennett",
         "load_num": "RP16351A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 11",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5144,7 +5144,7 @@
         "dropoff": "Bennett",
         "load_num": "RP15883A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 11",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5168,7 +5168,7 @@
         "dropoff": "Bennett",
         "load_num": "RP15893A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 15",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5192,7 +5192,7 @@
         "dropoff": "Bennett",
         "load_num": "RP15891A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 15",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5216,7 +5216,7 @@
         "dropoff": "Bennett",
         "load_num": "RP15897A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 15",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5240,7 +5240,7 @@
         "dropoff": "Bennett",
         "load_num": "RP15886A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 14",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5264,7 +5264,7 @@
         "dropoff": "Bennett",
         "load_num": "RP15894A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 15",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5288,7 +5288,7 @@
         "dropoff": "Bennett",
         "load_num": "RP15904A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 13",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5312,7 +5312,7 @@
         "dropoff": "Bennett",
         "load_num": "RP15900A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 15",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5336,7 +5336,7 @@
         "dropoff": "Bennett",
         "load_num": "RP15892A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 13",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5360,7 +5360,7 @@
         "dropoff": "Denver",
         "load_num": "13935829",
         "amount": 180.0,
-        "date_paid": null,
+        "date_paid": "Jul 21",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5384,7 +5384,7 @@
         "dropoff": "Denver",
         "load_num": "13935843",
         "amount": 146.0,
-        "date_paid": null,
+        "date_paid": "Jul 21",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5408,7 +5408,7 @@
         "dropoff": "Denver",
         "load_num": "13935839",
         "amount": 146.0,
-        "date_paid": null,
+        "date_paid": "Jul 21",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5432,7 +5432,7 @@
         "dropoff": "Denver",
         "load_num": "13935837",
         "amount": 146.0,
-        "date_paid": null,
+        "date_paid": "Jul 21",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5456,7 +5456,7 @@
         "dropoff": "Denver",
         "load_num": "13935835",
         "amount": 145.0,
-        "date_paid": null,
+        "date_paid": "Jul 24",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5480,7 +5480,7 @@
         "dropoff": "Denver",
         "load_num": "13935833",
         "amount": 145.0,
-        "date_paid": null,
+        "date_paid": "Jul 24",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5504,7 +5504,7 @@
         "dropoff": "Denver",
         "load_num": "13935827",
         "amount": 145.0,
-        "date_paid": null,
+        "date_paid": "Jul 24",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5528,7 +5528,7 @@
         "dropoff": "Denver",
         "load_num": "13935823",
         "amount": 145.0,
-        "date_paid": null,
+        "date_paid": "Jul 24",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5552,7 +5552,7 @@
         "dropoff": "Bennett",
         "load_num": "RP26505A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 28",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5576,7 +5576,7 @@
         "dropoff": "Bennett",
         "load_num": "RP26495A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 28",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5600,7 +5600,7 @@
         "dropoff": "Bennett",
         "load_num": "RP26509A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 28",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5624,7 +5624,7 @@
         "dropoff": "Bennett",
         "load_num": "RP26502A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 27",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5648,7 +5648,7 @@
         "dropoff": "Bennett",
         "load_num": "RP26510A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 27",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5672,7 +5672,7 @@
         "dropoff": "Bennett",
         "load_num": "RP26512A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 27",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5696,7 +5696,7 @@
         "dropoff": "Bennett",
         "load_num": "RP26499A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 27",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5720,7 +5720,7 @@
         "dropoff": "Bennett",
         "load_num": "RP26497A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 28",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5744,7 +5744,7 @@
         "dropoff": "Bennett",
         "load_num": "RP31900A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 31",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5768,7 +5768,7 @@
         "dropoff": "Bennett",
         "load_num": "RP31515A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 31",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5792,7 +5792,7 @@
         "dropoff": "Bennett",
         "load_num": "RP31517A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 31",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5816,7 +5816,7 @@
         "dropoff": "Bennett",
         "load_num": "RP31496A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 31",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5840,7 +5840,7 @@
         "dropoff": "Bennett",
         "load_num": "RP31505A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 01",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5864,7 +5864,7 @@
         "dropoff": "Bennett",
         "load_num": "RP31508A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 31",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5888,7 +5888,7 @@
         "dropoff": "Bennett",
         "load_num": "RP31506A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 31",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5912,7 +5912,7 @@
         "dropoff": "Bennett",
         "load_num": "RP31512A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 31",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5936,7 +5936,7 @@
         "dropoff": "Bennett",
         "load_num": "RP31498A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 05",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5960,7 +5960,7 @@
         "dropoff": "Bennett",
         "load_num": "RP31509A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 01",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -5984,7 +5984,7 @@
         "dropoff": "Bennett",
         "load_num": "RP31501A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 01",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6008,7 +6008,7 @@
         "dropoff": "Bennett",
         "load_num": "RP31507A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 01",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6032,7 +6032,7 @@
         "dropoff": "Bennett",
         "load_num": "RP31510A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 01",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6056,7 +6056,7 @@
         "dropoff": "Bennett",
         "load_num": "RP31494A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 01",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6080,7 +6080,7 @@
         "dropoff": "Bennett",
         "load_num": "RP31499A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 01",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6104,7 +6104,7 @@
         "dropoff": "Bennett",
         "load_num": "RP31493A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 01",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6128,7 +6128,7 @@
         "dropoff": "Bennett",
         "load_num": "RP31518A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 03",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6152,7 +6152,7 @@
         "dropoff": "Bennett",
         "load_num": "RP32206A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 03",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6176,7 +6176,7 @@
         "dropoff": "Bennett",
         "load_num": "RP32207A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 03",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6200,7 +6200,7 @@
         "dropoff": "Bennett",
         "load_num": "RP31513A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 03",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6224,7 +6224,7 @@
         "dropoff": "Bennett",
         "load_num": "RP33547A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 04",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6248,7 +6248,7 @@
         "dropoff": "Bennett",
         "load_num": "RP33548A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 04",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6272,7 +6272,7 @@
         "dropoff": "Bennett",
         "load_num": "RP33545A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 02",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6296,7 +6296,7 @@
         "dropoff": "Bennett",
         "load_num": "RP33544A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 04",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6320,7 +6320,7 @@
         "dropoff": "Denver",
         "load_num": "13643287",
         "amount": 155.0,
-        "date_paid": null,
+        "date_paid": "Jun 23",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6344,7 +6344,7 @@
         "dropoff": "Denver",
         "load_num": "13643289",
         "amount": 150.0,
-        "date_paid": null,
+        "date_paid": "Jun 26",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6368,7 +6368,7 @@
         "dropoff": "Denver",
         "load_num": "13643291",
         "amount": 125.0,
-        "date_paid": null,
+        "date_paid": "Jun 20",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6392,7 +6392,7 @@
         "dropoff": "Denver",
         "load_num": "13643297",
         "amount": 200.0,
-        "date_paid": null,
+        "date_paid": "Jun 25",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6416,7 +6416,7 @@
         "dropoff": "Denver",
         "load_num": "13643299",
         "amount": 125.0,
-        "date_paid": null,
+        "date_paid": "Jun 19",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6440,7 +6440,7 @@
         "dropoff": "Denver",
         "load_num": "13643301",
         "amount": 150.0,
-        "date_paid": null,
+        "date_paid": "Jun 26",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6464,7 +6464,7 @@
         "dropoff": "Denver",
         "load_num": "13643303",
         "amount": 125.0,
-        "date_paid": null,
+        "date_paid": "Jun 19",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6488,7 +6488,7 @@
         "dropoff": "Denver",
         "load_num": "13643305",
         "amount": 150.0,
-        "date_paid": null,
+        "date_paid": "Jun 27",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6512,7 +6512,7 @@
         "dropoff": "Denver",
         "load_num": "13643319",
         "amount": 225.0,
-        "date_paid": null,
+        "date_paid": "Jun 23",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6536,7 +6536,7 @@
         "dropoff": "Denver",
         "load_num": "13643321",
         "amount": 125.0,
-        "date_paid": null,
+        "date_paid": "Jun 20",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6560,7 +6560,7 @@
         "dropoff": "Denver",
         "load_num": "13643325",
         "amount": 225.0,
-        "date_paid": null,
+        "date_paid": "Jun 23",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6584,7 +6584,7 @@
         "dropoff": "Denver",
         "load_num": "13643327",
         "amount": 150.0,
-        "date_paid": null,
+        "date_paid": "Jun 23",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6608,7 +6608,7 @@
         "dropoff": "Denver",
         "load_num": "13643329",
         "amount": 150.0,
-        "date_paid": null,
+        "date_paid": "Jun 20",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6632,7 +6632,7 @@
         "dropoff": "Denver",
         "load_num": "13655701",
         "amount": 125.0,
-        "date_paid": null,
+        "date_paid": "Jun 19",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6656,7 +6656,7 @@
         "dropoff": "Denver",
         "load_num": "13655703",
         "amount": 125.0,
-        "date_paid": null,
+        "date_paid": "Jun 20",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6680,7 +6680,7 @@
         "dropoff": "Denver",
         "load_num": "13655705",
         "amount": 150.0,
-        "date_paid": null,
+        "date_paid": "Jun 19",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6704,7 +6704,7 @@
         "dropoff": "Bennett",
         "load_num": "RN53049A",
         "amount": 118.0,
-        "date_paid": null,
+        "date_paid": "May 28",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6728,7 +6728,7 @@
         "dropoff": "Bennett",
         "load_num": "RN53050A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "May 28",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6752,7 +6752,7 @@
         "dropoff": "Bennett",
         "load_num": "RN53745A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "May 28",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6776,7 +6776,7 @@
         "dropoff": "Bennett",
         "load_num": "RN56431A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "May 09",
         "notes": "price increase by $45",
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6800,7 +6800,7 @@
         "dropoff": "Bennett",
         "load_num": "RN56432A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "May 08",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6824,7 +6824,7 @@
         "dropoff": "Bennett",
         "load_num": "RN56433A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "May 08",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6848,7 +6848,7 @@
         "dropoff": "Bennett",
         "load_num": "RN58275A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "May 08",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6872,7 +6872,7 @@
         "dropoff": "Bennett",
         "load_num": "RN58276A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "May 08",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6896,7 +6896,7 @@
         "dropoff": "Denver",
         "load_num": "13119865",
         "amount": 85.0,
-        "date_paid": null,
+        "date_paid": "May 08",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6920,7 +6920,7 @@
         "dropoff": "Denver",
         "load_num": "13119863",
         "amount": 100.0,
-        "date_paid": null,
+        "date_paid": "May 08",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6944,7 +6944,7 @@
         "dropoff": "Denver",
         "load_num": "13119861",
         "amount": 85.0,
-        "date_paid": null,
+        "date_paid": "May 08",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6968,7 +6968,7 @@
         "dropoff": "Denver",
         "load_num": "13119855",
         "amount": 85.0,
-        "date_paid": null,
+        "date_paid": "May 08",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -6992,7 +6992,7 @@
         "dropoff": "Denver",
         "load_num": "13169019",
         "amount": 100.0,
-        "date_paid": null,
+        "date_paid": "May 09",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7016,7 +7016,7 @@
         "dropoff": "Denver",
         "load_num": "13117039",
         "amount": 100.0,
-        "date_paid": null,
+        "date_paid": "May 09",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7040,7 +7040,7 @@
         "dropoff": "Bennett",
         "load_num": "RN59138A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "May 12",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7064,7 +7064,7 @@
         "dropoff": "Bennett",
         "load_num": "RN59136A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "May 12",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7088,7 +7088,7 @@
         "dropoff": "Bennett",
         "load_num": "RN59137A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "May 12",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7112,7 +7112,7 @@
         "dropoff": "Bennett",
         "load_num": "RN59134A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "May 10",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7136,7 +7136,7 @@
         "dropoff": "Bennett",
         "load_num": "RN59135A",
         "amount": 105.0,
-        "date_paid": null,
+        "date_paid": "May 12",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7160,7 +7160,7 @@
         "dropoff": "Bennett",
         "load_num": "RN57875A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "May 10",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7184,7 +7184,7 @@
         "dropoff": "Denver",
         "load_num": "13119859",
         "amount": 90.0,
-        "date_paid": null,
+        "date_paid": "May 12",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7208,7 +7208,7 @@
         "dropoff": "Denver",
         "load_num": "12603059",
         "amount": 270.0,
-        "date_paid": null,
+        "date_paid": "Apr 16",
         "notes": "4/21",
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7232,7 +7232,7 @@
         "dropoff": "City",
         "load_num": "12712675",
         "amount": 80.0,
-        "date_paid": null,
+        "date_paid": "Apr 04",
         "notes": "4/8",
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7256,7 +7256,7 @@
         "dropoff": "City",
         "load_num": "12712671",
         "amount": 80.0,
-        "date_paid": null,
+        "date_paid": "Apr 03",
         "notes": "4/8",
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7280,7 +7280,7 @@
         "dropoff": "City",
         "load_num": "12712667",
         "amount": 80.0,
-        "date_paid": null,
+        "date_paid": "Apr 03",
         "notes": "4/8",
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7304,7 +7304,7 @@
         "dropoff": "City",
         "load_num": "12712663",
         "amount": 80.0,
-        "date_paid": null,
+        "date_paid": "Apr 04",
         "notes": "4/8",
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7328,7 +7328,7 @@
         "dropoff": "Bennett",
         "load_num": "RN30625A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 07",
         "notes": "4/9",
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7352,7 +7352,7 @@
         "dropoff": "Bennett",
         "load_num": "RN30628A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 05",
         "notes": "4/8",
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7376,7 +7376,7 @@
         "dropoff": "Bennett",
         "load_num": "RN30626A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 07",
         "notes": "4/9",
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7400,7 +7400,7 @@
         "dropoff": "Denver",
         "load_num": "12734881",
         "amount": 100.0,
-        "date_paid": null,
+        "date_paid": "Apr 06",
         "notes": "4/8",
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7424,7 +7424,7 @@
         "dropoff": "Bennett",
         "load_num": "RN32951A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 08",
         "notes": "4/11",
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7448,7 +7448,7 @@
         "dropoff": "Denver",
         "load_num": "12735079",
         "amount": 90.0,
-        "date_paid": null,
+        "date_paid": "Apr 10",
         "notes": "4/16",
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7472,7 +7472,7 @@
         "dropoff": "Denver",
         "load_num": "12674293",
         "amount": 100.0,
-        "date_paid": null,
+        "date_paid": "Apr 16",
         "notes": "4/21",
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7496,7 +7496,7 @@
         "dropoff": "Denver",
         "load_num": "12766277",
         "amount": 100.0,
-        "date_paid": null,
+        "date_paid": "Apr 10",
         "notes": "4/16",
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7520,7 +7520,7 @@
         "dropoff": "Denver",
         "load_num": "12766303",
         "amount": 85.0,
-        "date_paid": null,
+        "date_paid": "Apr 09",
         "notes": "4/16",
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7544,7 +7544,7 @@
         "dropoff": "Denver",
         "load_num": "12766275",
         "amount": 85.0,
-        "date_paid": null,
+        "date_paid": "Apr 10",
         "notes": "4/16",
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7568,7 +7568,7 @@
         "dropoff": "Denver",
         "load_num": "12752503",
         "amount": 90.0,
-        "date_paid": null,
+        "date_paid": "Apr 11",
         "notes": "4/16",
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7592,7 +7592,7 @@
         "dropoff": "Denver",
         "load_num": "12785749",
         "amount": 85.0,
-        "date_paid": null,
+        "date_paid": "Apr 11",
         "notes": "4/16",
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7616,7 +7616,7 @@
         "dropoff": "Denver",
         "load_num": "12735259",
         "amount": 103.0,
-        "date_paid": null,
+        "date_paid": "Apr 11",
         "notes": "4/16",
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7640,7 +7640,7 @@
         "dropoff": "Denver",
         "load_num": "12865297",
         "amount": 85.0,
-        "date_paid": null,
+        "date_paid": "Apr 17",
         "notes": "4/21",
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7664,7 +7664,7 @@
         "dropoff": "Denver",
         "load_num": "12876327",
         "amount": 100.0,
-        "date_paid": null,
+        "date_paid": "Apr 18",
         "notes": "4/21",
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7688,7 +7688,7 @@
         "dropoff": "Denver",
         "load_num": "12910849",
         "amount": 90.0,
-        "date_paid": null,
+        "date_paid": "Apr 18",
         "notes": "4/21",
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7712,7 +7712,7 @@
         "dropoff": "Denver",
         "load_num": "12875961",
         "amount": 95.0,
-        "date_paid": null,
+        "date_paid": "Apr 18",
         "notes": "4/21",
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7736,7 +7736,7 @@
         "dropoff": "Denver",
         "load_num": "12883649",
         "amount": 100.0,
-        "date_paid": null,
+        "date_paid": "Apr 18",
         "notes": "4/21",
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7760,7 +7760,7 @@
         "dropoff": "Denver",
         "load_num": "12914043",
         "amount": 100.0,
-        "date_paid": null,
+        "date_paid": "Apr 22",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7784,7 +7784,7 @@
         "dropoff": "Thornton",
         "load_num": "12913921",
         "amount": 100.0,
-        "date_paid": null,
+        "date_paid": "Apr 22",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7808,7 +7808,7 @@
         "dropoff": "Denver",
         "load_num": "12883609",
         "amount": 85.0,
-        "date_paid": null,
+        "date_paid": "Apr 22",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7832,7 +7832,7 @@
         "dropoff": "Denver",
         "load_num": "12933285",
         "amount": 90.0,
-        "date_paid": null,
+        "date_paid": "Apr 23",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7856,7 +7856,7 @@
         "dropoff": "Denver",
         "load_num": "12962971",
         "amount": 90.0,
-        "date_paid": null,
+        "date_paid": "Apr 23",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7880,7 +7880,7 @@
         "dropoff": "Aurora",
         "load_num": "12962367",
         "amount": 150.0,
-        "date_paid": null,
+        "date_paid": "Apr 28",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7904,7 +7904,7 @@
         "dropoff": "Denver",
         "load_num": "13046089",
         "amount": 100.0,
-        "date_paid": null,
+        "date_paid": "May 01",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7928,7 +7928,7 @@
         "dropoff": "Denver",
         "load_num": "13058867",
         "amount": 100.0,
-        "date_paid": null,
+        "date_paid": "May 01",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7952,7 +7952,7 @@
         "dropoff": "Denver",
         "load_num": "13046095",
         "amount": 300.0,
-        "date_paid": null,
+        "date_paid": "May 01",
         "notes": null,
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -7976,7 +7976,7 @@
         "dropoff": "Denver",
         "load_num": "12567399",
         "amount": 95.0,
-        "date_paid": null,
+        "date_paid": "Apr 16",
         "notes": "4/21",
         "source_file": "Rich - '25 Schedule (1).txt"
       },
@@ -8000,7 +8000,7 @@
         "dropoff": "Bennett",
         "load_num": "RP32279A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 02",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8024,7 +8024,7 @@
         "dropoff": "Bennett",
         "load_num": "RP32275A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 03",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8048,7 +8048,7 @@
         "dropoff": "Bennett",
         "load_num": "RP32283A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 03",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8072,7 +8072,7 @@
         "dropoff": "Bennett",
         "load_num": "RP32281A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 03",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8096,7 +8096,7 @@
         "dropoff": "Bennett",
         "load_num": "RP32278A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 03",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8120,7 +8120,7 @@
         "dropoff": "Bennett",
         "load_num": "RP32280A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 03",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8144,7 +8144,7 @@
         "dropoff": "Bennett",
         "load_num": "RP34710A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 05",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8168,7 +8168,7 @@
         "dropoff": "Bennett",
         "load_num": "RP34706A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 05",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8192,7 +8192,7 @@
         "dropoff": "Bennett",
         "load_num": "RP34714A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 05",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8216,7 +8216,7 @@
         "dropoff": "Bennett",
         "load_num": "RP34014A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 05",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8240,7 +8240,7 @@
         "dropoff": "Bennett",
         "load_num": "RP34709A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 05",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8264,7 +8264,7 @@
         "dropoff": "Bennett",
         "load_num": "RP34715A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 05",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8288,7 +8288,7 @@
         "dropoff": "Bennett",
         "load_num": "RP34711A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 06",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8312,7 +8312,7 @@
         "dropoff": "Bennett",
         "load_num": "RP35081A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 07",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8336,7 +8336,7 @@
         "dropoff": "Bennett",
         "load_num": "RP34015A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 06",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8360,7 +8360,7 @@
         "dropoff": "Bennett",
         "load_num": "RP34708A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 07",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8384,7 +8384,7 @@
         "dropoff": "Bennett",
         "load_num": "RP34713A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 06",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8408,7 +8408,7 @@
         "dropoff": "Bennett",
         "load_num": "RP34705A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 06",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8432,7 +8432,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36965A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 08",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8456,7 +8456,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36973A",
         "amount": 105.0,
-        "date_paid": null,
+        "date_paid": "Aug 08",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8480,7 +8480,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36968A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 08",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8504,7 +8504,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36980A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 08",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8528,7 +8528,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36966A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 08",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8552,7 +8552,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36967A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 08",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8576,7 +8576,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36977A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 11",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8600,7 +8600,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36976A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 11",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8624,7 +8624,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36974A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 10",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8648,7 +8648,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36971A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 11",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8672,7 +8672,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36978A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 11",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8696,7 +8696,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36969A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 10",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8720,7 +8720,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36236A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 12",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8744,7 +8744,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36222A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 12",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8768,7 +8768,7 @@
         "dropoff": "Bennett",
         "load_num": "RP38269A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 12",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8792,7 +8792,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36970A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 12",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8816,7 +8816,7 @@
         "dropoff": "Bennett",
         "load_num": "RP39378A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 12",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8840,7 +8840,7 @@
         "dropoff": "Bennett",
         "load_num": "RP38223A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 12",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8864,7 +8864,7 @@
         "dropoff": "Bennett",
         "load_num": "RP38221A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 13",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8888,7 +8888,7 @@
         "dropoff": "Bennett",
         "load_num": "RP38222A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 13",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8912,7 +8912,7 @@
         "dropoff": "Bennett",
         "load_num": "RP39376A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 13",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8936,7 +8936,7 @@
         "dropoff": "Bennett",
         "load_num": "RP39837A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 13",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8960,7 +8960,7 @@
         "dropoff": "Bennett",
         "load_num": "RP39836A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 13",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -8984,7 +8984,7 @@
         "dropoff": "Bennett",
         "load_num": "RP39380A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 13",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9008,7 +9008,7 @@
         "dropoff": "Bennett",
         "load_num": "RP41631A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 26",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9032,7 +9032,7 @@
         "dropoff": "Bennett",
         "load_num": "RP41629A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 09",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9056,7 +9056,7 @@
         "dropoff": "Bennett",
         "load_num": "RP41633A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 18",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9080,7 +9080,7 @@
         "dropoff": "Bennett",
         "load_num": "RP41635A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Sep 09",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9104,7 +9104,7 @@
         "dropoff": "Bennett",
         "load_num": "RP41630A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 18",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9128,7 +9128,7 @@
         "dropoff": "Bennett",
         "load_num": "RP41636A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 18",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9152,7 +9152,7 @@
         "dropoff": "Bennett",
         "load_num": "RP41634A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 18",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9176,7 +9176,7 @@
         "dropoff": "Bennett",
         "load_num": "RP41628A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 18",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9200,7 +9200,7 @@
         "dropoff": "Bennett",
         "load_num": "RP41627A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 18",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9224,7 +9224,7 @@
         "dropoff": "Bennett",
         "load_num": "RP41626A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 18",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9248,7 +9248,7 @@
         "dropoff": "Bennett",
         "load_num": "RP41632A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 18",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9272,7 +9272,7 @@
         "dropoff": "Bennett",
         "load_num": "RP42777A",
         "amount": 105.0,
-        "date_paid": null,
+        "date_paid": "Aug 19",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9296,7 +9296,7 @@
         "dropoff": "Bennett",
         "load_num": "RP42715A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 19",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9320,7 +9320,7 @@
         "dropoff": "Bennett",
         "load_num": "RP43225A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 19",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9344,7 +9344,7 @@
         "dropoff": "Bennett",
         "load_num": "RP42714A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 19",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9368,7 +9368,7 @@
         "dropoff": "Bennett",
         "load_num": "RP43801A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 19",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9392,7 +9392,7 @@
         "dropoff": "Bennett",
         "load_num": "RP43805A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 20",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9416,7 +9416,7 @@
         "dropoff": "Bennett",
         "load_num": "RP43804A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 20",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9440,7 +9440,7 @@
         "dropoff": "Bennett",
         "load_num": "RP43802A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 20",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9464,7 +9464,7 @@
         "dropoff": "Bennett",
         "load_num": "RP43803A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 20",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9488,7 +9488,7 @@
         "dropoff": "Bennett",
         "load_num": "RP43806A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 21",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9512,7 +9512,7 @@
         "dropoff": "Bennett",
         "load_num": "RP46125A",
         "amount": 105.0,
-        "date_paid": null,
+        "date_paid": "Aug 25",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9536,7 +9536,7 @@
         "dropoff": "Bennett",
         "load_num": "RP46126A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 25",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9560,7 +9560,7 @@
         "dropoff": "Bennett",
         "load_num": "RP46124A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 25",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9584,7 +9584,7 @@
         "dropoff": "Bennett",
         "load_num": "RN97388A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 02",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9608,7 +9608,7 @@
         "dropoff": "Bennett",
         "load_num": "RN98869A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 02",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9632,7 +9632,7 @@
         "dropoff": "Bennett",
         "load_num": "RN98872A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 02",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9656,7 +9656,7 @@
         "dropoff": "Bennett",
         "load_num": "RN98870A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 02",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9680,7 +9680,7 @@
         "dropoff": "Bennett",
         "load_num": "RN98873A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 02",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9704,7 +9704,7 @@
         "dropoff": "Bennett",
         "load_num": "RN98867A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 02",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9728,7 +9728,7 @@
         "dropoff": "Bennett",
         "load_num": "RN98876A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 08",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9752,7 +9752,7 @@
         "dropoff": "Bennett",
         "load_num": "RN98878A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 08",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9776,7 +9776,7 @@
         "dropoff": "Bennett",
         "load_num": "RN98875A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 08",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9800,7 +9800,7 @@
         "dropoff": "Bennett",
         "load_num": "RN98868A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 08",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9824,7 +9824,7 @@
         "dropoff": "Bennett",
         "load_num": "RN98874A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 08",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9848,7 +9848,7 @@
         "dropoff": "Bennett",
         "load_num": "RP20595A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 17",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9872,7 +9872,7 @@
         "dropoff": "Bennett",
         "load_num": "RP20583A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 17",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9896,7 +9896,7 @@
         "dropoff": "Bennett",
         "load_num": "RP18936A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 17",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9920,7 +9920,7 @@
         "dropoff": "Bennett",
         "load_num": "RP18935A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 17",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9944,7 +9944,7 @@
         "dropoff": "Bennett",
         "load_num": "RP18933A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 17",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9968,7 +9968,7 @@
         "dropoff": "Bennett",
         "load_num": "RP18938A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 17",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -9992,7 +9992,7 @@
         "dropoff": "Bennett",
         "load_num": "RN89880A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 26",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10016,7 +10016,7 @@
         "dropoff": "Bennett",
         "load_num": "RN89876A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 26",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10040,7 +10040,7 @@
         "dropoff": "Bennett",
         "load_num": "RP21461A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 21",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10064,7 +10064,7 @@
         "dropoff": "Bennett",
         "load_num": "RP21462A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 21",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10088,7 +10088,7 @@
         "dropoff": "Bennett",
         "load_num": "RP22188A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 21",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10112,7 +10112,7 @@
         "dropoff": "Bennett",
         "load_num": "RP22187A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 20",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10136,7 +10136,7 @@
         "dropoff": "Bennett",
         "load_num": "RP21458A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 20",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10160,7 +10160,7 @@
         "dropoff": "Bennett",
         "load_num": "RP21464A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 21",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10184,7 +10184,7 @@
         "dropoff": "Bennett",
         "load_num": "RP21468A",
         "amount": 120.0,
-        "date_paid": null,
+        "date_paid": "Jul 21",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10208,7 +10208,7 @@
         "dropoff": "Bennett",
         "load_num": "RP21459A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 21",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10232,7 +10232,7 @@
         "dropoff": "Bennett",
         "load_num": "RP21456A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 21",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10256,7 +10256,7 @@
         "dropoff": "Bennett",
         "load_num": "RP21467A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 23",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10280,7 +10280,7 @@
         "dropoff": "Bennett",
         "load_num": "RP21460A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 23",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10304,7 +10304,7 @@
         "dropoff": "Bennett",
         "load_num": "RP21466A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 23",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10328,7 +10328,7 @@
         "dropoff": "Bennett",
         "load_num": "RP21465A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 23",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10352,7 +10352,7 @@
         "dropoff": "Bennett",
         "load_num": "RP22901A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 23",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10376,7 +10376,7 @@
         "dropoff": "Bennett",
         "load_num": "RP21457A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 23",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10400,7 +10400,7 @@
         "dropoff": "Bennett",
         "load_num": "RP25279A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 23",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10424,7 +10424,7 @@
         "dropoff": "Bennett",
         "load_num": "RP24690A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 23",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10448,7 +10448,7 @@
         "dropoff": "Bennett",
         "load_num": "RP25280A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 23",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10472,7 +10472,7 @@
         "dropoff": "Bennett",
         "load_num": "RP24691A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 23",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10496,7 +10496,7 @@
         "dropoff": "Bennett",
         "load_num": "RP24689A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 23",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10520,7 +10520,7 @@
         "dropoff": "Bennett",
         "load_num": "RP24692A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 23",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10544,7 +10544,7 @@
         "dropoff": "Bennett",
         "load_num": "RP26514A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 25",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10568,7 +10568,7 @@
         "dropoff": "Bennett",
         "load_num": "RP26507A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 25",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10592,7 +10592,7 @@
         "dropoff": "Bennett",
         "load_num": "RP24695A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 25",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10616,7 +10616,7 @@
         "dropoff": "Bennett",
         "load_num": "RP24693A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 25",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10640,7 +10640,7 @@
         "dropoff": "Bennett",
         "load_num": "RP27298A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 25",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10664,7 +10664,7 @@
         "dropoff": "Bennett",
         "load_num": "RP27305A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 25",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10688,7 +10688,7 @@
         "dropoff": "Bennett",
         "load_num": "RP27296A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 28",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10712,7 +10712,7 @@
         "dropoff": "Bennett",
         "load_num": "RP27302A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 28",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10736,7 +10736,7 @@
         "dropoff": "Bennett",
         "load_num": "RP27294A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 27",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10760,7 +10760,7 @@
         "dropoff": "Bennett",
         "load_num": "RP27300A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 27",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10784,7 +10784,7 @@
         "dropoff": "Bennett",
         "load_num": "RP27301A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 27",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10808,7 +10808,7 @@
         "dropoff": "Bennett",
         "load_num": "RP27297A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 27",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10832,7 +10832,7 @@
         "dropoff": "Bennett",
         "load_num": "RP27303A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 29",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10856,7 +10856,7 @@
         "dropoff": "Bennett",
         "load_num": "RP27299A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 29",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10880,7 +10880,7 @@
         "dropoff": "Bennett",
         "load_num": "RP27304A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 29",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10904,7 +10904,7 @@
         "dropoff": "Bennett",
         "load_num": "RP27295A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 29",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10928,7 +10928,7 @@
         "dropoff": "Bennett",
         "load_num": "RP28659A",
         "amount": 120.0,
-        "date_paid": null,
+        "date_paid": "Jul 29",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10952,7 +10952,7 @@
         "dropoff": "Bennett",
         "load_num": "RP28587A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 29",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -10976,7 +10976,7 @@
         "dropoff": "Bennett",
         "load_num": "RP27923A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 30",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11000,7 +11000,7 @@
         "dropoff": "Bennett",
         "load_num": "RP29179A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 30",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11024,7 +11024,7 @@
         "dropoff": "Bennett",
         "load_num": "RP28660A",
         "amount": 120.0,
-        "date_paid": null,
+        "date_paid": "Jul 30",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11048,7 +11048,7 @@
         "dropoff": "Bennett",
         "load_num": "RP29856A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 30",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11072,7 +11072,7 @@
         "dropoff": "Bennett",
         "load_num": "RP29854A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 30",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11096,7 +11096,7 @@
         "dropoff": "Bennett",
         "load_num": "RP29855A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 30",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11120,7 +11120,7 @@
         "dropoff": "Bennett",
         "load_num": "RP29858A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 31",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11144,7 +11144,7 @@
         "dropoff": "Bennett",
         "load_num": "RP29857A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 31",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11168,7 +11168,7 @@
         "dropoff": "Bennett",
         "load_num": "RP29851A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 31",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11192,7 +11192,7 @@
         "dropoff": "Bennett",
         "load_num": "RP29850A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 31",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11216,7 +11216,7 @@
         "dropoff": "Bennett",
         "load_num": "RP29852A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 31",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11240,7 +11240,7 @@
         "dropoff": "Bennett",
         "load_num": "RP29853A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 31",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11264,7 +11264,7 @@
         "dropoff": "Bennett",
         "load_num": "RN73572A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 03",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11288,7 +11288,7 @@
         "dropoff": "Bennett",
         "load_num": "RN75019A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 03",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11312,7 +11312,7 @@
         "dropoff": "Bennett",
         "load_num": "RN73657A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 03",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11336,7 +11336,7 @@
         "dropoff": "Bennett",
         "load_num": "RN76499A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 03",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11360,7 +11360,7 @@
         "dropoff": "Bennett",
         "load_num": "RN76075A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 03",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11384,7 +11384,7 @@
         "dropoff": "Bennett",
         "load_num": "RN76072A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 03",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11408,7 +11408,7 @@
         "dropoff": "Bennett",
         "load_num": "RN78670A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 06",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11432,7 +11432,7 @@
         "dropoff": "Bennett",
         "load_num": "RN78672A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 06",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11456,7 +11456,7 @@
         "dropoff": "Bennett",
         "load_num": "RN78673A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 06",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11480,7 +11480,7 @@
         "dropoff": "Bennett",
         "load_num": "RN78671A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 06",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11504,7 +11504,7 @@
         "dropoff": "Bennett",
         "load_num": "RN77745A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 09",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11528,7 +11528,7 @@
         "dropoff": "Bennett",
         "load_num": "RN77748A",
         "amount": 118.0,
-        "date_paid": null,
+        "date_paid": "Jun 09",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11552,7 +11552,7 @@
         "dropoff": "Denver",
         "load_num": "13542483",
         "amount": 115.0,
-        "date_paid": null,
+        "date_paid": "Jun 10",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11576,7 +11576,7 @@
         "dropoff": "Denver",
         "load_num": "13522731",
         "amount": 175.0,
-        "date_paid": null,
+        "date_paid": "Jun 10",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11600,7 +11600,7 @@
         "dropoff": "Bennett",
         "load_num": "RN81105A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 10",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11624,7 +11624,7 @@
         "dropoff": "Bennett",
         "load_num": "RN81106A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 10",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11648,7 +11648,7 @@
         "dropoff": "Bennett",
         "load_num": "RN79877A",
         "amount": 120.0,
-        "date_paid": null,
+        "date_paid": "Jun 10",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11672,7 +11672,7 @@
         "dropoff": "Bennett",
         "load_num": "RN81104A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 10",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11696,7 +11696,7 @@
         "dropoff": "Denver",
         "load_num": "13478199",
         "amount": 100.0,
-        "date_paid": null,
+        "date_paid": "Jun 10",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11720,7 +11720,7 @@
         "dropoff": "Denver",
         "load_num": "13475293",
         "amount": 100.0,
-        "date_paid": null,
+        "date_paid": "Jun 10",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11744,7 +11744,7 @@
         "dropoff": "Bennett",
         "load_num": "RN83932A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 13",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11768,7 +11768,7 @@
         "dropoff": "Bennett",
         "load_num": "RN83933A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 13",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11792,7 +11792,7 @@
         "dropoff": "Bennett",
         "load_num": "RN83921A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 13",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11816,7 +11816,7 @@
         "dropoff": "Bennett",
         "load_num": "RN83928A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 13",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11840,7 +11840,7 @@
         "dropoff": "Denver",
         "load_num": "13595209",
         "amount": 100.0,
-        "date_paid": null,
+        "date_paid": "Jun 13",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11864,7 +11864,7 @@
         "dropoff": "Bennett",
         "load_num": "RN83924A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 16",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11888,7 +11888,7 @@
         "dropoff": "Bennett",
         "load_num": "RN83922A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 16",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11912,7 +11912,7 @@
         "dropoff": "Bennett",
         "load_num": "RN83927A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 16",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11936,7 +11936,7 @@
         "dropoff": "Bennett",
         "load_num": "RN83923A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 16",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11960,7 +11960,7 @@
         "dropoff": "Bennett",
         "load_num": "RN83934A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 16",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -11984,7 +11984,7 @@
         "dropoff": "Bennett",
         "load_num": "RN83930A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 16",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12008,7 +12008,7 @@
         "dropoff": "Bennett",
         "load_num": "RN86170A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 17",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12032,7 +12032,7 @@
         "dropoff": "Bennett",
         "load_num": "RN86169A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 17",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12056,7 +12056,7 @@
         "dropoff": "Bennett",
         "load_num": "RN83931A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 17",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12080,7 +12080,7 @@
         "dropoff": "Bennett",
         "load_num": "RN87558A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 17",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12104,7 +12104,7 @@
         "dropoff": "Bennett",
         "load_num": "RN86925A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 18",
         "notes": "$150 ecevtually",
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12128,7 +12128,7 @@
         "dropoff": "Bennett",
         "load_num": "RN88081A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 18",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12152,7 +12152,7 @@
         "dropoff": "Bennett",
         "load_num": "RN88082A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 18",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12176,7 +12176,7 @@
         "dropoff": "Bennett",
         "load_num": "RN89874A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 20",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12200,7 +12200,7 @@
         "dropoff": "Bennett",
         "load_num": "RN89877A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 20",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12224,7 +12224,7 @@
         "dropoff": "Bennett",
         "load_num": "RN89878A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 20",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12248,7 +12248,7 @@
         "dropoff": "Bennett",
         "load_num": "RN89880A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 26",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12272,7 +12272,7 @@
         "dropoff": "Bennett",
         "load_num": "RN89876A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 26",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12296,7 +12296,7 @@
         "dropoff": "Bennett",
         "load_num": "RN89881A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 26",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12320,7 +12320,7 @@
         "dropoff": "Bennett",
         "load_num": "RN89883A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 26",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12344,7 +12344,7 @@
         "dropoff": "Bennett",
         "load_num": "RN89882A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 26",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12368,7 +12368,7 @@
         "dropoff": "Bennett",
         "load_num": "RN89875A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 26",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12392,7 +12392,7 @@
         "dropoff": "Bennett",
         "load_num": "RN89884A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 25",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12416,7 +12416,7 @@
         "dropoff": "Bennett",
         "load_num": "RN89886A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 25",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12440,7 +12440,7 @@
         "dropoff": "Bennett",
         "load_num": "RN92813A",
         "amount": 120.0,
-        "date_paid": null,
+        "date_paid": "Jun 25",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12464,7 +12464,7 @@
         "dropoff": "Bennett",
         "load_num": "RN89885A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 25",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12488,7 +12488,7 @@
         "dropoff": "Bennett",
         "load_num": "RN92811A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 25",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12512,7 +12512,7 @@
         "dropoff": "Bennett",
         "load_num": "RN92810A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 25",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12536,7 +12536,7 @@
         "dropoff": "Bennett",
         "load_num": "RN92812A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 25",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12560,7 +12560,7 @@
         "dropoff": "Bennett",
         "load_num": "RN92814A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 25",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12584,7 +12584,7 @@
         "dropoff": "Bennett",
         "load_num": "RN95983A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 27",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12608,7 +12608,7 @@
         "dropoff": "Bennett",
         "load_num": "RN95974A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 27",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12632,7 +12632,7 @@
         "dropoff": "Bennett",
         "load_num": "RN95982A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 27",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12656,7 +12656,7 @@
         "dropoff": "Bennett",
         "load_num": "RN95979A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 27",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12680,7 +12680,7 @@
         "dropoff": "Bennett",
         "load_num": "RN95984A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 27",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12704,7 +12704,7 @@
         "dropoff": "Bennett",
         "load_num": "RN95985A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 27",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12728,7 +12728,7 @@
         "dropoff": "Bennett",
         "load_num": "RN95975A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 30",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12752,7 +12752,7 @@
         "dropoff": "Bennett",
         "load_num": "RN95976A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 30",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12776,7 +12776,7 @@
         "dropoff": "Bennett",
         "load_num": "RN96668A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 30",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12800,7 +12800,7 @@
         "dropoff": "Bennett",
         "load_num": "RN95977A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 30",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12824,7 +12824,7 @@
         "dropoff": "Bennett",
         "load_num": "RN95980A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 30",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12848,7 +12848,7 @@
         "dropoff": "Bennett",
         "load_num": "RN95973A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jun 30",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12872,7 +12872,7 @@
         "dropoff": "Bennett",
         "load_num": "RN95978A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 01",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12896,7 +12896,7 @@
         "dropoff": "Bennett",
         "load_num": "RN97387A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 01",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12920,7 +12920,7 @@
         "dropoff": "Bennett",
         "load_num": "RN97386A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 01",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12944,7 +12944,7 @@
         "dropoff": "Bennett",
         "load_num": "RN95981A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Jul 01",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12968,7 +12968,7 @@
         "dropoff": "Bennett",
         "load_num": "RN53848A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "May 02",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -12992,7 +12992,7 @@
         "dropoff": "Bennett",
         "load_num": "RN53846A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "May 02",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13016,7 +13016,7 @@
         "dropoff": "Bennett",
         "load_num": "RN53847A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "May 02",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13040,7 +13040,7 @@
         "dropoff": "Bennett",
         "load_num": "RN64235A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "May 16",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13064,7 +13064,7 @@
         "dropoff": "Bennett",
         "load_num": "RN64233A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "May 16",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13088,7 +13088,7 @@
         "dropoff": "Bennett",
         "load_num": "RN64234A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "May 16",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13112,7 +13112,7 @@
         "dropoff": "Bennett",
         "load_num": "RN64232A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "May 16",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13136,7 +13136,7 @@
         "dropoff": "Bennett",
         "load_num": "RN64230A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "May 19",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13160,7 +13160,7 @@
         "dropoff": "Bennett",
         "load_num": "RN64231A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "May 19",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13184,7 +13184,7 @@
         "dropoff": "Bennett",
         "load_num": "RN65403A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "May 21",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13208,7 +13208,7 @@
         "dropoff": "Bennett",
         "load_num": "RN65402A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "May 21",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13232,7 +13232,7 @@
         "dropoff": "Bennett",
         "load_num": "RN64232A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "May 16",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13256,7 +13256,7 @@
         "dropoff": "Bennett",
         "load_num": "RN64234A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "May 16",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13280,7 +13280,7 @@
         "dropoff": "Bennett",
         "load_num": "RN66379A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "May 22",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13304,7 +13304,7 @@
         "dropoff": "Bennett",
         "load_num": "RN69123A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "May 28",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13328,7 +13328,7 @@
         "dropoff": "Bennett",
         "load_num": "RN69117A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "May 28",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13352,7 +13352,7 @@
         "dropoff": "Bennett",
         "load_num": "RN69118A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "May 28",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13376,7 +13376,7 @@
         "dropoff": "Bennett",
         "load_num": "RN69119A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "May 28",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13400,7 +13400,7 @@
         "dropoff": "Bennett",
         "load_num": "RN71563A",
         "amount": 120.0,
-        "date_paid": null,
+        "date_paid": "May 28",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13424,7 +13424,7 @@
         "dropoff": "Bennett",
         "load_num": "RN71564A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "May 28",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13448,7 +13448,7 @@
         "dropoff": "Bennett",
         "load_num": "RN71565A",
         "amount": 105.0,
-        "date_paid": null,
+        "date_paid": "May 29",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13472,7 +13472,7 @@
         "dropoff": "Bennett",
         "load_num": "RN71567A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "May 29",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13496,7 +13496,7 @@
         "dropoff": "Bennett",
         "load_num": "RN71559A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "May 29",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13520,7 +13520,7 @@
         "dropoff": "Bennett",
         "load_num": "RN71566A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "May 29",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13544,7 +13544,7 @@
         "dropoff": "City",
         "load_num": "13335095",
         "amount": 100.0,
-        "date_paid": null,
+        "date_paid": "May 28",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13568,7 +13568,7 @@
         "dropoff": "City",
         "load_num": "13335093",
         "amount": 100.0,
-        "date_paid": null,
+        "date_paid": "May 29",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13592,7 +13592,7 @@
         "dropoff": "Denver",
         "load_num": "12626055",
         "amount": 85.0,
-        "date_paid": null,
+        "date_paid": "Apr 02",
         "notes": "4/4",
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13616,7 +13616,7 @@
         "dropoff": "Denver",
         "load_num": "12620359",
         "amount": 100.0,
-        "date_paid": null,
+        "date_paid": "Apr 01",
         "notes": "4/4",
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13640,7 +13640,7 @@
         "dropoff": "Denver",
         "load_num": "12706545",
         "amount": 85.0,
-        "date_paid": null,
+        "date_paid": "Apr 02",
         "notes": "4/4",
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13664,7 +13664,7 @@
         "dropoff": "Denver",
         "load_num": "12602425",
         "amount": 85.0,
-        "date_paid": null,
+        "date_paid": "Apr 02",
         "notes": "4/4",
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13688,7 +13688,7 @@
         "dropoff": "Bennett",
         "load_num": "RN31481A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 05",
         "notes": "4/8",
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13712,7 +13712,7 @@
         "dropoff": "Bennett",
         "load_num": "RN31482A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 07",
         "notes": "4/9",
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13736,7 +13736,7 @@
         "dropoff": "Bennett",
         "load_num": "RN31483A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 05",
         "notes": "4/8",
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13760,7 +13760,7 @@
         "dropoff": "Bennett",
         "load_num": "RN33398A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 08",
         "notes": "4/11",
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13784,7 +13784,7 @@
         "dropoff": "Bennett",
         "load_num": "RN34220A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 08",
         "notes": "4/11",
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13808,7 +13808,7 @@
         "dropoff": "Bennett",
         "load_num": "RN34218A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 08",
         "notes": "4/11",
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13832,7 +13832,7 @@
         "dropoff": "Bennett",
         "load_num": "RN34219A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 08",
         "notes": "4/11",
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13856,7 +13856,7 @@
         "dropoff": "Bennett",
         "load_num": "RN34221A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 08",
         "notes": "4/11",
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13880,7 +13880,7 @@
         "dropoff": "Denver",
         "load_num": "12766301",
         "amount": 200.0,
-        "date_paid": null,
+        "date_paid": "Apr 10",
         "notes": "4/16",
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13904,7 +13904,7 @@
         "dropoff": "Bennett",
         "load_num": "RN37639A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 11",
         "notes": "4/16",
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13928,7 +13928,7 @@
         "dropoff": "Bennett",
         "load_num": "RN37638A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 11",
         "notes": "4/16",
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13952,7 +13952,7 @@
         "dropoff": "Bennett",
         "load_num": "RN37636A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 11",
         "notes": "4/16",
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -13976,7 +13976,7 @@
         "dropoff": "Bennett",
         "load_num": "RN37640A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 11",
         "notes": "4/16",
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -14000,7 +14000,7 @@
         "dropoff": "Bennett",
         "load_num": "RN37641A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 11",
         "notes": "4/16",
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -14024,7 +14024,7 @@
         "dropoff": "Bennett",
         "load_num": "RN37635A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 11",
         "notes": "4/16",
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -14048,7 +14048,7 @@
         "dropoff": "Bennett",
         "load_num": "RN37637A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 14",
         "notes": "4/16",
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -14072,7 +14072,7 @@
         "dropoff": "Bennett",
         "load_num": "RN39638A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 14",
         "notes": "4/16",
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -14096,7 +14096,7 @@
         "dropoff": "Denver",
         "load_num": "12752505",
         "amount": 85.0,
-        "date_paid": null,
+        "date_paid": "Apr 14",
         "notes": "4/16",
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -14120,7 +14120,7 @@
         "dropoff": "Denver",
         "load_num": "12735265",
         "amount": 85.0,
-        "date_paid": null,
+        "date_paid": "Apr 11",
         "notes": "4/16",
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -14144,7 +14144,7 @@
         "dropoff": "Bennett",
         "load_num": "RN40459A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 15",
         "notes": "4/21",
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -14168,7 +14168,7 @@
         "dropoff": "Bennett",
         "load_num": "RN40458A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 15",
         "notes": "4/21",
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -14192,7 +14192,7 @@
         "dropoff": "Bennett",
         "load_num": "RN40457A",
         "amount": 105.0,
-        "date_paid": null,
+        "date_paid": "Apr 15",
         "notes": "4/21",
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -14216,7 +14216,7 @@
         "dropoff": "Bennett",
         "load_num": "RN43199A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 18",
         "notes": "4/16",
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -14240,7 +14240,7 @@
         "dropoff": "Bennett",
         "load_num": "RN43198A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 18",
         "notes": "4/21",
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -14264,7 +14264,7 @@
         "dropoff": "Bennett",
         "load_num": "RN43197A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 18",
         "notes": "4/21",
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -14288,7 +14288,7 @@
         "dropoff": "Denver",
         "load_num": "12932061",
         "amount": 115.0,
-        "date_paid": null,
+        "date_paid": "Apr 21",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -14312,7 +14312,7 @@
         "dropoff": "Denver",
         "load_num": "12947643",
         "amount": 100.0,
-        "date_paid": null,
+        "date_paid": "Apr 22",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -14336,7 +14336,7 @@
         "dropoff": "Denver",
         "load_num": "12963425",
         "amount": 100.0,
-        "date_paid": null,
+        "date_paid": "Apr 24",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -14360,7 +14360,7 @@
         "dropoff": "Bennett",
         "load_num": "RN48804A",
         "amount": 105.0,
-        "date_paid": null,
+        "date_paid": "Apr 28",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -14384,7 +14384,7 @@
         "dropoff": "Bennett",
         "load_num": "RN48806A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 28",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -14408,7 +14408,7 @@
         "dropoff": "Bennett",
         "load_num": "RN48803A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 26",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -14432,7 +14432,7 @@
         "dropoff": "Bennett",
         "load_num": "RN37640A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 11",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -14456,7 +14456,7 @@
         "dropoff": "Bennett",
         "load_num": "RN48802A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 28",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -14480,7 +14480,7 @@
         "dropoff": "Bennett",
         "load_num": "RN48805A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 28",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -14504,7 +14504,7 @@
         "dropoff": "Bennett",
         "load_num": "RN50625A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 29",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -14528,7 +14528,7 @@
         "dropoff": "Bennett",
         "load_num": "RN51312A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 29",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -14552,7 +14552,7 @@
         "dropoff": "Bennett",
         "load_num": "RN51311A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 29",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -14576,7 +14576,7 @@
         "dropoff": "Bennett",
         "load_num": "RN51313A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 29",
         "notes": null,
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -14600,7 +14600,7 @@
         "dropoff": "Bennett",
         "load_num": "RN27772A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 01",
         "notes": "4/4",
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -14624,7 +14624,7 @@
         "dropoff": "Bennett",
         "load_num": "RN27188A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 01",
         "notes": "4/4",
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -14648,7 +14648,7 @@
         "dropoff": "Bennett",
         "load_num": "RN27186A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 01",
         "notes": "4/4",
         "source_file": "Steve - '25 Schedule (1).txt"
       },
@@ -14672,7 +14672,7 @@
         "dropoff": "Bennett",
         "load_num": "RP85126A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Oct 22",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -14696,7 +14696,7 @@
         "dropoff": "Bennett",
         "load_num": "RP85125A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Oct 22",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -14720,7 +14720,7 @@
         "dropoff": "Bennett",
         "load_num": "RP87122A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Oct 22",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -14744,7 +14744,7 @@
         "dropoff": "Bennett",
         "load_num": "RP31500A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 04",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -14768,7 +14768,7 @@
         "dropoff": "Bennett",
         "load_num": "RP31495A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 04",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -14792,7 +14792,7 @@
         "dropoff": "Bennett",
         "load_num": "RP31511A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 04",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -14816,7 +14816,7 @@
         "dropoff": "Bennett",
         "load_num": "RP31503A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 03",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -14840,7 +14840,7 @@
         "dropoff": "Bennett",
         "load_num": "RP31899A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 03",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -14864,7 +14864,7 @@
         "dropoff": "Bennett",
         "load_num": "RP31504A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 04",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -14888,7 +14888,7 @@
         "dropoff": "Bennett",
         "load_num": "RP32276A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 02",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -14912,7 +14912,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36231A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 08",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -14936,7 +14936,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36240A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 08",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -14960,7 +14960,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36245A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 08",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -14984,7 +14984,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36232A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 08",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15008,7 +15008,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36226A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 08",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15032,7 +15032,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36241A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 08",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15056,7 +15056,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36252A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 08",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15080,7 +15080,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36227A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 08",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15104,7 +15104,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36228A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 08",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15128,7 +15128,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36247A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 08",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15152,7 +15152,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36223A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 08",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15176,7 +15176,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36248A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 08",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15200,7 +15200,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36249A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 13",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15224,7 +15224,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36229A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 11",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15248,7 +15248,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36230A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 10",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15272,7 +15272,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36235A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 11",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15296,7 +15296,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36234A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 11",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15320,7 +15320,7 @@
         "dropoff": "Bennett",
         "load_num": "RP38273A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 11",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15344,7 +15344,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36972A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 10",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15368,7 +15368,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36975A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 10",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15392,7 +15392,7 @@
         "dropoff": "Bennett",
         "load_num": "RP35530A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 11",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15416,7 +15416,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36238A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 12",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15440,7 +15440,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36250A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 12",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15464,7 +15464,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36243A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 12",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15488,7 +15488,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36221A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 12",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15512,7 +15512,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36224A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 12",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15536,7 +15536,7 @@
         "dropoff": "Bennett",
         "load_num": "RP36244A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 12",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15560,7 +15560,7 @@
         "dropoff": "Bennett",
         "load_num": "RP38271A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 13",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15584,7 +15584,7 @@
         "dropoff": "Bennett",
         "load_num": "RP38270A",
         "amount": 118.0,
-        "date_paid": null,
+        "date_paid": "Aug 13",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15608,7 +15608,7 @@
         "dropoff": "Bennett",
         "load_num": "RP38757A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 13",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15632,7 +15632,7 @@
         "dropoff": "Bennett",
         "load_num": "RP38272A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 13",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15656,7 +15656,7 @@
         "dropoff": "Bennett",
         "load_num": "RP39320A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 13",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15680,7 +15680,7 @@
         "dropoff": "Bennett",
         "load_num": "RP39319A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 13",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15704,7 +15704,7 @@
         "dropoff": "Bennett",
         "load_num": "RP39377A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 13",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15728,7 +15728,7 @@
         "dropoff": "Bennett",
         "load_num": "RP39381A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 13",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15752,7 +15752,7 @@
         "dropoff": "Bennett",
         "load_num": "RP39379A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 14",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15776,7 +15776,7 @@
         "dropoff": "Bennett",
         "load_num": "RP40254A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Aug 14",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15800,7 +15800,7 @@
         "dropoff": "Bennett",
         "load_num": "RN27264A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 02",
         "notes": "4/4",
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15824,7 +15824,7 @@
         "dropoff": "Denver",
         "load_num": "12706389",
         "amount": 100.0,
-        "date_paid": null,
+        "date_paid": "Apr 02",
         "notes": "4/4",
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15848,7 +15848,7 @@
         "dropoff": "Denver",
         "load_num": "12688857",
         "amount": 85.0,
-        "date_paid": null,
+        "date_paid": "Apr 16",
         "notes": "4/21",
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15872,7 +15872,7 @@
         "dropoff": "City",
         "load_num": "12712689",
         "amount": 80.0,
-        "date_paid": null,
+        "date_paid": "Apr 03",
         "notes": "4/8",
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15896,7 +15896,7 @@
         "dropoff": "City",
         "load_num": "12712685",
         "amount": 80.0,
-        "date_paid": null,
+        "date_paid": "Apr 02",
         "notes": "4/8",
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15920,7 +15920,7 @@
         "dropoff": "City",
         "load_num": "12712677",
         "amount": 80.0,
-        "date_paid": null,
+        "date_paid": "Apr 02",
         "notes": "4/8",
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15944,7 +15944,7 @@
         "dropoff": "Bennett",
         "load_num": "RN31090A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 04",
         "notes": "4/8",
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15968,7 +15968,7 @@
         "dropoff": "Bennett",
         "load_num": "RN30627A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 04",
         "notes": "4/8",
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -15992,7 +15992,7 @@
         "dropoff": "Bennett",
         "load_num": "RN30624A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 04",
         "notes": "4/8",
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16016,7 +16016,7 @@
         "dropoff": "City",
         "load_num": "12712681",
         "amount": 80.0,
-        "date_paid": null,
+        "date_paid": "Apr 04",
         "notes": "4/8",
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16040,7 +16040,7 @@
         "dropoff": "City",
         "load_num": "12712669",
         "amount": 80.0,
-        "date_paid": null,
+        "date_paid": "Apr 04",
         "notes": "4/8",
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16064,7 +16064,7 @@
         "dropoff": "City",
         "load_num": "12712661",
         "amount": 80.0,
-        "date_paid": null,
+        "date_paid": "Apr 04",
         "notes": "4/8",
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16088,7 +16088,7 @@
         "dropoff": "Bennett",
         "load_num": "RN33447A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 05",
         "notes": "4/8",
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16112,7 +16112,7 @@
         "dropoff": "Bennett",
         "load_num": "RN32949A",
         "amount": 118.0,
-        "date_paid": null,
+        "date_paid": "Apr 07",
         "notes": "4/9",
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16136,7 +16136,7 @@
         "dropoff": "Bennett",
         "load_num": "RN32950A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 07",
         "notes": "4/9",
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16160,7 +16160,7 @@
         "dropoff": "Bennett",
         "load_num": "RN36440A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 14",
         "notes": "4/16",
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16184,7 +16184,7 @@
         "dropoff": "Bennett",
         "load_num": "RN36442A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 12",
         "notes": "4/16",
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16208,7 +16208,7 @@
         "dropoff": "Bennett",
         "load_num": "RN36441A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 14",
         "notes": "4/16",
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16232,7 +16232,7 @@
         "dropoff": "Bennett",
         "load_num": "RN36441A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 14",
         "notes": "4/16",
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16256,7 +16256,7 @@
         "dropoff": "Bennett",
         "load_num": "RN36442A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 12",
         "notes": "4/16",
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16280,7 +16280,7 @@
         "dropoff": "Bennett",
         "load_num": "RN36440A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 14",
         "notes": "4/16",
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16304,7 +16304,7 @@
         "dropoff": "Bennett",
         "load_num": "RN36978A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 12",
         "notes": "4/16",
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16328,7 +16328,7 @@
         "dropoff": "Bennett",
         "load_num": "RN39162A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 14",
         "notes": "4/16",
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16352,7 +16352,7 @@
         "dropoff": "Bennett",
         "load_num": "RN39163A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 14",
         "notes": "4/16",
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16376,7 +16376,7 @@
         "dropoff": "Bennett",
         "load_num": "RN42348A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 18",
         "notes": "4/21",
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16400,7 +16400,7 @@
         "dropoff": "Bennett",
         "load_num": "RN42347A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 18",
         "notes": "4/21",
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16424,7 +16424,7 @@
         "dropoff": "Bennett",
         "load_num": "RN42346A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 18",
         "notes": "4/21",
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16448,7 +16448,7 @@
         "dropoff": "City",
         "load_num": "12933327",
         "amount": 85.0,
-        "date_paid": null,
+        "date_paid": "Apr 22",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16472,7 +16472,7 @@
         "dropoff": "Denver",
         "load_num": "12911019",
         "amount": 100.0,
-        "date_paid": null,
+        "date_paid": "Apr 22",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16496,7 +16496,7 @@
         "dropoff": "Denver",
         "load_num": "12911021",
         "amount": 100.0,
-        "date_paid": null,
+        "date_paid": "Apr 22",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16520,7 +16520,7 @@
         "dropoff": "Denver",
         "load_num": "12883607",
         "amount": 155.0,
-        "date_paid": null,
+        "date_paid": "Apr 21",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16544,7 +16544,7 @@
         "dropoff": "Denver",
         "load_num": "12996787",
         "amount": 125.0,
-        "date_paid": null,
+        "date_paid": "Apr 25",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16568,7 +16568,7 @@
         "dropoff": "Denver",
         "load_num": "12932063",
         "amount": 85.0,
-        "date_paid": null,
+        "date_paid": "Apr 25",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16592,7 +16592,7 @@
         "dropoff": "Bennett",
         "load_num": "RN50104A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 28",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16616,7 +16616,7 @@
         "dropoff": "Bennett",
         "load_num": "RN50102A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 28",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16640,7 +16640,7 @@
         "dropoff": "Bennett",
         "load_num": "RN50103A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 28",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16664,7 +16664,7 @@
         "dropoff": "Denver",
         "load_num": "12880401",
         "amount": 90.0,
-        "date_paid": null,
+        "date_paid": "Apr 28",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16688,7 +16688,7 @@
         "dropoff": "Denver",
         "load_num": "13036167",
         "amount": 85.0,
-        "date_paid": null,
+        "date_paid": "Apr 29",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16712,7 +16712,7 @@
         "dropoff": "City",
         "load_num": "13004555",
         "amount": 85.0,
-        "date_paid": null,
+        "date_paid": "Apr 28",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16736,7 +16736,7 @@
         "dropoff": "Aurora",
         "load_num": "4626792",
         "amount": 195.0,
-        "date_paid": null,
+        "date_paid": "Jul 29",
         "notes": null,
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16760,7 +16760,7 @@
         "dropoff": "City",
         "load_num": "12712677",
         "amount": 80.0,
-        "date_paid": null,
+        "date_paid": "Apr 02",
         "notes": "4/4",
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16784,7 +16784,7 @@
         "dropoff": "City",
         "load_num": "12712685",
         "amount": 80.0,
-        "date_paid": null,
+        "date_paid": "Apr 02",
         "notes": "4/4",
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16808,7 +16808,7 @@
         "dropoff": "Bennett",
         "load_num": "RN25354A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 01",
         "notes": "4/4",
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16832,7 +16832,7 @@
         "dropoff": "Bennett",
         "load_num": "RN25747A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 01",
         "notes": "4/4",
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16856,7 +16856,7 @@
         "dropoff": "Bennett",
         "load_num": "RN25746A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 01",
         "notes": "4/4",
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16880,7 +16880,7 @@
         "dropoff": "Bennett",
         "load_num": "RN27262A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 01",
         "notes": "4/4",
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16904,7 +16904,7 @@
         "dropoff": "Bennett",
         "load_num": "RN27261A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 01",
         "notes": "4/4",
         "source_file": "Tony - '25 Schedule (1).txt"
       },
@@ -16928,7 +16928,7 @@
         "dropoff": "Bennett",
         "load_num": "RN27263A",
         "amount": 75.0,
-        "date_paid": null,
+        "date_paid": "Apr 01",
         "notes": "4/4",
         "source_file": "Tony - '25 Schedule (1).txt"
       },
