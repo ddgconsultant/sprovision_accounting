@@ -20,8 +20,8 @@ wheels/
 .installed.cfg
 *.egg
 
-# Generated reports
-reports/
+# Generated reports (commented out to include in git)
+# reports/
 
 # IDE
 .vscode/
