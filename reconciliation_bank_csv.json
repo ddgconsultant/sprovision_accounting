@@ -1,0 +1,1255 @@
+{
+  "matches": [
+    {
+      "smarttrucker_date": "Apr 03",
+      "bank_date": "04/04/2025",
+      "load_ref": null,
+      "amount": 4085.55,
+      "match_type": "Amount match ($4085.55) within 1 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Apr 06",
+      "bank_date": "04/08/2025",
+      "load_ref": null,
+      "amount": 467.98,
+      "match_type": "Amount match ($467.98) within 2 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Apr 07",
+      "bank_date": "04/09/2025",
+      "load_ref": null,
+      "amount": 875.53,
+      "match_type": "Amount match ($875.53) within 2 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Apr 09",
+      "bank_date": "04/11/2025",
+      "load_ref": null,
+      "amount": 424.97,
+      "match_type": "Amount match ($424.97) within 2 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Apr 15",
+      "bank_date": "04/16/2025",
+      "load_ref": null,
+      "amount": 2213.32,
+      "match_type": "Amount match ($2213.32) within 1 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Apr 18",
+      "bank_date": "04/21/2025",
+      "load_ref": null,
+      "amount": 2120.57,
+      "match_type": "Amount match ($2120.57) within 3 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Apr 30",
+      "bank_date": "05/01/2025",
+      "load_ref": null,
+      "amount": 4716.36,
+      "match_type": "Amount match ($4716.36) within 1 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "May 09",
+      "bank_date": "05/12/2025",
+      "load_ref": null,
+      "amount": 2126.27,
+      "match_type": "Amount match ($2126.27) within 3 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "May 14",
+      "bank_date": "05/16/2025",
+      "load_ref": null,
+      "amount": 984.7,
+      "match_type": "Amount match ($984.70) within 2 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "May 20",
+      "bank_date": "05/22/2025",
+      "load_ref": null,
+      "amount": 1394.17,
+      "match_type": "Amount match ($1394.17) within 2 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "May 25",
+      "bank_date": "05/28/2025",
+      "load_ref": null,
+      "amount": 950.56,
+      "match_type": "Amount match ($950.56) within 3 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Jun 01",
+      "bank_date": "06/03/2025",
+      "load_ref": null,
+      "amount": 2771.78,
+      "match_type": "Amount match ($2771.78) within 2 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Jun 06",
+      "bank_date": "06/09/2025",
+      "load_ref": null,
+      "amount": 1099.11,
+      "match_type": "Amount match ($1099.11) within 3 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Jun 17",
+      "bank_date": "06/18/2025",
+      "load_ref": null,
+      "amount": 5100.94,
+      "match_type": "Amount match ($5100.94) within 1 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Jun 26",
+      "bank_date": "06/27/2025",
+      "load_ref": null,
+      "amount": 2651.0,
+      "match_type": "Amount match ($2651.00) within 1 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Jun 26",
+      "bank_date": "06/27/2025",
+      "load_ref": null,
+      "amount": 1803.78,
+      "match_type": "Amount match ($1803.78) within 1 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Jun 30",
+      "bank_date": "07/02/2025",
+      "load_ref": null,
+      "amount": 3461.07,
+      "match_type": "Amount match ($3461.07) within 2 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Jul 09",
+      "bank_date": "07/10/2025",
+      "load_ref": null,
+      "amount": 4064.7,
+      "match_type": "Amount match ($4064.70) within 1 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Jul 14",
+      "bank_date": "07/16/2025",
+      "load_ref": null,
+      "amount": 4840.62,
+      "match_type": "Amount match ($4840.62) within 2 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Jul 29",
+      "bank_date": "07/31/2025",
+      "load_ref": null,
+      "amount": 4791.94,
+      "match_type": "Amount match ($4791.94) within 2 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Aug 06",
+      "bank_date": "08/07/2025",
+      "load_ref": null,
+      "amount": 2899.39,
+      "match_type": "Amount match ($2899.39) within 1 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Aug 10",
+      "bank_date": "08/12/2025",
+      "load_ref": null,
+      "amount": 584.97,
+      "match_type": "Amount match ($584.97) within 2 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Aug 11",
+      "bank_date": "08/13/2025",
+      "load_ref": null,
+      "amount": 1642.81,
+      "match_type": "Amount match ($1642.81) within 2 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Aug 14",
+      "bank_date": "08/15/2025",
+      "load_ref": null,
+      "amount": 4694.31,
+      "match_type": "Amount match ($4694.31) within 1 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Aug 19",
+      "bank_date": "08/21/2025",
+      "load_ref": null,
+      "amount": 1637.89,
+      "match_type": "Amount match ($1637.89) within 2 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Aug 25",
+      "bank_date": "08/27/2025",
+      "load_ref": null,
+      "amount": 5364.17,
+      "match_type": "Amount match ($5364.17) within 2 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Aug 26",
+      "bank_date": "08/27/2025",
+      "load_ref": null,
+      "amount": 877.44,
+      "match_type": "Amount match ($877.44) within 1 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Sep 02",
+      "bank_date": "09/04/2025",
+      "load_ref": null,
+      "amount": 953.97,
+      "match_type": "Amount match ($953.97) within 2 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Sep 09",
+      "bank_date": "09/10/2025",
+      "load_ref": null,
+      "amount": 4882.62,
+      "match_type": "Amount match ($4882.62) within 1 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Sep 10",
+      "bank_date": "09/11/2025",
+      "load_ref": null,
+      "amount": 2967.76,
+      "match_type": "Amount match ($2967.76) within 1 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Sep 13",
+      "bank_date": "09/16/2025",
+      "load_ref": null,
+      "amount": 1758.82,
+      "match_type": "Amount match ($1758.82) within 3 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Sep 19",
+      "bank_date": "09/22/2025",
+      "load_ref": null,
+      "amount": 4336.61,
+      "match_type": "Amount match ($4336.61) within 3 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Sep 23",
+      "bank_date": "09/25/2025",
+      "load_ref": null,
+      "amount": 3100.15,
+      "match_type": "Amount match ($3100.15) within 2 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Oct 01",
+      "bank_date": "10/03/2025",
+      "load_ref": null,
+      "amount": 5602.64,
+      "match_type": "Amount match ($5602.64) within 2 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Oct 02",
+      "bank_date": "10/03/2025",
+      "load_ref": null,
+      "amount": 1499.67,
+      "match_type": "Amount match ($1499.67) within 1 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Oct 03",
+      "bank_date": "10/06/2025",
+      "load_ref": null,
+      "amount": 950.58,
+      "match_type": "Amount match ($950.58) within 3 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Oct 04",
+      "bank_date": "10/07/2025",
+      "load_ref": null,
+      "amount": 3078.97,
+      "match_type": "Amount match ($3078.97) within 3 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Oct 06",
+      "bank_date": "10/07/2025",
+      "load_ref": null,
+      "amount": 151.12,
+      "match_type": "Amount match ($151.12) within 1 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Oct 07",
+      "bank_date": "10/08/2025",
+      "load_ref": null,
+      "amount": 146.25,
+      "match_type": "Amount match ($146.25) within 1 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Oct 07",
+      "bank_date": "10/09/2025",
+      "load_ref": null,
+      "amount": 1135.83,
+      "match_type": "Amount match ($1135.83) within 2 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Oct 08",
+      "bank_date": "10/09/2025",
+      "load_ref": null,
+      "amount": 165.75,
+      "match_type": "Amount match ($165.75) within 1 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Oct 08",
+      "bank_date": "10/10/2025",
+      "load_ref": null,
+      "amount": 745.87,
+      "match_type": "Amount match ($745.87) within 2 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Oct 14",
+      "bank_date": "10/15/2025",
+      "load_ref": null,
+      "amount": 2146.93,
+      "match_type": "Amount match ($2146.93) within 1 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Oct 15",
+      "bank_date": "10/17/2025",
+      "load_ref": null,
+      "amount": 1555.06,
+      "match_type": "Amount match ($1555.06) within 2 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Oct 17",
+      "bank_date": "10/15/2025",
+      "load_ref": null,
+      "amount": 1199.03,
+      "match_type": "Amount match ($1199.03) within 2 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Oct 20",
+      "bank_date": "10/22/2025",
+      "load_ref": null,
+      "amount": 4007.93,
+      "match_type": "Amount match ($4007.93) within 2 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Oct 22",
+      "bank_date": "10/24/2025",
+      "load_ref": null,
+      "amount": 1316.16,
+      "match_type": "Amount match ($1316.16) within 2 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Oct 27",
+      "bank_date": "10/29/2025",
+      "load_ref": null,
+      "amount": 321.75,
+      "match_type": "Amount match ($321.75) within 2 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Oct 28",
+      "bank_date": "10/30/2025",
+      "load_ref": null,
+      "amount": 2298.07,
+      "match_type": "Amount match ($2298.07) within 2 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "smarttrucker_date": "Oct 29",
+      "bank_date": "10/31/2025",
+      "load_ref": null,
+      "amount": 292.5,
+      "match_type": "Amount match ($292.50) within 2 days",
+      "smarttrucker_description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app",
+      "bank_description": "Ach transf S PROVISIONS LLC"
+    }
+  ],
+  "unmatched_smarttrucker": [
+    {
+      "date": "Apr 04",
+      "load_ref": null,
+      "amount": 1389.36,
+      "description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app"
+    },
+    {
+      "date": "Jun 20",
+      "load_ref": null,
+      "amount": 4025.0,
+      "description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app"
+    },
+    {
+      "date": "Jul 17",
+      "load_ref": null,
+      "amount": 2863.63,
+      "description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app"
+    },
+    {
+      "date": "Jul 24",
+      "load_ref": null,
+      "amount": 5239.42,
+      "description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app"
+    },
+    {
+      "date": "Aug 01",
+      "load_ref": null,
+      "amount": 4813.38,
+      "description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app"
+    },
+    {
+      "date": "Aug 08",
+      "load_ref": null,
+      "amount": 3569.31,
+      "description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app"
+    },
+    {
+      "date": "Aug 30",
+      "load_ref": null,
+      "amount": 1225.79,
+      "description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app"
+    },
+    {
+      "date": "Sep 04",
+      "load_ref": null,
+      "amount": 2493.91,
+      "description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app"
+    },
+    {
+      "date": "Oct 11",
+      "load_ref": null,
+      "amount": 1199.03,
+      "description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app"
+    },
+    {
+      "date": "Oct 23",
+      "load_ref": null,
+      "amount": 253.5,
+      "description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app"
+    },
+    {
+      "date": "Oct 24",
+      "load_ref": null,
+      "amount": 133.57,
+      "description": "S PROVISIONS LLC | Ach transfer via TruckSmarter app"
+    }
+  ],
+  "unmatched_bank": [
+    {
+      "date": "04/01/2025",
+      "load_ref": "EF-58366",
+      "amount": 80.0,
+      "description": "EF-58366 Expedited Freigh"
+    },
+    {
+      "date": "04/01/2025",
+      "load_ref": null,
+      "amount": 2348.79,
+      "description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "date": "04/02/2025",
+      "load_ref": null,
+      "amount": 73.5,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "04/07/2025",
+      "load_ref": "EF-59037",
+      "amount": 80.0,
+      "description": "EF-59037 Expedited Freigh"
+    },
+    {
+      "date": "04/08/2025",
+      "load_ref": null,
+      "amount": 1389.36,
+      "description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "date": "04/10/2025",
+      "load_ref": "EF-59384",
+      "amount": 80.0,
+      "description": "EF-59384 Expedited Freigh"
+    },
+    {
+      "date": "04/10/2025",
+      "load_ref": "EF-59377",
+      "amount": 80.0,
+      "description": "EF-59377 Expedited Freigh"
+    },
+    {
+      "date": "04/11/2025",
+      "load_ref": null,
+      "amount": 90.55,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "04/14/2025",
+      "load_ref": null,
+      "amount": 84.51,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "04/14/2025",
+      "load_ref": null,
+      "amount": 147.0,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "04/15/2025",
+      "load_ref": "EF-59604",
+      "amount": 80.0,
+      "description": "EF-59604 Expedited Freigh"
+    },
+    {
+      "date": "04/15/2025",
+      "load_ref": "EF-159393",
+      "amount": 80.0,
+      "description": "EF-159393 Expedited Freigh"
+    },
+    {
+      "date": "04/17/2025",
+      "load_ref": null,
+      "amount": 94.08,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "04/17/2025",
+      "load_ref": "EF-60084",
+      "amount": 170.0,
+      "description": "EF-60084 Expedited Freigh"
+    },
+    {
+      "date": "04/18/2025",
+      "load_ref": "EF-60199",
+      "amount": 80.0,
+      "description": "EF-60199 Expedited Freigh"
+    },
+    {
+      "date": "04/22/2025",
+      "load_ref": null,
+      "amount": 73.5,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "04/22/2025",
+      "load_ref": null,
+      "amount": 73.5,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "04/23/2025",
+      "load_ref": null,
+      "amount": 73.5,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "04/23/2025",
+      "load_ref": "EF-60427",
+      "amount": 80.0,
+      "description": "EF-60427 Expedited Freigh"
+    },
+    {
+      "date": "04/24/2025",
+      "load_ref": null,
+      "amount": 73.5,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "04/29/2025",
+      "load_ref": null,
+      "amount": 73.5,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "04/29/2025",
+      "load_ref": null,
+      "amount": 160.0,
+      "description": "10299 Logistic Transit"
+    },
+    {
+      "date": "05/05/2025",
+      "load_ref": null,
+      "amount": 73.5,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "05/06/2025",
+      "load_ref": null,
+      "amount": 80.0,
+      "description": "10446 Logistic Transit"
+    },
+    {
+      "date": "05/09/2025",
+      "load_ref": null,
+      "amount": 80.0,
+      "description": "10446D Logistic Transit"
+    },
+    {
+      "date": "05/13/2025",
+      "load_ref": "EF-61906",
+      "amount": 70.0,
+      "description": "EF-61906 Expedited Freigh"
+    },
+    {
+      "date": "05/19/2025",
+      "load_ref": null,
+      "amount": 73.5,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "05/19/2025",
+      "load_ref": null,
+      "amount": 80.0,
+      "description": "10706 Logistic Transit"
+    },
+    {
+      "date": "05/28/2025",
+      "load_ref": null,
+      "amount": 80.0,
+      "description": "10874 Logistic Transit"
+    },
+    {
+      "date": "06/02/2025",
+      "load_ref": null,
+      "amount": 80.0,
+      "description": "10965 Logistic Transit"
+    },
+    {
+      "date": "06/04/2025",
+      "load_ref": "250603267",
+      "amount": 250.0,
+      "description": "250603267 ANEW TRANSPORT L"
+    },
+    {
+      "date": "06/09/2025",
+      "load_ref": null,
+      "amount": 80.0,
+      "description": "11234 Logistic Transit"
+    },
+    {
+      "date": "06/13/2025",
+      "load_ref": null,
+      "amount": 80.0,
+      "description": "11251 Logistic Transit"
+    },
+    {
+      "date": "06/13/2025",
+      "load_ref": null,
+      "amount": 80.0,
+      "description": "11336 Logistic Transit"
+    },
+    {
+      "date": "06/20/2025",
+      "load_ref": null,
+      "amount": 240.0,
+      "description": "11398 Logistic Transit"
+    },
+    {
+      "date": "06/24/2025",
+      "load_ref": null,
+      "amount": 147.0,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "06/24/2025",
+      "load_ref": null,
+      "amount": 4025.0,
+      "description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "date": "06/25/2025",
+      "load_ref": null,
+      "amount": 160.0,
+      "description": "11481 Logistic Transit"
+    },
+    {
+      "date": "06/30/2025",
+      "load_ref": null,
+      "amount": 240.0,
+      "description": "11614 Logistic Transit"
+    },
+    {
+      "date": "06/30/2025",
+      "load_ref": null,
+      "amount": 240.0,
+      "description": "11614D Logistic Transit"
+    },
+    {
+      "date": "07/03/2025",
+      "load_ref": null,
+      "amount": 80.0,
+      "description": "11716 Logistic Transit"
+    },
+    {
+      "date": "07/03/2025",
+      "load_ref": "EF-66048",
+      "amount": 150.0,
+      "description": "EF-66048 Expedited Freigh"
+    },
+    {
+      "date": "07/15/2025",
+      "load_ref": null,
+      "amount": 125.0,
+      "description": "0-NBA27494 Expedited Freigh"
+    },
+    {
+      "date": "07/16/2025",
+      "load_ref": null,
+      "amount": 323.4,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "07/17/2025",
+      "load_ref": null,
+      "amount": 160.0,
+      "description": "12001 Logistic Transit"
+    },
+    {
+      "date": "07/21/2025",
+      "load_ref": null,
+      "amount": 2863.63,
+      "description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "date": "07/23/2025",
+      "load_ref": null,
+      "amount": 107.8,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "07/23/2025",
+      "load_ref": null,
+      "amount": 129.36,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "07/23/2025",
+      "load_ref": null,
+      "amount": 160.0,
+      "description": "12098 Logistic Transit"
+    },
+    {
+      "date": "07/24/2025",
+      "load_ref": null,
+      "amount": 73.5,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "07/24/2025",
+      "load_ref": null,
+      "amount": 117.6,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "07/24/2025",
+      "load_ref": null,
+      "amount": 220.5,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "07/25/2025",
+      "load_ref": null,
+      "amount": 78.4,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "07/25/2025",
+      "load_ref": null,
+      "amount": 240.0,
+      "description": "12152 Logistic Transit"
+    },
+    {
+      "date": "07/28/2025",
+      "load_ref": null,
+      "amount": 5239.42,
+      "description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "date": "07/31/2025",
+      "load_ref": "EF-68703",
+      "amount": 80.0,
+      "description": "EF-68703 Expedited Freigh"
+    },
+    {
+      "date": "07/31/2025",
+      "load_ref": "EF-68984",
+      "amount": 80.0,
+      "description": "EF-68984 Expedited Freigh"
+    },
+    {
+      "date": "07/31/2025",
+      "load_ref": "EF-68786",
+      "amount": 80.0,
+      "description": "EF-68786 Expedited Freigh"
+    },
+    {
+      "date": "07/31/2025",
+      "load_ref": "EF-67783",
+      "amount": 125.0,
+      "description": "EF-67783D Expedited Freigh"
+    },
+    {
+      "date": "07/31/2025",
+      "load_ref": "EF-67522",
+      "amount": 375.0,
+      "description": "EF-67522 Expedited Freigh"
+    },
+    {
+      "date": "08/01/2025",
+      "load_ref": "EF-67522",
+      "amount": 300.0,
+      "description": "EF-67522D Expedited Freigh"
+    },
+    {
+      "date": "08/05/2025",
+      "load_ref": "EF-69285",
+      "amount": 80.0,
+      "description": "EF-69285 Expedited Freigh"
+    },
+    {
+      "date": "08/05/2025",
+      "load_ref": null,
+      "amount": 117.6,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "08/05/2025",
+      "load_ref": null,
+      "amount": 129.36,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "08/05/2025",
+      "load_ref": null,
+      "amount": 4813.38,
+      "description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "date": "08/06/2025",
+      "load_ref": "EF-68985",
+      "amount": 80.0,
+      "description": "EF-68985 Expedited Freigh"
+    },
+    {
+      "date": "08/06/2025",
+      "load_ref": "EF-69429",
+      "amount": 150.0,
+      "description": "EF-69429 Expedited Freigh"
+    },
+    {
+      "date": "08/07/2025",
+      "load_ref": "EF-69595",
+      "amount": 225.0,
+      "description": "EF-69595 Expedited Freigh"
+    },
+    {
+      "date": "08/07/2025",
+      "load_ref": "EF-69274",
+      "amount": 375.0,
+      "description": "EF-69274 Expedited Freigh"
+    },
+    {
+      "date": "08/08/2025",
+      "load_ref": "EF-69808",
+      "amount": 80.0,
+      "description": "EF-69808 Expedited Freigh"
+    },
+    {
+      "date": "08/08/2025",
+      "load_ref": "EF-69611",
+      "amount": 80.0,
+      "description": "EF-69611 Expedited Freigh"
+    },
+    {
+      "date": "08/08/2025",
+      "load_ref": "EF-69610",
+      "amount": 80.0,
+      "description": "EF-69610 Expedited Freigh"
+    },
+    {
+      "date": "08/08/2025",
+      "load_ref": null,
+      "amount": 94.08,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "08/08/2025",
+      "load_ref": null,
+      "amount": 98.78,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "08/08/2025",
+      "load_ref": null,
+      "amount": 169.34,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "08/12/2025",
+      "load_ref": null,
+      "amount": 3569.31,
+      "description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "date": "08/13/2025",
+      "load_ref": "250812322",
+      "amount": 225.0,
+      "description": "250812322 ANEW TRANSPORT L"
+    },
+    {
+      "date": "08/14/2025",
+      "load_ref": null,
+      "amount": 107.8,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "08/14/2025",
+      "load_ref": null,
+      "amount": 253.82,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "08/18/2025",
+      "load_ref": "EF-70230",
+      "amount": 80.0,
+      "description": "EF-70230 Expedited Freigh"
+    },
+    {
+      "date": "08/18/2025",
+      "load_ref": "EF-69271",
+      "amount": 125.0,
+      "description": "EF-69271 Expedited Freigh"
+    },
+    {
+      "date": "08/18/2025",
+      "load_ref": "250815258",
+      "amount": 425.0,
+      "description": "250815258 ANEW TRANSPORT L"
+    },
+    {
+      "date": "08/19/2025",
+      "load_ref": "250818222",
+      "amount": 50.0,
+      "description": "250818222 ANEW TRANSPORT L"
+    },
+    {
+      "date": "08/20/2025",
+      "load_ref": "250819282",
+      "amount": 150.0,
+      "description": "250819282 ANEW TRANSPORT L"
+    },
+    {
+      "date": "08/27/2025",
+      "load_ref": "EF-71514",
+      "amount": 345.0,
+      "description": "EF-71514 Expedited Freigh"
+    },
+    {
+      "date": "08/29/2025",
+      "load_ref": "EF-72298",
+      "amount": 80.0,
+      "description": "EF-72298 Expedited Freigh"
+    },
+    {
+      "date": "09/02/2025",
+      "load_ref": "EF-72236",
+      "amount": 80.0,
+      "description": "EF-72236 Expedited Freigh"
+    },
+    {
+      "date": "09/02/2025",
+      "load_ref": "EF-72146",
+      "amount": 80.0,
+      "description": "EF-72146 Expedited Freigh"
+    },
+    {
+      "date": "09/02/2025",
+      "load_ref": "EF-72127",
+      "amount": 115.0,
+      "description": "EF-72127 Expedited Freigh"
+    },
+    {
+      "date": "09/02/2025",
+      "load_ref": "EF-71165",
+      "amount": 330.0,
+      "description": "EF-71165D Expedited Freigh"
+    },
+    {
+      "date": "09/03/2025",
+      "load_ref": null,
+      "amount": 1225.79,
+      "description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "date": "09/08/2025",
+      "load_ref": null,
+      "amount": 2493.91,
+      "description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "date": "09/09/2025",
+      "load_ref": "EF-72992",
+      "amount": 80.0,
+      "description": "EF-72992 Expedited Freigh"
+    },
+    {
+      "date": "09/10/2025",
+      "load_ref": "EF-73032",
+      "amount": 80.0,
+      "description": "EF-73032 Expedited Freigh"
+    },
+    {
+      "date": "09/10/2025",
+      "load_ref": "EF-73134",
+      "amount": 80.0,
+      "description": "EF-73134 Expedited Freigh"
+    },
+    {
+      "date": "09/12/2025",
+      "load_ref": "EF-73423",
+      "amount": 320.0,
+      "description": "EF-73423 Expedited Freigh"
+    },
+    {
+      "date": "09/15/2025",
+      "load_ref": "EF-73445",
+      "amount": 80.0,
+      "description": "EF-73445 Expedited Freigh"
+    },
+    {
+      "date": "09/16/2025",
+      "load_ref": null,
+      "amount": 135.48,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "09/17/2025",
+      "load_ref": null,
+      "amount": 205.8,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "09/22/2025",
+      "load_ref": null,
+      "amount": 112.7,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "09/22/2025",
+      "load_ref": null,
+      "amount": 147.0,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "09/29/2025",
+      "load_ref": null,
+      "amount": 107.8,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "09/29/2025",
+      "load_ref": "EF-75093",
+      "amount": 345.0,
+      "description": "EF-75093 Expedited Freigh"
+    },
+    {
+      "date": "10/03/2025",
+      "load_ref": null,
+      "amount": 78.4,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "10/15/2025",
+      "load_ref": null,
+      "amount": 132.3,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "10/15/2025",
+      "load_ref": null,
+      "amount": 490.0,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "10/17/2025",
+      "load_ref": null,
+      "amount": 250.0,
+      "description": "B88648 LR Auto Brokers"
+    },
+    {
+      "date": "10/17/2025",
+      "load_ref": null,
+      "amount": 250.0,
+      "description": "C17009 LR Auto Brokers"
+    },
+    {
+      "date": "10/20/2025",
+      "load_ref": null,
+      "amount": 122.5,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "10/22/2025",
+      "load_ref": null,
+      "amount": 91.73,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "10/22/2025",
+      "load_ref": null,
+      "amount": 105.84,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "10/22/2025",
+      "load_ref": null,
+      "amount": 118.54,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "10/22/2025",
+      "load_ref": "808499",
+      "amount": 250.0,
+      "description": "808499 LR Auto Brokers"
+    },
+    {
+      "date": "10/23/2025",
+      "load_ref": null,
+      "amount": 250.0,
+      "description": "EF13799 LR Auto Brokers"
+    },
+    {
+      "date": "10/27/2025",
+      "load_ref": null,
+      "amount": 117.6,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "10/27/2025",
+      "load_ref": null,
+      "amount": 253.5,
+      "description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "date": "10/28/2025",
+      "load_ref": null,
+      "amount": 133.57,
+      "description": "Ach transf S PROVISIONS LLC"
+    },
+    {
+      "date": "10/28/2025",
+      "load_ref": "251027231",
+      "amount": 388.0,
+      "description": "251027231 ANEW TRANSPORT L"
+    },
+    {
+      "date": "10/30/2025",
+      "load_ref": null,
+      "amount": 127.4,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "10/30/2025",
+      "load_ref": null,
+      "amount": 235.2,
+      "description": "A CARVANA"
+    },
+    {
+      "date": "10/31/2025",
+      "load_ref": "251030372",
+      "amount": 388.0,
+      "description": "251030372 ANEW TRANSPORT L"
+    }
+  ],
+  "summary": {
+    "total_matched": 50,
+    "total_unmatched_smarttrucker": 11,
+    "total_unmatched_bank": 121
+  }
+}

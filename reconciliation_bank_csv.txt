@@ -1,0 +1,960 @@
+========================================================================================================================
+ENHANCED RECONCILIATION REPORT - SMARTTRUCKER SPV WITHDRAWALS vs ACTUAL BANK DEPOSITS
+========================================================================================================================
+
+MATCHED PAYMENTS (50 total)
+------------------------------------------------------------------------------------------------------------------------
+
+1. MATCH: Amount match ($4085.55) within 1 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Apr 03
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $4085.55
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   04/04/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $4085.55
+      Type:              EFT
+      *** NOTICE: Bank deposit was 1 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+2. MATCH: Amount match ($467.98) within 2 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Apr 06
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $467.98
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   04/08/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $467.98
+      Type:              EFT
+      *** NOTICE: Bank deposit was 2 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+3. MATCH: Amount match ($875.53) within 2 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Apr 07
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $875.53
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   04/09/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $875.53
+      Type:              EFT
+      *** NOTICE: Bank deposit was 2 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+4. MATCH: Amount match ($424.97) within 2 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Apr 09
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $424.97
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   04/11/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $424.97
+      Type:              EFT
+      *** NOTICE: Bank deposit was 2 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+5. MATCH: Amount match ($2213.32) within 1 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Apr 15
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $2213.32
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   04/16/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $2213.32
+      Type:              EFT
+      *** NOTICE: Bank deposit was 1 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+6. MATCH: Amount match ($2120.57) within 3 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Apr 18
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $2120.57
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   04/21/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $2120.57
+      Type:              EFT
+      *** NOTICE: Bank deposit was 3 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+7. MATCH: Amount match ($4716.36) within 1 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Apr 30
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $4716.36
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   05/01/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $4716.36
+      Type:              EFT
+      *** NOTICE: Bank deposit was 1 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+8. MATCH: Amount match ($2126.27) within 3 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   May 09
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $2126.27
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   05/12/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $2126.27
+      Type:              EFT
+      *** NOTICE: Bank deposit was 3 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+9. MATCH: Amount match ($984.70) within 2 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   May 14
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $984.70
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   05/16/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $984.7
+      Type:              EFT
+      *** NOTICE: Bank deposit was 2 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+10. MATCH: Amount match ($1394.17) within 2 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   May 20
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $1394.17
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   05/22/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $1394.17
+      Type:              EFT
+      *** NOTICE: Bank deposit was 2 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+11. MATCH: Amount match ($950.56) within 3 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   May 25
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $950.56
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   05/28/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $950.56
+      Type:              EFT
+      *** NOTICE: Bank deposit was 3 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+12. MATCH: Amount match ($2771.78) within 2 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Jun 01
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $2771.78
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   06/03/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $2771.78
+      Type:              EFT
+      *** NOTICE: Bank deposit was 2 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+13. MATCH: Amount match ($1099.11) within 3 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Jun 06
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $1099.11
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   06/09/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $1099.11
+      Type:              EFT
+      *** NOTICE: Bank deposit was 3 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+14. MATCH: Amount match ($5100.94) within 1 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Jun 17
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $5100.94
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   06/18/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $5100.94
+      Type:              EFT
+      *** NOTICE: Bank deposit was 1 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+15. MATCH: Amount match ($2651.00) within 1 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Jun 26
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $2651.00
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   06/27/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $2651
+      Type:              EFT
+      *** NOTICE: Bank deposit was 1 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+16. MATCH: Amount match ($1803.78) within 1 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Jun 26
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $1803.78
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   06/27/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $1803.78
+      Type:              EFT
+      *** NOTICE: Bank deposit was 1 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+17. MATCH: Amount match ($3461.07) within 2 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Jun 30
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $3461.07
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   07/02/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $3461.07
+      Type:              EFT
+      *** NOTICE: Bank deposit was 2 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+18. MATCH: Amount match ($4064.70) within 1 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Jul 09
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $4064.70
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   07/10/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $4064.7
+      Type:              EFT
+      *** NOTICE: Bank deposit was 1 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+19. MATCH: Amount match ($4840.62) within 2 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Jul 14
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $4840.62
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   07/16/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $4840.62
+      Type:              EFT
+      *** NOTICE: Bank deposit was 2 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+20. MATCH: Amount match ($4791.94) within 2 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Jul 29
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $4791.94
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   07/31/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $4791.94
+      Type:              EFT
+      *** NOTICE: Bank deposit was 2 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+21. MATCH: Amount match ($2899.39) within 1 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Aug 06
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $2899.39
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   08/07/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $2899.39
+      Type:              EFT
+      *** NOTICE: Bank deposit was 1 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+22. MATCH: Amount match ($584.97) within 2 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Aug 10
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $584.97
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   08/12/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $584.97
+      Type:              EFT
+      *** NOTICE: Bank deposit was 2 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+23. MATCH: Amount match ($1642.81) within 2 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Aug 11
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $1642.81
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   08/13/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $1642.81
+      Type:              EFT
+      *** NOTICE: Bank deposit was 2 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+24. MATCH: Amount match ($4694.31) within 1 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Aug 14
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $4694.31
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   08/15/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $4694.31
+      Type:              EFT
+      *** NOTICE: Bank deposit was 1 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+25. MATCH: Amount match ($1637.89) within 2 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Aug 19
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $1637.89
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   08/21/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $1637.89
+      Type:              EFT
+      *** NOTICE: Bank deposit was 2 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+26. MATCH: Amount match ($5364.17) within 2 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Aug 25
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $5364.17
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   08/27/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $5364.17
+      Type:              EFT
+      *** NOTICE: Bank deposit was 2 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+27. MATCH: Amount match ($877.44) within 1 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Aug 26
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $877.44
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   08/27/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $877.44
+      Type:              EFT
+      *** NOTICE: Bank deposit was 1 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+28. MATCH: Amount match ($953.97) within 2 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Sep 02
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $953.97
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   09/04/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $953.97
+      Type:              EFT
+      *** NOTICE: Bank deposit was 2 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+29. MATCH: Amount match ($4882.62) within 1 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Sep 09
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $4882.62
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   09/10/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $4882.62
+      Type:              EFT
+      *** NOTICE: Bank deposit was 1 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+30. MATCH: Amount match ($2967.76) within 1 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Sep 10
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $2967.76
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   09/11/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $2967.76
+      Type:              EFT
+      *** NOTICE: Bank deposit was 1 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+31. MATCH: Amount match ($1758.82) within 3 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Sep 13
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $1758.82
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   09/16/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $1758.82
+      Type:              EFT
+      *** NOTICE: Bank deposit was 3 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+32. MATCH: Amount match ($4336.61) within 3 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Sep 19
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $4336.61
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   09/22/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $4336.61
+      Type:              EFT
+      *** NOTICE: Bank deposit was 3 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+33. MATCH: Amount match ($3100.15) within 2 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Sep 23
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $3100.15
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   09/25/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $3100.15
+      Type:              EFT
+      *** NOTICE: Bank deposit was 2 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+34. MATCH: Amount match ($5602.64) within 2 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Oct 01
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $5602.64
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   10/03/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $5602.64
+      Type:              EFT
+      *** NOTICE: Bank deposit was 2 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+35. MATCH: Amount match ($1499.67) within 1 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Oct 02
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $1499.67
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   10/03/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $1499.67
+      Type:              EFT
+      *** NOTICE: Bank deposit was 1 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+36. MATCH: Amount match ($950.58) within 3 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Oct 03
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $950.58
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   10/06/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $950.58
+      Type:              EFT
+      *** NOTICE: Bank deposit was 3 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+37. MATCH: Amount match ($3078.97) within 3 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Oct 04
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $3078.97
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   10/07/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $3078.97
+      Type:              EFT
+      *** NOTICE: Bank deposit was 3 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+38. MATCH: Amount match ($151.12) within 1 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Oct 06
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $151.12
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   10/07/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $151.12
+      Type:              EFT
+      *** NOTICE: Bank deposit was 1 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+39. MATCH: Amount match ($146.25) within 1 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Oct 07
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $146.25
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   10/08/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $146.25
+      Type:              EFT
+      *** NOTICE: Bank deposit was 1 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+40. MATCH: Amount match ($1135.83) within 2 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Oct 07
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $1135.83
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   10/09/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $1135.83
+      Type:              EFT
+      *** NOTICE: Bank deposit was 2 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+41. MATCH: Amount match ($165.75) within 1 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Oct 08
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $165.75
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   10/09/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $165.75
+      Type:              EFT
+      *** NOTICE: Bank deposit was 1 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+42. MATCH: Amount match ($745.87) within 2 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Oct 08
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $745.87
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   10/10/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $745.87
+      Type:              EFT
+      *** NOTICE: Bank deposit was 2 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+43. MATCH: Amount match ($2146.93) within 1 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Oct 14
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $2146.93
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   10/15/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $2146.93
+      Type:              EFT
+      *** NOTICE: Bank deposit was 1 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+44. MATCH: Amount match ($1555.06) within 2 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Oct 15
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $1555.06
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   10/17/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $1555.06
+      Type:              EFT
+      *** NOTICE: Bank deposit was 2 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+45. MATCH: Amount match ($1199.03) within 2 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Oct 17
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $1199.03
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   10/15/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $1199.03
+      Type:              EFT
+      *** NOTICE: Bank deposit was 2 day(s) before SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+46. MATCH: Amount match ($4007.93) within 2 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Oct 20
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $4007.93
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   10/22/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $4007.93
+      Type:              EFT
+      *** NOTICE: Bank deposit was 2 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+47. MATCH: Amount match ($1316.16) within 2 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Oct 22
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $1316.16
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   10/24/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $1316.16
+      Type:              EFT
+      *** NOTICE: Bank deposit was 2 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+48. MATCH: Amount match ($321.75) within 2 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Oct 27
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $321.75
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   10/29/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $321.75
+      Type:              EFT
+      *** NOTICE: Bank deposit was 2 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+49. MATCH: Amount match ($2298.07) within 2 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Oct 28
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $2298.07
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   10/30/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $2298.07
+      Type:              EFT
+      *** NOTICE: Bank deposit was 2 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+50. MATCH: Amount match ($292.50) within 2 days
+   SmartTrucker SPV Withdrawal (Payment Sent):
+      Date (SPV sent):   Oct 29
+      Load Ref:          N/A
+      Description:       S PROVISIONS LLC | Ach transfer via TruckSmarter app
+      Amount Sent:       $292.50
+
+   Actual Bank Deposit (Payment Received):
+      Date (RECEIVED):   10/31/2025 ← THIS IS THE ACTUAL PAID DATE!
+      Load Ref:          N/A
+      Description:       Ach transf S PROVISIONS LLC
+      Amount Received:   $292.5
+      Type:              EFT
+      *** NOTICE: Bank deposit was 2 day(s) after SPV date ***
+
+------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================
+UNMATCHED SMARTTRUCKER SPV DEPOSITS (11 total)
+========================================================================================================================
+These deposits appear in SmartTrucker SPV but couldn't be matched to bank deposits
+------------------------------------------------------------------------------------------------------------------------
+1. Apr 04 | No Ref       | $   1389.36 | S PROVISIONS LLC | Ach transfer via TruckSmarter app
+2. Jun 20 | No Ref       | $   4025.00 | S PROVISIONS LLC | Ach transfer via TruckSmarter app
+3. Jul 17 | No Ref       | $   2863.63 | S PROVISIONS LLC | Ach transfer via TruckSmarter app
+4. Jul 24 | No Ref       | $   5239.42 | S PROVISIONS LLC | Ach transfer via TruckSmarter app
+5. Aug 01 | No Ref       | $   4813.38 | S PROVISIONS LLC | Ach transfer via TruckSmarter app
+6. Aug 08 | No Ref       | $   3569.31 | S PROVISIONS LLC | Ach transfer via TruckSmarter app
+7. Aug 30 | No Ref       | $   1225.79 | S PROVISIONS LLC | Ach transfer via TruckSmarter app
+8. Sep 04 | No Ref       | $   2493.91 | S PROVISIONS LLC | Ach transfer via TruckSmarter app
+9. Oct 11 | No Ref       | $   1199.03 | S PROVISIONS LLC | Ach transfer via TruckSmarter app
+10. Oct 23 | No Ref       | $    253.50 | S PROVISIONS LLC | Ach transfer via TruckSmarter app
+11. Oct 24 | No Ref       | $    133.57 | S PROVISIONS LLC | Ach transfer via TruckSmarter app
+
+========================================================================================================================
+UNMATCHED BANK DEPOSITS (121 total)
+========================================================================================================================
+These deposits appear in bank statement but couldn't be matched to SmartTrucker SPV
+------------------------------------------------------------------------------------------------------------------------
+1. 04/01/2025 | EF-58366     | $        80 | EF-58366 Expedited Freigh
+2. 04/01/2025 | No Ref       | $   2348.79 | Ach transf S PROVISIONS LLC
+3. 04/02/2025 | No Ref       | $      73.5 | A CARVANA
+4. 04/07/2025 | EF-59037     | $        80 | EF-59037 Expedited Freigh
+5. 04/08/2025 | No Ref       | $   1389.36 | Ach transf S PROVISIONS LLC
+6. 04/10/2025 | EF-59384     | $        80 | EF-59384 Expedited Freigh
+7. 04/10/2025 | EF-59377     | $        80 | EF-59377 Expedited Freigh
+8. 04/11/2025 | No Ref       | $     90.55 | A CARVANA
+9. 04/14/2025 | No Ref       | $     84.51 | A CARVANA
+10. 04/14/2025 | No Ref       | $       147 | A CARVANA
+11. 04/15/2025 | EF-59604     | $        80 | EF-59604 Expedited Freigh
+12. 04/15/2025 | EF-159393    | $        80 | EF-159393 Expedited Freigh
+13. 04/17/2025 | No Ref       | $     94.08 | A CARVANA
+14. 04/17/2025 | EF-60084     | $       170 | EF-60084 Expedited Freigh
+15. 04/18/2025 | EF-60199     | $        80 | EF-60199 Expedited Freigh
+16. 04/22/2025 | No Ref       | $      73.5 | A CARVANA
+17. 04/22/2025 | No Ref       | $      73.5 | A CARVANA
+18. 04/23/2025 | No Ref       | $      73.5 | A CARVANA
+19. 04/23/2025 | EF-60427     | $        80 | EF-60427 Expedited Freigh
+20. 04/24/2025 | No Ref       | $      73.5 | A CARVANA
+21. 04/29/2025 | No Ref       | $      73.5 | A CARVANA
+22. 04/29/2025 | No Ref       | $       160 | 10299 Logistic Transit
+23. 05/05/2025 | No Ref       | $      73.5 | A CARVANA
+24. 05/06/2025 | No Ref       | $        80 | 10446 Logistic Transit
+25. 05/09/2025 | No Ref       | $        80 | 10446D Logistic Transit
+26. 05/13/2025 | EF-61906     | $        70 | EF-61906 Expedited Freigh
+27. 05/19/2025 | No Ref       | $      73.5 | A CARVANA
+28. 05/19/2025 | No Ref       | $        80 | 10706 Logistic Transit
+29. 05/28/2025 | No Ref       | $        80 | 10874 Logistic Transit
+30. 06/02/2025 | No Ref       | $        80 | 10965 Logistic Transit
+31. 06/04/2025 | 250603267    | $       250 | 250603267 ANEW TRANSPORT L
+32. 06/09/2025 | No Ref       | $        80 | 11234 Logistic Transit
+33. 06/13/2025 | No Ref       | $        80 | 11251 Logistic Transit
+34. 06/13/2025 | No Ref       | $        80 | 11336 Logistic Transit
+35. 06/20/2025 | No Ref       | $       240 | 11398 Logistic Transit
+36. 06/24/2025 | No Ref       | $       147 | A CARVANA
+37. 06/24/2025 | No Ref       | $      4025 | Ach transf S PROVISIONS LLC
+38. 06/25/2025 | No Ref       | $       160 | 11481 Logistic Transit
+39. 06/30/2025 | No Ref       | $       240 | 11614 Logistic Transit
+40. 06/30/2025 | No Ref       | $       240 | 11614D Logistic Transit
+41. 07/03/2025 | No Ref       | $        80 | 11716 Logistic Transit
+42. 07/03/2025 | EF-66048     | $       150 | EF-66048 Expedited Freigh
+43. 07/15/2025 | No Ref       | $       125 | 0-NBA27494 Expedited Freigh
+44. 07/16/2025 | No Ref       | $     323.4 | A CARVANA
+45. 07/17/2025 | No Ref       | $       160 | 12001 Logistic Transit
+46. 07/21/2025 | No Ref       | $   2863.63 | Ach transf S PROVISIONS LLC
+47. 07/23/2025 | No Ref       | $     107.8 | A CARVANA
+48. 07/23/2025 | No Ref       | $    129.36 | A CARVANA
+49. 07/23/2025 | No Ref       | $       160 | 12098 Logistic Transit
+50. 07/24/2025 | No Ref       | $      73.5 | A CARVANA
+51. 07/24/2025 | No Ref       | $     117.6 | A CARVANA
+52. 07/24/2025 | No Ref       | $     220.5 | A CARVANA
+53. 07/25/2025 | No Ref       | $      78.4 | A CARVANA
+54. 07/25/2025 | No Ref       | $       240 | 12152 Logistic Transit
+55. 07/28/2025 | No Ref       | $   5239.42 | Ach transf S PROVISIONS LLC
+56. 07/31/2025 | EF-68703     | $        80 | EF-68703 Expedited Freigh
+57. 07/31/2025 | EF-68984     | $        80 | EF-68984 Expedited Freigh
+58. 07/31/2025 | EF-68786     | $        80 | EF-68786 Expedited Freigh
+59. 07/31/2025 | EF-67783     | $       125 | EF-67783D Expedited Freigh
+60. 07/31/2025 | EF-67522     | $       375 | EF-67522 Expedited Freigh
+61. 08/01/2025 | EF-67522     | $       300 | EF-67522D Expedited Freigh
+62. 08/05/2025 | EF-69285     | $        80 | EF-69285 Expedited Freigh
+63. 08/05/2025 | No Ref       | $     117.6 | A CARVANA
+64. 08/05/2025 | No Ref       | $    129.36 | A CARVANA
+65. 08/05/2025 | No Ref       | $   4813.38 | Ach transf S PROVISIONS LLC
+66. 08/06/2025 | EF-68985     | $        80 | EF-68985 Expedited Freigh
+67. 08/06/2025 | EF-69429     | $       150 | EF-69429 Expedited Freigh
+68. 08/07/2025 | EF-69595     | $       225 | EF-69595 Expedited Freigh
+69. 08/07/2025 | EF-69274     | $       375 | EF-69274 Expedited Freigh
+70. 08/08/2025 | EF-69808     | $        80 | EF-69808 Expedited Freigh
+71. 08/08/2025 | EF-69611     | $        80 | EF-69611 Expedited Freigh
+72. 08/08/2025 | EF-69610     | $        80 | EF-69610 Expedited Freigh
+73. 08/08/2025 | No Ref       | $     94.08 | A CARVANA
+74. 08/08/2025 | No Ref       | $     98.78 | A CARVANA
+75. 08/08/2025 | No Ref       | $    169.34 | A CARVANA
+76. 08/12/2025 | No Ref       | $   3569.31 | Ach transf S PROVISIONS LLC
+77. 08/13/2025 | 250812322    | $       225 | 250812322 ANEW TRANSPORT L
+78. 08/14/2025 | No Ref       | $     107.8 | A CARVANA
+79. 08/14/2025 | No Ref       | $    253.82 | A CARVANA
+80. 08/18/2025 | EF-70230     | $        80 | EF-70230 Expedited Freigh
+81. 08/18/2025 | EF-69271     | $       125 | EF-69271 Expedited Freigh
+82. 08/18/2025 | 250815258    | $       425 | 250815258 ANEW TRANSPORT L
+83. 08/19/2025 | 250818222    | $        50 | 250818222 ANEW TRANSPORT L
+84. 08/20/2025 | 250819282    | $       150 | 250819282 ANEW TRANSPORT L
+85. 08/27/2025 | EF-71514     | $       345 | EF-71514 Expedited Freigh
+86. 08/29/2025 | EF-72298     | $        80 | EF-72298 Expedited Freigh
+87. 09/02/2025 | EF-72236     | $        80 | EF-72236 Expedited Freigh
+88. 09/02/2025 | EF-72146     | $        80 | EF-72146 Expedited Freigh
+89. 09/02/2025 | EF-72127     | $       115 | EF-72127 Expedited Freigh
+90. 09/02/2025 | EF-71165     | $       330 | EF-71165D Expedited Freigh
+91. 09/03/2025 | No Ref       | $   1225.79 | Ach transf S PROVISIONS LLC
+92. 09/08/2025 | No Ref       | $   2493.91 | Ach transf S PROVISIONS LLC
+93. 09/09/2025 | EF-72992     | $        80 | EF-72992 Expedited Freigh
+94. 09/10/2025 | EF-73032     | $        80 | EF-73032 Expedited Freigh
+95. 09/10/2025 | EF-73134     | $        80 | EF-73134 Expedited Freigh
+96. 09/12/2025 | EF-73423     | $       320 | EF-73423 Expedited Freigh
+97. 09/15/2025 | EF-73445     | $        80 | EF-73445 Expedited Freigh
+98. 09/16/2025 | No Ref       | $    135.48 | A CARVANA
+99. 09/17/2025 | No Ref       | $     205.8 | A CARVANA
+100. 09/22/2025 | No Ref       | $     112.7 | A CARVANA
+101. 09/22/2025 | No Ref       | $       147 | A CARVANA
+102. 09/29/2025 | No Ref       | $     107.8 | A CARVANA
+103. 09/29/2025 | EF-75093     | $       345 | EF-75093 Expedited Freigh
+104. 10/03/2025 | No Ref       | $      78.4 | A CARVANA
+105. 10/15/2025 | No Ref       | $     132.3 | A CARVANA
+106. 10/15/2025 | No Ref       | $       490 | A CARVANA
+107. 10/17/2025 | No Ref       | $       250 | B88648 LR Auto Brokers
+108. 10/17/2025 | No Ref       | $       250 | C17009 LR Auto Brokers
+109. 10/20/2025 | No Ref       | $     122.5 | A CARVANA
+110. 10/22/2025 | No Ref       | $     91.73 | A CARVANA
+111. 10/22/2025 | No Ref       | $    105.84 | A CARVANA
+112. 10/22/2025 | No Ref       | $    118.54 | A CARVANA
+113. 10/22/2025 | 808499       | $       250 | 808499 LR Auto Brokers
+114. 10/23/2025 | No Ref       | $       250 | EF13799 LR Auto Brokers
+115. 10/27/2025 | No Ref       | $     117.6 | A CARVANA
+116. 10/27/2025 | No Ref       | $     253.5 | Ach transf S PROVISIONS LLC
+117. 10/28/2025 | No Ref       | $    133.57 | Ach transf S PROVISIONS LLC
+118. 10/28/2025 | 251027231    | $       388 | 251027231 ANEW TRANSPORT L
+119. 10/30/2025 | No Ref       | $     127.4 | A CARVANA
+120. 10/30/2025 | No Ref       | $     235.2 | A CARVANA
+121. 10/31/2025 | 251030372    | $       388 | 251030372 ANEW TRANSPORT L
+
+========================================================================================================================
+SUMMARY
+========================================================================================================================
+Total Matched:                    50
+Unmatched SmartTrucker Deposits:  11
+Unmatched Bank Deposits:          121
+
+========================================================================================================================
