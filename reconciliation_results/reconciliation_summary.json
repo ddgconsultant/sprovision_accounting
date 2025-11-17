@@ -1,0 +1,14 @@
+{
+  "total_driver_loads": 1152,
+  "total_ready_payments": 664,
+  "total_trucksmarter_withdrawals": 8,
+  "total_matched_trucksmarter": 8,
+  "total_bank_transactions": 649,
+  "total_missing_loads": 234,
+  "drivers": {
+    "Steve": 388,
+    "Tony": 172,
+    "Rich": 395,
+    "Little Rich": 197
+  }
+}
