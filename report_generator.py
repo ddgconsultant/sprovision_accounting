@@ -10,6 +10,10 @@ from decimal import Decimal
 from typing import Dict, List
 from pathlib import Path
 
+from openpyxl import Workbook
+from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
+from openpyxl.utils import get_column_letter
+
 from reconciliation_engine import ReconciliationReport, ReconciliationEngine
 
 
@@ -413,6 +417,224 @@ class ReportGenerator:
 
         return html
 
+    def generate_comprehensive_excel_report(self, report: ReconciliationReport) -> Workbook:
+        """
+        Generate comprehensive load tracking Excel report
+
+        One row per load with all payment information:
+        - Load Company, Load#, Load Amount/Date
+        - Driver, Driver Pay Amount/Date
+        - Factoring Agent/Payment Amount/Date
+        - Deposit Amount/Date
+        - Matched Using/Date
+        """
+        wb = Workbook()
+        ws = wb.active
+        ws.title = "Load Tracking"
+
+        # Define headers
+        headers = [
+            'Load Date',
+            'Company',
+            'Load Number',
+            'Pickup',
+            'Dropoff',
+            'Driver',
+            'Load Amount',
+            'Driver Pay Amount',
+            'Driver Pay Date',
+            'Days to Driver Pay',
+            'Factoring Agent',
+            'Factoring Amount',
+            'Factoring Date',
+            'Deposit Amount',
+            'Deposit Date',
+            'Match Status',
+            'Matched Using',
+            'Notes'
+        ]
+
+        # Write headers with styling
+        header_fill = PatternFill(start_color="4472C4", end_color="4472C4", fill_type="solid")
+        header_font = Font(bold=True, color="FFFFFF", size=11)
+        thin_border = Border(
+            left=Side(style='thin'),
+            right=Side(style='thin'),
+            top=Side(style='thin'),
+            bottom=Side(style='thin')
+        )
+
+        for col_num, header in enumerate(headers, 1):
+            cell = ws.cell(row=1, column=col_num, value=header)
+            cell.fill = header_fill
+            cell.font = header_font
+            cell.alignment = Alignment(horizontal='center', vertical='center', wrap_text=True)
+            cell.border = thin_border
+
+        # Set column widths
+        column_widths = {
+            'A': 12,  # Load Date
+            'B': 20,  # Company
+            'C': 15,  # Load Number
+            'D': 12,  # Pickup
+            'E': 12,  # Dropoff
+            'F': 15,  # Driver
+            'G': 13,  # Load Amount
+            'H': 15,  # Driver Pay Amount
+            'I': 15,  # Driver Pay Date
+            'J': 12,  # Days to Driver Pay
+            'K': 18,  # Factoring Agent
+            'L': 15,  # Factoring Amount
+            'M': 15,  # Factoring Date
+            'N': 15,  # Deposit Amount
+            'O': 15,  # Deposit Date
+            'P': 20,  # Match Status
+            'Q': 25,  # Matched Using
+            'R': 30,  # Notes
+        }
+
+        for col, width in column_widths.items():
+            ws.column_dimensions[col].width = width
+
+        # Build comprehensive load list
+        # We'll iterate through all driver schedule entries (loads)
+        # and match them with payment data
+
+        row_num = 2
+
+        # Create lookup dictionaries for efficient matching
+        # Map load_number -> PaymentRemittance invoice
+        factoring_by_load = {}
+        for remittance in self.engine.data.payment_remittances:
+            for invoice in remittance.invoices:
+                load_num = invoice.get('vin', '')  # Using VIN as identifier
+                if load_num:
+                    factoring_by_load[load_num] = {
+                        'agent': 'Cox Automotive',
+                        'amount': invoice['amount_paid'],
+                        'date': remittance.payment_date,
+                    }
+
+        # Map load_number -> ReadyStatement
+        ready_by_load = {}
+        for statement in self.engine.data.ready_statements:
+            ready_by_load[statement.invoice_number] = statement
+
+        # Process all loads from driver schedules
+        all_loads = sorted(self.engine.data.driver_schedules, key=lambda x: x.date)
+
+        for load in all_loads:
+            # Find if this load has been matched in the reconciliation
+            match_info = None
+            match_status = "Unmatched"
+            matched_using = ""
+            notes = ""
+
+            # Find the match in the report
+            for match in report.full_matches:
+                if match.driver_entry and id(match.driver_entry) == id(load):
+                    match_info = match
+                    if match.match_type == "READY_DIRECT_PAYMENT":
+                        match_status = "Ready Direct Payment"
+                        matched_using = "Ready Statement"
+                    elif match.match_type == "FULL":
+                        match_status = "Fully Matched"
+                        matched_using = "Driver + Amount + Date"
+                    break
+
+            # Check if in missing bank transactions
+            if not match_info:
+                for missing in report.missing_bank_transactions:
+                    if id(missing) == id(load):
+                        match_status = "Unpaid"
+                        matched_using = "No bank transaction found"
+                        notes = "Driver payment pending"
+                        break
+
+            # Basic load information
+            ws.cell(row=row_num, column=1, value=load.date.strftime('%Y-%m-%d') if load.date else '')
+            ws.cell(row=row_num, column=2, value=load.company)
+            ws.cell(row=row_num, column=3, value=load.load_number)
+            ws.cell(row=row_num, column=4, value=load.pickup)
+            ws.cell(row=row_num, column=5, value=load.dropoff)
+            ws.cell(row=row_num, column=6, value=load.driver)
+            ws.cell(row=row_num, column=7, value=float(load.amount) if load.amount else '')
+
+            # Driver payment information
+            if match_info and match_info.bank_transaction:
+                ws.cell(row=row_num, column=8, value=float(match_info.bank_transaction.amount))
+                ws.cell(row=row_num, column=9, value=match_info.bank_transaction.transaction_date.strftime('%Y-%m-%d'))
+                days_diff = (match_info.bank_transaction.transaction_date - load.date).days
+                ws.cell(row=row_num, column=10, value=days_diff)
+            elif load.date_paid:
+                # For Ready loads with date_paid set
+                ws.cell(row=row_num, column=8, value='N/A - Direct Payment')
+                ws.cell(row=row_num, column=9, value=load.date_paid.strftime('%Y-%m-%d'))
+                days_diff = (load.date_paid - load.date).days
+                ws.cell(row=row_num, column=10, value=days_diff)
+            else:
+                ws.cell(row=row_num, column=8, value='')
+                ws.cell(row=row_num, column=9, value='')
+                ws.cell(row=row_num, column=10, value='')
+
+            # Factoring information (Cox or Ready)
+            if load.company.upper() == "READY" and load.load_number in ready_by_load:
+                ready_stmt = ready_by_load[load.load_number]
+                ws.cell(row=row_num, column=11, value='Ready Logistics')
+                ws.cell(row=row_num, column=12, value=float(ready_stmt.payment_amount))
+                ws.cell(row=row_num, column=13, value=ready_stmt.payment_date.strftime('%Y-%m-%d'))
+            else:
+                # Try to find in Cox factoring by VIN or load number
+                # Note: This mapping is complex and may need business logic
+                ws.cell(row=row_num, column=11, value='Cox Automotive')
+                ws.cell(row=row_num, column=12, value='')  # Would need VIN mapping
+                ws.cell(row=row_num, column=13, value='')
+
+            # Deposit information (from Ready statements for Ready loads)
+            if load.company.upper() == "READY" and load.load_number in ready_by_load:
+                ready_stmt = ready_by_load[load.load_number]
+                ws.cell(row=row_num, column=14, value=float(ready_stmt.payment_amount))
+                ws.cell(row=row_num, column=15, value=ready_stmt.payment_date.strftime('%Y-%m-%d'))
+            else:
+                # Deposit data for Cox loads would come from bank deposits
+                # This requires additional mapping logic
+                ws.cell(row=row_num, column=14, value='')
+                ws.cell(row=row_num, column=15, value='')
+
+            # Match status and method
+            ws.cell(row=row_num, column=16, value=match_status)
+            ws.cell(row=row_num, column=17, value=matched_using)
+            ws.cell(row=row_num, column=18, value=notes)
+
+            # Apply styling to data rows
+            for col in range(1, len(headers) + 1):
+                cell = ws.cell(row=row_num, column=col)
+                cell.border = thin_border
+                cell.alignment = Alignment(vertical='top', wrap_text=True)
+
+                # Format currency columns
+                if col in [7, 8, 12, 14]:  # Amount columns
+                    if cell.value and cell.value != '':
+                        cell.number_format = '$#,##0.00'
+
+                # Color code by match status
+                if match_status == "Fully Matched":
+                    cell.fill = PatternFill(start_color="D4EDDA", end_color="D4EDDA", fill_type="solid")
+                elif match_status == "Ready Direct Payment":
+                    cell.fill = PatternFill(start_color="CCE5FF", end_color="CCE5FF", fill_type="solid")
+                elif match_status == "Unpaid":
+                    cell.fill = PatternFill(start_color="F8D7DA", end_color="F8D7DA", fill_type="solid")
+
+            row_num += 1
+
+        # Freeze header row
+        ws.freeze_panes = 'A2'
+
+        # Add auto-filter
+        ws.auto_filter.ref = ws.dimensions
+
+        return wb
+
     def save_reports(self, report: ReconciliationReport, output_dir: str = "reports"):
         """Save all report formats to files"""
         output_path = Path(output_dir)
@@ -445,10 +667,16 @@ class ReportGenerator:
         with open(html_file, 'w') as f:
             f.write(self.generate_html_report(report))
 
+        # Save Comprehensive Excel Load Tracking Report
+        excel_file = output_path / f"load_tracking_{timestamp}.xlsx"
+        wb = self.generate_comprehensive_excel_report(report)
+        wb.save(str(excel_file))
+
         return {
             'summary': str(summary_file),
             'detailed': str(detailed_file),
             'json': str(json_file),
             'csv': str(csv_file),
             'html': str(html_file),
+            'excel': str(excel_file),
         }
