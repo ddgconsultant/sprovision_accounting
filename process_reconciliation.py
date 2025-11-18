@@ -170,6 +170,7 @@ def main():
     print(f"  JSON Report: {output_files['json']}")
     print(f"  CSV Report: {output_files['csv']}")
     print(f"  HTML Report: {output_files['html']}")
+    print(f"  Excel Load Tracking: {output_files['excel']}")
 
     print()
     print("=" * 80)
