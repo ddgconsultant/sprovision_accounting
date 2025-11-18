@@ -1,0 +1,1942 @@
+
+================================================================================
+CORRECT LOAD PAYMENT MATCHING SYSTEM
+================================================================================
+
+================================================================================
+STEP 1: PARSING DRIVER SCHEDULES
+================================================================================
+Found 23 schedule files
+
+Processing: Little Rich - '25 Schedule - April-July.csv
+  Driver: Little Rich, Month: April
+  Extracted 32 loads with Load #s
+
+Processing: Little Rich - '25 Schedule - August.csv
+  Driver: Little Rich, Month: August
+  Extracted 73 loads with Load #s
+
+Processing: Little Rich - '25 Schedule - July.csv
+  Driver: Little Rich, Month: July
+  Extracted 41 loads with Load #s
+
+Processing: Little Rich - '25 Schedule - March.csv
+  Driver: Little Rich, Month: March
+  Extracted 61 loads with Load #s
+
+Processing: Little Rich - '25 Schedule - October.csv
+  Driver: Little Rich, Month: October
+  Extracted 86 loads with Load #s
+
+Processing: Little Rich - '25 Schedule - September.csv
+  Driver: Little Rich, Month: September
+  Extracted 82 loads with Load #s
+
+Processing: Rich - '25 Schedule - April.csv
+  Driver: Rich, Month: April
+  Extracted 108 loads with Load #s
+
+Processing: Rich - '25 Schedule - August.csv
+  Driver: Rich, Month: August
+  Extracted 92 loads with Load #s
+
+Processing: Rich - '25 Schedule - July.csv
+  Driver: Rich, Month: July
+  Extracted 84 loads with Load #s
+
+Processing: Rich - '25 Schedule - June.csv
+  Driver: Rich, Month: June
+  Extracted 21 loads with Load #s
+
+Processing: Rich - '25 Schedule - May.csv
+  Driver: Rich, Month: May
+  Extracted 90 loads with Load #s
+
+Processing: Rich - '25 Schedule - October.csv
+  Driver: Rich, Month: October
+  Extracted 27 loads with Load #s
+
+Processing: Rich - '25 Schedule - September.csv
+  Driver: Rich, Month: September
+  Extracted 81 loads with Load #s
+
+Processing: Steve - '25 Schedule - April.csv
+  Driver: Steve, Month: April
+  Extracted 81 loads with Load #s
+
+Processing: Steve - '25 Schedule - August.csv
+  Driver: Steve, Month: August
+  Extracted 76 loads with Load #s
+
+Processing: Steve - '25 Schedule - July.csv
+  Driver: Steve, Month: July
+  Extracted 72 loads with Load #s
+
+Processing: Steve - '25 Schedule - June.csv
+  Driver: Steve, Month: June
+  Extracted 81 loads with Load #s
+
+Processing: Steve - '25 Schedule - March.csv
+  Driver: Steve, Month: March
+  Extracted 115 loads with Load #s
+
+Processing: Steve - '25 Schedule - May.csv
+  Driver: Steve, Month: May
+  Extracted 39 loads with Load #s
+
+Processing: Tony - '25 Schedule - April.csv
+  Driver: Tony, Month: April
+  Extracted 115 loads with Load #s
+
+Processing: Tony - '25 Schedule - August.csv
+  Driver: Tony, Month: August
+  Extracted 57 loads with Load #s
+
+Processing: Tony - '25 Schedule - October.csv
+  Driver: Tony, Month: October
+  Extracted 96 loads with Load #s
+
+Processing: Tony - '25 Schedule - September.csv
+  Driver: Tony, Month: September
+  Extracted 92 loads with Load #s
+
+TOTAL LOADS FROM ALL SCHEDULES: 1702
+
+================================================================================
+STEP 2: PARSING READY STATEMENTS CSV
+================================================================================
+Found 102 Ready Statement CSV files
+
+TOTAL READY INVOICES: 395
+
+================================================================================
+STEP 2.5: PARSING TRUCKSMARTER PNG FILES WITH OCR
+================================================================================
+Found 8 TruckSmarter month directories
+
+Processing: April trucksmarter
+  Found 13 PNG files
+    Found transfer: $4,085.55 on 
+    Found transfer: $1,389.36 on 
+    Found transfer: $2,120.57 on 
+
+Processing: August trucksmarter
+  Found 19 PNG files
+    Found transfer: $877.44 on 
+    Found transfer: $1,225.79 on 
+
+Processing: July trucksmarter
+  Found 18 PNG files
+    Found transfer: $3,461.07 on 
+    Found transfer: $4,791.94 on 
+
+Processing: June trucksmarter
+  Found 13 PNG files
+    Found transfer: $2,771.78 on Jun 01
+
+Processing: March trucksmarter
+  Found 20 PNG files
+    Found transfer: $994.46 on 
+    Found transfer: $521.60 on 
+    Found transfer: $843.34 on 
+    Found transfer: $2,348.79 on 
+
+Processing: May trucksmarter
+  Found 9 PNG files
+
+Processing: Oct. trucksmarter
+  Found 16 PNG files
+    Found transfer: $950.58 on 
+    Found transfer: $1,135.83 on 
+    Found transfer: $165.75 on 
+    Found transfer: $745.87 on 
+    Found transfer: $2,298.07 on 
+    Found transfer: $292.50 on 
+
+Processing: Sept trucksmarter
+  Found 17 PNG files
+    Found transfer: $4,882.62 on 
+    Found transfer: $2,967.76 on 
+
+TOTAL TRUCKSMARTER LOADS: 28
+TOTAL S PROVISIONS LLC TRANSFERS: 20
+
+================================================================================
+STEP 3: PARSING BANK STATEMENTS
+================================================================================
+TOTAL BANK TRANSACTIONS: 649
+
+================================================================================
+STEP 4: MATCHING LOADS TO STATEMENTS
+================================================================================
+
+Little Rich: 375 loads
+--------------------------------------------------------------------------------
+  ⚠ LONGHORN - Needs TruckSmarter PNG data
+  ⚠ 20401105 - Needs TruckSmarter PNG data
+  ⚠ 20393114 - Needs TruckSmarter PNG data
+  ⚠ 20564708 - Needs TruckSmarter PNG data
+  ⚠ COPART - Needs TruckSmarter PNG data
+  ⚠ 30420617LT - Needs TruckSmarter PNG data
+  ⚠ 20709406 - Needs TruckSmarter PNG data
+  ⚠ DRV - Needs TruckSmarter PNG data
+  ⚠ 5450315 - Needs TruckSmarter PNG data
+  ⚠ 35661424 / 6263 Gooseneck Camper - Needs TruckSmarter PNG data
+  ⚠ 2019 Forest 5th Wheel - Needs TruckSmarter PNG data
+  ⚠ 21167508 - Needs TruckSmarter PNG data
+  ⚠ Jayco - Needs TruckSmarter PNG data
+  ⚠ 326062 - Needs TruckSmarter PNG data
+  ⚠ 21188724 - Needs TruckSmarter PNG data
+  ⚠ PCRV-004257 - Needs TruckSmarter PNG data
+  ⚠ PCRV-781153 - Needs TruckSmarter PNG data
+  ⚠ PCRV-106299 - Needs TruckSmarter PNG data
+  ✓ 10427292525 found in Ready Statements (Invoice Amount: $182.00)
+  ⚠ 83268903 - Needs TruckSmarter PNG data
+  ⚠ 20802049 - Needs TruckSmarter PNG data
+  ⚠ 20803608 - Needs TruckSmarter PNG data
+  ⚠ 6/23-6/27 Pay - Needs TruckSmarter PNG data
+  ⚠ Leftover from 6/27 - Needs TruckSmarter PNG data
+  ⚠ 7/1-7/4 Pay - Needs TruckSmarter PNG data
+  ⚠ Leftover from  7/14 - Needs TruckSmarter PNG data
+  ⚠ 7/7-7/11 Pay - Needs TruckSmarter PNG data
+  ⚠ Leftover from  7/11 - Needs TruckSmarter PNG data
+  ⚠ 7/14 - Needs TruckSmarter PNG data
+  ⚠ Leftover from 7/14 - Needs TruckSmarter PNG data
+  ⚠ 7/28 - Needs TruckSmarter PNG data
+  ⚠ All paid up 7/28 - Needs TruckSmarter PNG data
+  ⚠ OKWT tulsa - Needs TruckSmarter PNG data
+  ⚠ 20915198 - Needs TruckSmarter PNG data
+  ⚠ EF-69271 - Needs TruckSmarter PNG data
+  ⚠ 83755201 - Needs TruckSmarter PNG data
+  ⚠ 83755171 - Needs TruckSmarter PNG data
+  ⚠ 36141192 - Needs TruckSmarter PNG data
+  ⚠ 130908 - Needs TruckSmarter PNG data
+  ⚠ 131175 - Needs TruckSmarter PNG data
+  ⚠ 131176 - Needs TruckSmarter PNG data
+  ⚠ 20942199 - Needs TruckSmarter PNG data
+  ⚠ 83829674 - Needs TruckSmarter PNG data
+  ⚠ 20937743 - Needs TruckSmarter PNG data
+  ⚠ 31540-48280 - Needs TruckSmarter PNG data
+  ⚠ 31591-00508 - Needs TruckSmarter PNG data
+  ⚠ 31510-34970 - Needs TruckSmarter PNG data
+  ⚠ 20942281 - Needs TruckSmarter PNG data
+  ⚠ 20952928 - Needs TruckSmarter PNG data
+  ⚠ 83867925 - Needs TruckSmarter PNG data
+  ⚠ 31516-15445 - Needs TruckSmarter PNG data
+  ⚠ 131947 - Needs TruckSmarter PNG data
+  ⚠ 132424 - Needs TruckSmarter PNG data
+  ⚠ 83874162 - Needs TruckSmarter PNG data
+  ⚠ 31545-60501 - Needs TruckSmarter PNG data
+  ⚠ 31573-97487 - Needs TruckSmarter PNG data
+  ⚠ 31503-75968 - Needs TruckSmarter PNG data
+  ⚠ 31464-33935 - Needs TruckSmarter PNG data
+  ⚠ 31448-64178 - Needs TruckSmarter PNG data
+  ⚠ 131947 - Needs TruckSmarter PNG data
+  ⚠ 132424 - Needs TruckSmarter PNG data
+  ⚠ 31581-37954 - Needs TruckSmarter PNG data
+  ⚠ 219069 - Needs TruckSmarter PNG data
+  ⚠ F8254903 - Needs TruckSmarter PNG data
+  ⚠ 14296751 - Needs TruckSmarter PNG data
+  ⚠ 20953950 - Needs TruckSmarter PNG data
+  ⚠ 20955781 - Needs TruckSmarter PNG data
+  ⚠ 0611 - Needs TruckSmarter PNG data
+  ⚠ 83897027 - Needs TruckSmarter PNG data
+  ✓ 10448378333 found in Ready Statements (Invoice Amount: $160.00)
+  ⚠ 6638 - Needs TruckSmarter PNG data
+  ⚠ 8565 - Needs TruckSmarter PNG data
+  ⚠ 14332027 - Needs TruckSmarter PNG data
+  ⚠ JARB918 - Needs TruckSmarter PNG data
+  ⚠ 20970268 - Needs TruckSmarter PNG data
+  ⚠ 31409-55437 - Needs TruckSmarter PNG data
+  ⚠ EF-71165D - Needs TruckSmarter PNG data
+  ⚠ 31531-26262 - Needs TruckSmarter PNG data
+  ⚠ 20979887 - Needs TruckSmarter PNG data
+  ⚠ 31552-25485 - Needs TruckSmarter PNG data
+  ⚠ 31532-02093 - Needs TruckSmarter PNG data
+  ⚠ 14338399 - Needs TruckSmarter PNG data
+  ⚠ 14394067 - Needs TruckSmarter PNG data
+  ⚠ 14338383 - Needs TruckSmarter PNG data
+  ⚠ 14332179 - Needs TruckSmarter PNG data
+  ⚠ 31584-21850 - Needs TruckSmarter PNG data
+  ⚠ 20980556 - Needs TruckSmarter PNG data
+  ⚠ 31505-44178 - Needs TruckSmarter PNG data
+  ⚠ EF-71514 - Needs TruckSmarter PNG data
+  ⚠ 31511-07657 - Needs TruckSmarter PNG data
+  ⚠ 31516-60990 - Needs TruckSmarter PNG data
+  ⚠ 31582-22724 - Needs TruckSmarter PNG data
+  ⚠ 31519-81770 - Needs TruckSmarter PNG data
+  ⚠ 31591-86213 - Needs TruckSmarter PNG data
+  ⚠ 21016834 - Needs TruckSmarter PNG data
+  ⚠ 21015920 - Needs TruckSmarter PNG data
+  ⚠ EF-72127 - Needs TruckSmarter PNG data
+  ⚠ 31547-86879 - Needs TruckSmarter PNG data
+  ⚠ 31536-89073 - Needs TruckSmarter PNG data
+  ⚠ 31510-97060 - Needs TruckSmarter PNG data
+  ⚠ 31576-04591 - Needs TruckSmarter PNG data
+  ⚠ 31531-13602 - Needs TruckSmarter PNG data
+  ⚠ 31577-69431 - Needs TruckSmarter PNG data
+  ⚠ 31522-65410 - Needs TruckSmarter PNG data
+  ⚠ 077465S - Needs TruckSmarter PNG data
+  ⚠ 83411118 - Needs TruckSmarter PNG data
+  ⚠ 83411117 - Needs TruckSmarter PNG data
+  ⚠ SGLB-3590-NBA27494 - Needs TruckSmarter PNG data
+  ⚠ 20803502 - Needs TruckSmarter PNG data
+  ⚠ 6783011 - Needs TruckSmarter PNG data
+  ⚠ 126613 - Needs TruckSmarter PNG data
+  ⚠ 83339322 - Needs TruckSmarter PNG data
+  ⚠ 83498353 - Needs TruckSmarter PNG data
+  ⚠ 83504709 - Needs TruckSmarter PNG data
+  ✓ 10432640195 found in Ready Statements (Invoice Amount: $85.00)
+  ⚠ EF-67522 - Needs TruckSmarter PNG data
+  ⚠ 127923 - Needs TruckSmarter PNG data
+  ⚠ EF-67522D - Needs TruckSmarter PNG data
+  ⚠ 20864382 - Needs TruckSmarter PNG data
+  ⚠ 128247 - Needs TruckSmarter PNG data
+  ⚠ 403954 - Needs TruckSmarter PNG data
+  ⚠ 83555398 - Needs TruckSmarter PNG data
+  ⚠ 128646 - Needs TruckSmarter PNG data
+  ⚠ 83594329 - Needs TruckSmarter PNG data
+  ⚠ 83594964 - Needs TruckSmarter PNG data
+  ⚠ EF-67783D - Needs TruckSmarter PNG data
+  ⚠ 20885550 - Needs TruckSmarter PNG data
+  ⚠ 7028703 - Needs TruckSmarter PNG data
+  ⚠ 128918 - Needs TruckSmarter PNG data
+  ⚠ 83642707 - Needs TruckSmarter PNG data
+  ⚠ 83646427 - Needs TruckSmarter PNG data
+  ⚠ 83642708 - Needs TruckSmarter PNG data
+  ⚠ 83656668 - Needs TruckSmarter PNG data
+  ⚠ 21701437 - Needs TruckSmarter PNG data
+  ⚠ 31436-06018 - Needs TruckSmarter PNG data
+  ⚠ 20902003 - Needs TruckSmarter PNG data
+  ⚠ 83672587 - Needs TruckSmarter PNG data
+  ⚠ 83689069 - Needs TruckSmarter PNG data
+  ⚠ 83689071 - Needs TruckSmarter PNG data
+  ⚠ 83317733 - Needs TruckSmarter PNG data
+  ⚠ 83704513 - Needs TruckSmarter PNG data
+  ⚠ 83718835 - Needs TruckSmarter PNG data
+  ⚠ 7131403 - Needs TruckSmarter PNG data
+  ⚠ EF-69274 - Needs TruckSmarter PNG data
+  ⚠ 130438 - Needs TruckSmarter PNG data
+  ⚠ 129816 - Needs TruckSmarter PNG data
+  ⚠ ETR12151 - Needs TruckSmarter PNG data
+  ⚠ ETR12150 - Needs TruckSmarter PNG data
+  ⚠ ETR12149 - Needs TruckSmarter PNG data
+  ⚠ 20358538 - Needs TruckSmarter PNG data
+  ✗ 10366787452 NOT FOUND in Ready Statements
+  ⚠ 20387444 - Needs TruckSmarter PNG data
+  ⚠ 20358539 - Needs TruckSmarter PNG data
+  ⚠ LP106050 - Needs TruckSmarter PNG data
+  ⚠ 101335 / 6185 - Needs TruckSmarter PNG data
+  ⚠ 81565655 - Needs TruckSmarter PNG data
+  ⚠ 98427340 - Needs TruckSmarter PNG data
+  ⚠ 81579850 - Needs TruckSmarter PNG data
+  ⚠ 30939364 - Needs TruckSmarter PNG data
+  ⚠ 81156126 - Needs TruckSmarter PNG data
+  ⚠ 102915 - Needs TruckSmarter PNG data
+  ⚠ 81617623 - Needs TruckSmarter PNG data
+  ✗ 10366126559 NOT FOUND in Ready Statements
+  ⚠ EF-56625 - Needs TruckSmarter PNG data
+  ⚠ 103418 - Needs TruckSmarter PNG data
+  ⚠ ETR12313 - Needs TruckSmarter PNG data
+  ⚠ 30285 - Needs TruckSmarter PNG data
+  ⚠ 43101461 - Needs TruckSmarter PNG data
+  ⚠ LF240007B - Needs TruckSmarter PNG data
+  ⚠ 20400966 - Needs TruckSmarter PNG data
+  ⚠ 4634542 - Needs TruckSmarter PNG data
+  ⚠ 81672882 - Needs TruckSmarter PNG data
+  ⚠ 81620672 - Needs TruckSmarter PNG data
+  ⚠ 81654549 - Needs TruckSmarter PNG data
+  ⚠ 103839 - Needs TruckSmarter PNG data
+  ⚠ EF-57074 - Needs TruckSmarter PNG data
+  ⚠ 31451-02855 - Needs TruckSmarter PNG data
+  ⚠ 31488-38024 - Needs TruckSmarter PNG data
+  ✗ 10371705745 NOT FOUND in Ready Statements
+  ✗ 10371705786 NOT FOUND in Ready Statements
+  ⚠ 81672882 - Needs TruckSmarter PNG data
+  ⚠ 81654549 - Needs TruckSmarter PNG data
+  ⚠ 81620672 - Needs TruckSmarter PNG data
+  ⚠ 5385695 - Needs TruckSmarter PNG data
+  ⚠ 48109082 - Needs TruckSmarter PNG data
+  ⚠ 20418730 - Needs TruckSmarter PNG data
+  ⚠ 20415056 - Needs TruckSmarter PNG data
+  ⚠ 10371950289 - Needs TruckSmarter PNG data
+  ⚠ 5667977 - Needs TruckSmarter PNG data
+  ⚠ 30562947-XT - Needs TruckSmarter PNG data
+  ⚠ 20389496 - Needs TruckSmarter PNG data
+  ⚠ 20433982 - Needs TruckSmarter PNG data
+  ⚠ 10372490581 - Needs TruckSmarter PNG data
+  ⚠ 104641 - Needs TruckSmarter PNG data
+  ⚠ 12583881 - Needs TruckSmarter PNG data
+  ⚠ LP106402 - Needs TruckSmarter PNG data
+  ⚠ 20243518 - Needs TruckSmarter PNG data
+  ⚠ LP106496 - Needs TruckSmarter PNG data
+  ⚠ VS914479DNI - Needs TruckSmarter PNG data
+  ⚠ 20443033 - Needs TruckSmarter PNG data
+  ⚠ 20443177 - Needs TruckSmarter PNG data
+  ⚠ 20436147 - Needs TruckSmarter PNG data
+  ⚠ 20436148 - Needs TruckSmarter PNG data
+  ⚠ ENRVC-SK - Needs TruckSmarter PNG data
+  ⚠ 35453069 - Needs TruckSmarter PNG data
+  ⚠ 627908 - Needs TruckSmarter PNG data
+  ⚠ RN19213A - Needs TruckSmarter PNG data
+  ⚠ 31594-20217 - Needs TruckSmarter PNG data
+  ⚠ 31582-17506 - Needs TruckSmarter PNG data
+  ✓ 10473964273 found in Ready Statements (Invoice Amount: $130.00)
+  ⚠ 84532072 - Needs TruckSmarter PNG data
+  ⚠ 84532068 - Needs TruckSmarter PNG data
+  ⚠ 31565-16521 - Needs TruckSmarter PNG data
+  ⚠ 227378 - Needs TruckSmarter PNG data
+  ⚠ 21162660 - Needs TruckSmarter PNG data
+  ⚠ 84570434 - Needs TruckSmarter PNG data
+  ⚠ 21153023 - Needs TruckSmarter PNG data
+  ⚠ 31544-10482 - Needs TruckSmarter PNG data
+  ⚠ 14935725 - Needs TruckSmarter PNG data
+  ⚠ 14934141 - Needs TruckSmarter PNG data
+  ⚠ 31561-61121 - Needs TruckSmarter PNG data
+  ⚠ 14935327 - Needs TruckSmarter PNG data
+  ⚠ 31506-87785 - Needs TruckSmarter PNG data
+  ⚠ 31565-43419 - Needs TruckSmarter PNG data
+  ⚠ 31520-08615 - Needs TruckSmarter PNG data
+  ⚠ 31578-97643 - Needs TruckSmarter PNG data
+  ⚠ 31526-42527 - Needs TruckSmarter PNG data
+  ⚠ 143968 - Needs TruckSmarter PNG data
+  ⚠ 31577-18357 - Needs TruckSmarter PNG data
+  ⚠ 31548-64811 - Needs TruckSmarter PNG data
+  ⚠ NisTul-1710 - Needs TruckSmarter PNG data
+  ⚠ C17009 - Needs TruckSmarter PNG data
+  ⚠ B88648 - Needs TruckSmarter PNG data
+  ⚠ RP82481A - Needs TruckSmarter PNG data
+  ⚠ 31588-77706 - Needs TruckSmarter PNG data
+  ⚠ 84730985 - Needs TruckSmarter PNG data
+  ⚠ 84705345 - Needs TruckSmarter PNG data
+  ⚠ 144630 - Needs TruckSmarter PNG data
+  ⚠ 143704 - Needs TruckSmarter PNG data
+  ⚠ 144474 - Needs TruckSmarter PNG data
+  ⚠ 144341 - Needs TruckSmarter PNG data
+  ⚠ 21220058 - Needs TruckSmarter PNG data
+  ✓ 10482527870 found in Ready Statements (Invoice Amount: $101.04)
+  ✓ 10482546330 found in Ready Statements (Invoice Amount: $90.24)
+  ⚠ 808499 - Needs TruckSmarter PNG data
+  ⚠ RP82489A - Needs TruckSmarter PNG data
+  ⚠ EF13799 - Needs TruckSmarter PNG data
+  ⚠ 21232166 - Needs TruckSmarter PNG data
+  ⚠ 22563269 - Needs TruckSmarter PNG data
+  ⚠ 144839 - Needs TruckSmarter PNG data
+  ✓ 10485426990 found in Ready Statements (Invoice Amount: $112.00)
+  ⚠ 12992323 - Needs TruckSmarter PNG data
+  ⚠ 12992400 - Needs TruckSmarter PNG data
+  ⚠ 12992402 - Needs TruckSmarter PNG data
+  ⚠ 146050 - Needs TruckSmarter PNG data
+  ⚠ 146070 - Needs TruckSmarter PNG data
+  ⚠ 12992646 - Needs TruckSmarter PNG data
+  ⚠ 12992403 - Needs TruckSmarter PNG data
+  ⚠ 12992401 - Needs TruckSmarter PNG data
+  ⚠ 15135055 - Needs TruckSmarter PNG data
+  ⚠ 15135019 - Needs TruckSmarter PNG data
+  ⚠ 15135053 - Needs TruckSmarter PNG data
+  ⚠ 12992645 - Needs TruckSmarter PNG data
+  ⚠ 3034296 - Needs TruckSmarter PNG data
+  ⚠ 3041359 - Needs TruckSmarter PNG data
+  ⚠ 3001026 - Needs TruckSmarter PNG data
+  ⚠ 31463-80467 - Needs TruckSmarter PNG data
+  ⚠ 21243372 - Needs TruckSmarter PNG data
+  ⚠ 31554-89593 - Needs TruckSmarter PNG data
+  ⚠ 31577-67546 - Needs TruckSmarter PNG data
+  ⚠ 31588-30586 - Needs TruckSmarter PNG data
+  ⚠ 31529-71101 - Needs TruckSmarter PNG data
+  ⚠ 31550-37448 - Needs TruckSmarter PNG data
+  ⚠ 15140717 - Needs TruckSmarter PNG data
+  ⚠ 15134983 - Needs TruckSmarter PNG data
+  ⚠ 3055653 - Needs TruckSmarter PNG data
+  ✓ 10487023519 found in Ready Statements (Invoice Amount: $90.00)
+  ✓ 10487024592 found in Ready Statements (Invoice Amount: $90.00)
+  ⚠ 15157111 - Needs TruckSmarter PNG data
+  ⚠ 15157187 - Needs TruckSmarter PNG data
+  ⚠ EF-78816 - Needs TruckSmarter PNG data
+  ⚠ 21272874 - Needs TruckSmarter PNG data
+  ⚠ EF-78816D - Needs TruckSmarter PNG data
+  ⚠ RP89710A - Needs TruckSmarter PNG data
+  ⚠ RP89708A - Needs TruckSmarter PNG data
+  ⚠ RP89707A - Needs TruckSmarter PNG data
+  ⚠ EF-79069 - Needs TruckSmarter PNG data
+  ⚠ RP90334A - Needs TruckSmarter PNG data
+  ⚠ RP89709A - Needs TruckSmarter PNG data
+  ⚠ 31472-97923 - Needs TruckSmarter PNG data
+  ⚠ TS-202510-0128726-G - Needs TruckSmarter PNG data
+  ⚠ 31527-61249 - Needs TruckSmarter PNG data
+  ⚠ 3058023 - Needs TruckSmarter PNG data
+  ⚠ F00107R - Needs TruckSmarter PNG data
+  ⚠ OKTUL - Needs TruckSmarter PNG data
+  ⚠ 31502-63995 - Needs TruckSmarter PNG data
+  ⚠ YULOKKAL - Needs TruckSmarter PNG data
+  ⚠ 784075 - Needs TruckSmarter PNG data
+  ⚠ 84134172 - Needs TruckSmarter PNG data
+  ⚠ 84147747 - Needs TruckSmarter PNG data
+  ⚠ 84174830 - Needs TruckSmarter PNG data
+  ⚠ 84174832 - Needs TruckSmarter PNG data
+  ⚠ 31524-17135 - Needs TruckSmarter PNG data
+  ⚠ 31567-91578 - Needs TruckSmarter PNG data
+  ⚠ 31599-58243 - Needs TruckSmarter PNG data
+  ⚠ 31560-53386 - Needs TruckSmarter PNG data
+  ⚠ 21040964 - Needs TruckSmarter PNG data
+  ⚠ 30527503-XL - Needs TruckSmarter PNG data
+  ⚠ 84209453 - Needs TruckSmarter PNG data
+  ⚠ 2976542 - Needs TruckSmarter PNG data
+  ⚠ 31530-78113 - Needs TruckSmarter PNG data
+  ⚠ 31526-74624 - Needs TruckSmarter PNG data
+  ⚠ 31521-98241 - Needs TruckSmarter PNG data
+  ⚠ 84200734 - Needs TruckSmarter PNG data
+  ⚠ 84202446 - Needs TruckSmarter PNG data
+  ⚠ PJ82164 - Needs TruckSmarter PNG data
+  ⚠ 21061996 - Needs TruckSmarter PNG data
+  ⚠ 10461287697 - Needs TruckSmarter PNG data
+  ⚠ 21064087 - Needs TruckSmarter PNG data
+  ⚠ 138219 - Needs TruckSmarter PNG data
+  ⚠ 31577-29178 - Needs TruckSmarter PNG data
+  ⚠ 31540-10524 - Needs TruckSmarter PNG data
+  ⚠ 31559-83823 - Needs TruckSmarter PNG data
+  ⚠ 21076074 - Needs TruckSmarter PNG data
+  ⚠ 21080452 - Needs TruckSmarter PNG data
+  ⚠ 21075323 - Needs TruckSmarter PNG data
+  ⚠ 139011 - Needs TruckSmarter PNG data
+  ✓ 10464036709 found in Ready Statements (Invoice Amount: $150.00)
+  ⚠ 7931684 - Needs TruckSmarter PNG data
+  ⚠ NisTul-6924 - Needs TruckSmarter PNG data
+  ⚠ 21096421 - Needs TruckSmarter PNG data
+  ⚠ 31548-23318 - Needs TruckSmarter PNG data
+  ⚠ 31571-56975 - Needs TruckSmarter PNG data
+  ⚠ 31560-10255 - Needs TruckSmarter PNG data
+  ⚠ 31547-79049 - Needs TruckSmarter PNG data
+  ⚠ 31584-82010 - Needs TruckSmarter PNG data
+  ⚠ 31563-46249 - Needs TruckSmarter PNG data
+  ⚠ RP65635A - Needs TruckSmarter PNG data
+  ⚠ RP62482A - Needs TruckSmarter PNG data
+  ⚠ 31513-06016 - Needs TruckSmarter PNG data
+  ⚠ 31579-69492 - Needs TruckSmarter PNG data
+  ⚠ 31544-93458 - Needs TruckSmarter PNG data
+  ⚠ 31579-69492 - Needs TruckSmarter PNG data
+  ⚠ 21105535 - Needs TruckSmarter PNG data
+  ⚠ 31542-28842 - Needs TruckSmarter PNG data
+  ⚠ 31552-55387 - Needs TruckSmarter PNG data
+  ⚠ 31588-40716 - Needs TruckSmarter PNG data
+  ⚠ 31570-89321 - Needs TruckSmarter PNG data
+  ⚠ 31533-94943 - Needs TruckSmarter PNG data
+  ⚠ 21117961 - Needs TruckSmarter PNG data
+  ✓ 10468951178 found in Ready Statements (Invoice Amount: $140.00)
+  ⚠ 74107 - Needs TruckSmarter PNG data
+  ⚠ EF-75093 - Needs TruckSmarter PNG data
+  ⚠ 84466920 - Needs TruckSmarter PNG data
+  ⚠ 140721 - Needs TruckSmarter PNG data
+  ⚠ 84466921 - Needs TruckSmarter PNG data
+  ⚠ 31563-78722 - Needs TruckSmarter PNG data
+  ⚠ 31508-90343 - Needs TruckSmarter PNG data
+  ⚠ 31545-73115 - Needs TruckSmarter PNG data
+  ⚠ 31573-02155 - Needs TruckSmarter PNG data
+  ⚠ 31550-27109 - Needs TruckSmarter PNG data
+  ⚠ 31556-30754 - Needs TruckSmarter PNG data
+  ⚠ 31512-36330 - Needs TruckSmarter PNG data
+  ⚠ 31557-07573 - Needs TruckSmarter PNG data
+  ⚠ 31562-50455 - Needs TruckSmarter PNG data
+  ⚠ 140979 - Needs TruckSmarter PNG data
+  ⚠ 31544-45086 - Needs TruckSmarter PNG data
+  ⚠ 31528-90999 - Needs TruckSmarter PNG data
+  ⚠ 31555-85667 - Needs TruckSmarter PNG data
+  ⚠ 31504-72055 - Needs TruckSmarter PNG data
+  ⚠ 31567-82066 - Needs TruckSmarter PNG data
+  ⚠ 31594-28224 - Needs TruckSmarter PNG data
+  ⚠ 31506-07203 - Needs TruckSmarter PNG data
+  ⚠ 784989 - Needs TruckSmarter PNG data
+  ⚠ 2994487 - Needs TruckSmarter PNG data
+
+Rich: 503 loads
+--------------------------------------------------------------------------------
+  ⚠ 12603059 - Needs TruckSmarter PNG data
+  ⚠ 12712675 - Needs TruckSmarter PNG data
+  ⚠ 12712671 - Needs TruckSmarter PNG data
+  ⚠ 12712667 - Needs TruckSmarter PNG data
+  ⚠ 12712663 - Needs TruckSmarter PNG data
+  ⚠ RN30625A - Needs TruckSmarter PNG data
+  ⚠ RN30628A - Needs TruckSmarter PNG data
+  ⚠ RN30626A - Needs TruckSmarter PNG data
+  ✓ 10380667408 found in Ready Statements (Invoice Amount: $130.00)
+  ✓ 10382744250 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10381548267 found in Ready Statements (Invoice Amount: $71.23)
+  ⚠ 12734881 - Needs TruckSmarter PNG data
+  ✓ 10383076696 found in Ready Statements (Invoice Amount: $93.82)
+  ⚠ 81753682 - Needs TruckSmarter PNG data
+  ⚠ 82061449 - Needs TruckSmarter PNG data
+  ⚠ RN32951A - Needs TruckSmarter PNG data
+  ✓ 10382282333 found in Ready Statements (Invoice Amount: $80.57)
+  ✗ 10383554915 NOT FOUND in Ready Statements
+  ✗ 10383947904 NOT FOUND in Ready Statements
+  ✓ 10382534905 found in Ready Statements (Invoice Amount: $74.49)
+  ✓ 10381176609 found in Ready Statements (Invoice Amount: $100.00)
+  ✓ 10381176600 found in Ready Statements (Invoice Amount: $100.00)
+  ✓ 10382744294 found in Ready Statements (Invoice Amount: $80.00)
+  ⚠ 12735079 - Needs TruckSmarter PNG data
+  ⚠ 12674293 - Needs TruckSmarter PNG data
+  ⚠ 107124 - Needs TruckSmarter PNG data
+  ✓ 10381535283 found in Ready Statements (Invoice Amount: $77.69)
+  ✓ 10381534907 found in Ready Statements (Invoice Amount: $77.69)
+  ✓ 10383616088 found in Ready Statements (Invoice Amount: $77.69)
+  ✓ 10385592493 found in Ready Statements (Invoice Amount: $77.69)
+  ✓ 10385592488 found in Ready Statements (Invoice Amount: $77.69)
+  ✓ 10385592495 found in Ready Statements (Invoice Amount: $77.69)
+  ✓ 10385592472 found in Ready Statements (Invoice Amount: $77.69)
+  ✓ 10385592492 found in Ready Statements (Invoice Amount: $77.69)
+  ⚠ 12766277 - Needs TruckSmarter PNG data
+  ⚠ 12766303 - Needs TruckSmarter PNG data
+  ⚠ 12766275 - Needs TruckSmarter PNG data
+  ✓ 10382382350 found in Ready Statements (Invoice Amount: $72.06)
+  ✓ 10382499017 found in Ready Statements (Invoice Amount: $74.49)
+  ✓ 10385712187 found in Ready Statements (Invoice Amount: $74.49)
+  ⚠ EF-59604 - Needs TruckSmarter PNG data
+  ⚠ EF-159393 - Needs TruckSmarter PNG data
+  ✓ 10385021041 found in Ready Statements (Invoice Amount: $70.64)
+  ✓ 10386144354 found in Ready Statements (Invoice Amount: $72.06)
+  ✓ 10382744060 found in Ready Statements (Invoice Amount: $75.72)
+  ✓ 10385624834 found in Ready Statements (Invoice Amount: $140.01)
+  ⚠ 12752503 - Needs TruckSmarter PNG data
+  ⚠ 12785749 - Needs TruckSmarter PNG data
+  ⚠ 12735259 - Needs TruckSmarter PNG data
+  ✓ 10382643452 found in Ready Statements (Invoice Amount: $77.69)
+  ✓ 10385669200 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10385724283 found in Ready Statements (Invoice Amount: $77.69)
+  ✓ 10387487268 found in Ready Statements (Invoice Amount: $74.49)
+  ✗ 10385747325 NOT FOUND in Ready Statements
+  ✓ 10384019704 found in Ready Statements (Invoice Amount: $100.00)
+  ✓ 10383763593 found in Ready Statements (Invoice Amount: $93.82)
+  ✓ 10385462908 found in Ready Statements (Invoice Amount: $79.60)
+  ✓ 10384765267 found in Ready Statements (Invoice Amount: $77.69)
+  ✓ 10386353381 found in Ready Statements (Invoice Amount: $77.69)
+  ⚠ 20521746 - Needs TruckSmarter PNG data
+  ✓ 10386204787 found in Ready Statements (Invoice Amount: $77.69)
+  ✓ 10384944061 found in Ready Statements (Invoice Amount: $77.69)
+  ✓ 10384943847 found in Ready Statements (Invoice Amount: $77.69)
+  ⚠ 82186684 - Needs TruckSmarter PNG data
+  ⚠ 82164204 - Needs TruckSmarter PNG data
+  ⚠ 82174858 - Needs TruckSmarter PNG data
+  ⚠ 82152081 - Needs TruckSmarter PNG data
+  ✓ 10385741630 found in Ready Statements (Invoice Amount: $74.49)
+  ✓ 10383922714 found in Ready Statements (Invoice Amount: $74.49)
+  ✓ 10383922717 found in Ready Statements (Invoice Amount: $74.49)
+  ✓ 10383922698 found in Ready Statements (Invoice Amount: $74.49)
+  ✓ 10383922716 found in Ready Statements (Invoice Amount: $74.49)
+  ✓ 10383922718 found in Ready Statements (Invoice Amount: $74.49)
+  ⚠ 12865297 - Needs TruckSmarter PNG data
+  ⚠ 12735257 - Needs TruckSmarter PNG data
+  ⚠ 12876327 - Needs TruckSmarter PNG data
+  ✓ 10386105708 found in Ready Statements (Invoice Amount: $100.00)
+  ✓ 10386104855 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10386547114 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10389807006 found in Ready Statements (Invoice Amount: $74.49)
+  ⚠ 12910849 - Needs TruckSmarter PNG data
+  ⚠ 12875961 - Needs TruckSmarter PNG data
+  ⚠ 12883649 - Needs TruckSmarter PNG data
+  ⚠ EF-60427 - Needs TruckSmarter PNG data
+  ✓ 10388703739 found in Ready Statements (Invoice Amount: $100.00)
+  ✓ 10387473577 found in Ready Statements (Invoice Amount: $125.00)
+  ⚠ 12914043 - Needs TruckSmarter PNG data
+  ⚠ 12913921 - Needs TruckSmarter PNG data
+  ✓ 10389439280 found in Ready Statements (Invoice Amount: $80.00)
+  ⚠ 12883609 - Needs TruckSmarter PNG data
+  ⚠ 12933285 - Needs TruckSmarter PNG data
+  ⚠ 12962971 - Needs TruckSmarter PNG data
+  ⚠ 111120 - Needs TruckSmarter PNG data
+  ✓ 10389515832 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10389662428 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10392805760 found in Ready Statements (Invoice Amount: $80.00)
+  ⚠ 82322847 - Needs TruckSmarter PNG data
+  ⚠ 82322806 - Needs TruckSmarter PNG data
+  ⚠ COPART-50212765 - Needs TruckSmarter PNG data
+  ⚠ 5493126 - Needs TruckSmarter PNG data
+  ✓ 10392931250 found in Ready Statements (Invoice Amount: $100.00)
+  ✓ 10392149898 found in Ready Statements (Invoice Amount: $100.00)
+  ⚠ 12962367 - Needs TruckSmarter PNG data
+  ⚠ 5439463 - Needs TruckSmarter PNG data
+  ⚠ 13046089 - Needs TruckSmarter PNG data
+  ⚠ 13058867 - Needs TruckSmarter PNG data
+  ⚠ 13046095 - Needs TruckSmarter PNG data
+  ⚠ 82393824 - Needs TruckSmarter PNG data
+  ⚠ RP31518A - Needs TruckSmarter PNG data
+  ⚠ RP32206A - Needs TruckSmarter PNG data
+  ⚠ RP32207A - Needs TruckSmarter PNG data
+  ⚠ RP31513A - Needs TruckSmarter PNG data
+  ⚠ RP33547A - Needs TruckSmarter PNG data
+  ⚠ RP33548A - Needs TruckSmarter PNG data
+  ⚠ RP33545A - Needs TruckSmarter PNG data
+  ⚠ RP33544A - Needs TruckSmarter PNG data
+  ⚠ RP32290A - Needs TruckSmarter PNG data
+  ⚠ RP34720A - Needs TruckSmarter PNG data
+  ⚠ RP32288A - Needs TruckSmarter PNG data
+  ⚠ RP34716A - Needs TruckSmarter PNG data
+  ⚠ EF-69429 - Needs TruckSmarter PNG data
+  ⚠ RP32289A - Needs TruckSmarter PNG data
+  ⚠ RP34718A - Needs TruckSmarter PNG data
+  ⚠ RP34721A - Needs TruckSmarter PNG data
+  ⚠ RP32873A - Needs TruckSmarter PNG data
+  ✓ 10443078848 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10445596675 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10443078593 found in Ready Statements (Invoice Amount: $80.00)
+  ⚠ RP32285A - Needs TruckSmarter PNG data
+  ⚠ RP32284A - Needs TruckSmarter PNG data
+  ⚠ RP32286A - Needs TruckSmarter PNG data
+  ⚠ RP34717A - Needs TruckSmarter PNG data
+  ⚠ RP36237A - Needs TruckSmarter PNG data
+  ⚠ RP36239A - Needs TruckSmarter PNG data
+  ⚠ RP36225A - Needs TruckSmarter PNG data
+  ⚠ RP36246A - Needs TruckSmarter PNG data
+  ⚠ RP40989A - Needs TruckSmarter PNG data
+  ⚠ RP40996A - Needs TruckSmarter PNG data
+  ⚠ RP42783A - Needs TruckSmarter PNG data
+  ⚠ RP40998A - Needs TruckSmarter PNG data
+  ⚠ RP42789A - Needs TruckSmarter PNG data
+  ⚠ RP42779A - Needs TruckSmarter PNG data
+  ⚠ RP40999A - Needs TruckSmarter PNG data
+  ⚠ RP40983A - Needs TruckSmarter PNG data
+  ⚠ RP42778A - Needs TruckSmarter PNG data
+  ⚠ RP42782A - Needs TruckSmarter PNG data
+  ⚠ RP42796A - Needs TruckSmarter PNG data
+  ⚠ RP40995A - Needs TruckSmarter PNG data
+  ⚠ RP42778A - Needs TruckSmarter PNG data
+  ⚠ RP42782A - Needs TruckSmarter PNG data
+  ⚠ RP42796A - Needs TruckSmarter PNG data
+  ⚠ RP40995A - Needs TruckSmarter PNG data
+  ⚠ RP42790A - Needs TruckSmarter PNG data
+  ⚠ RP42781A - Needs TruckSmarter PNG data
+  ⚠ RP42792A - Needs TruckSmarter PNG data
+  ⚠ RP42785A - Needs TruckSmarter PNG data
+  ⚠ RP42780A - Needs TruckSmarter PNG data
+  ⚠ RP42784A - Needs TruckSmarter PNG data
+  ⚠ RP42795A - Needs TruckSmarter PNG data
+  ⚠ RP42797A - Needs TruckSmarter PNG data
+  ⚠ RP42787A - Needs TruckSmarter PNG data
+  ⚠ RP42791A - Needs TruckSmarter PNG data
+  ⚠ RP42798A - Needs TruckSmarter PNG data
+  ⚠ RP42788A - Needs TruckSmarter PNG data
+  ⚠ RP42793A - Needs TruckSmarter PNG data
+  ⚠ RP42794A - Needs TruckSmarter PNG data
+  ⚠ RP43741A - Needs TruckSmarter PNG data
+  ⚠ RP45373A - Needs TruckSmarter PNG data
+  ⚠ RP45372A - Needs TruckSmarter PNG data
+  ⚠ RP45374A - Needs TruckSmarter PNG data
+  ⚠ RP45370A - Needs TruckSmarter PNG data
+  ⚠ RP45368A - Needs TruckSmarter PNG data
+  ⚠ RP45369A - Needs TruckSmarter PNG data
+  ⚠ RP45371A - Needs TruckSmarter PNG data
+  ⚠ RP45375A - Needs TruckSmarter PNG data
+  ⚠ RP45376A - Needs TruckSmarter PNG data
+  ⚠ RP45367A - Needs TruckSmarter PNG data
+  ⚠ RP47269A - Needs TruckSmarter PNG data
+  ⚠ RP47268A - Needs TruckSmarter PNG data
+  ⚠ RP47267A - Needs TruckSmarter PNG data
+  ⚠ RP46782A - Needs TruckSmarter PNG data
+  ⚠ RP46783A - Needs TruckSmarter PNG data
+  ⚠ RP46784A - Needs TruckSmarter PNG data
+  ✓ 10456532884 found in Ready Statements (Invoice Amount: $134.37)
+  ✓ 10456531730 found in Ready Statements (Invoice Amount: $134.37)
+  ⚠ RP50082A - Needs TruckSmarter PNG data
+  ⚠ RP50823A - Needs TruckSmarter PNG data
+  ⚠ RP50092A - Needs TruckSmarter PNG data
+  ⚠ RP50087A - Needs TruckSmarter PNG data
+  ⚠ RP50083A - Needs TruckSmarter PNG data
+  ⚠ RP50088A - Needs TruckSmarter PNG data
+  ⚠ RP50090A - Needs TruckSmarter PNG data
+  ⚠ RP50086A - Needs TruckSmarter PNG data
+  ⚠ RP50091A - Needs TruckSmarter PNG data
+  ⚠ RP50084A - Needs TruckSmarter PNG data
+  ⚠ RP52333A - Needs TruckSmarter PNG data
+  ⚠ RP50093A - Needs TruckSmarter PNG data
+  ⚠ RP50085A - Needs TruckSmarter PNG data
+  ⚠ RP50824A - Needs TruckSmarter PNG data
+  ⚠ RP50089A - Needs TruckSmarter PNG data
+  ⚠ 21372004 - Needs TruckSmarter PNG data
+  ⚠ RP11816A - Needs TruckSmarter PNG data
+  ⚠ RP11822A - Needs TruckSmarter PNG data
+  ⚠ RP11817A - Needs TruckSmarter PNG data
+  ⚠ RP11815A - Needs TruckSmarter PNG data
+  ⚠ RP11827A - Needs TruckSmarter PNG data
+  ⚠ RP11821A - Needs TruckSmarter PNG data
+  ⚠ RP11824A - Needs TruckSmarter PNG data
+  ⚠ RP11818A - Needs TruckSmarter PNG data
+  ⚠ RP10932A - Needs TruckSmarter PNG data
+  ⚠ RP11335A - Needs TruckSmarter PNG data
+  ⚠ RP10931A - Needs TruckSmarter PNG data
+  ⚠ RP13241A - Needs TruckSmarter PNG data
+  ⚠ RP13239A - Needs TruckSmarter PNG data
+  ⚠ RP10930A - Needs TruckSmarter PNG data
+  ⚠ RP13240A - Needs TruckSmarter PNG data
+  ⚠ RP13242A - Needs TruckSmarter PNG data
+  ⚠ RP13237A - Needs TruckSmarter PNG data
+  ⚠ RP13238A - Needs TruckSmarter PNG data
+  ⚠ RP11750A - Needs TruckSmarter PNG data
+  ⚠ RP15888A - Needs TruckSmarter PNG data
+  ⚠ RP10924A - Needs TruckSmarter PNG data
+  ⚠ RP10925A - Needs TruckSmarter PNG data
+  ⚠ RP11812A - Needs TruckSmarter PNG data
+  ⚠ RP11810A - Needs TruckSmarter PNG data
+  ⚠ RP15890A - Needs TruckSmarter PNG data
+  ⚠ RP15885A - Needs TruckSmarter PNG data
+  ⚠ RP15889A - Needs TruckSmarter PNG data
+  ⚠ RP15905A - Needs TruckSmarter PNG data
+  ⚠ RP15902A - Needs TruckSmarter PNG data
+  ⚠ RP15884A - Needs TruckSmarter PNG data
+  ⚠ RP16351A - Needs TruckSmarter PNG data
+  ⚠ RP15883A - Needs TruckSmarter PNG data
+  ⚠ RP15893A - Needs TruckSmarter PNG data
+  ⚠ RP15891A - Needs TruckSmarter PNG data
+  ⚠ RP15897A - Needs TruckSmarter PNG data
+  ⚠ RP15886A - Needs TruckSmarter PNG data
+  ⚠ RP15894A - Needs TruckSmarter PNG data
+  ⚠ RP15904A - Needs TruckSmarter PNG data
+  ⚠ RP15900A - Needs TruckSmarter PNG data
+  ⚠ RP15892A - Needs TruckSmarter PNG data
+  ⚠ 13935829 - Needs TruckSmarter PNG data
+  ⚠ 13935831 - Needs TruckSmarter PNG data
+  ⚠ 13935843 - Needs TruckSmarter PNG data
+  ⚠ 13935839 - Needs TruckSmarter PNG data
+  ⚠ 13935837 - Needs TruckSmarter PNG data
+  ⚠ 13935835 - Needs TruckSmarter PNG data
+  ⚠ 13935833 - Needs TruckSmarter PNG data
+  ⚠ 13935827 - Needs TruckSmarter PNG data
+  ⚠ 13935823 - Needs TruckSmarter PNG data
+  ⚠ RP26505A - Needs TruckSmarter PNG data
+  ⚠ RP26495A - Needs TruckSmarter PNG data
+  ⚠ RP26509A - Needs TruckSmarter PNG data
+  ⚠ RP26502A - Needs TruckSmarter PNG data
+  ⚠ RP26510A - Needs TruckSmarter PNG data
+  ⚠ RP26512A - Needs TruckSmarter PNG data
+  ⚠ RP26499A - Needs TruckSmarter PNG data
+  ⚠ RP26497A - Needs TruckSmarter PNG data
+  ⚠ 31488-66944 - Needs TruckSmarter PNG data
+  ⚠ "31456-05168 - Needs TruckSmarter PNG data
+  ⚠ RP31900A - Needs TruckSmarter PNG data
+  ⚠ RP31515A - Needs TruckSmarter PNG data
+  ✓ RP31517A found in TruckSmarter
+  ✓ RP31496A found in TruckSmarter
+  ⚠ RP31505A - Needs TruckSmarter PNG data
+  ⚠ RP31508A - Needs TruckSmarter PNG data
+  ⚠ RP31506A - Needs TruckSmarter PNG data
+  ⚠ RP31512A - Needs TruckSmarter PNG data
+  ⚠ RP31498A - Needs TruckSmarter PNG data
+  ⚠ RP31509A - Needs TruckSmarter PNG data
+  ⚠ RP31501A - Needs TruckSmarter PNG data
+  ⚠ RP31507A - Needs TruckSmarter PNG data
+  ⚠ RP31510A - Needs TruckSmarter PNG data
+  ⚠ RP31494A - Needs TruckSmarter PNG data
+  ⚠ RP31499A - Needs TruckSmarter PNG data
+  ⚠ RP31493A - Needs TruckSmarter PNG data
+  ⚠ RP31518A - Needs TruckSmarter PNG data
+  ⚠ RP32206A - Needs TruckSmarter PNG data
+  ⚠ RP32207A - Needs TruckSmarter PNG data
+  ⚠ RP31513A - Needs TruckSmarter PNG data
+  ⚠ RP33547A - Needs TruckSmarter PNG data
+  ⚠ RP33548A - Needs TruckSmarter PNG data
+  ⚠ RP33545A - Needs TruckSmarter PNG data
+  ⚠ RP33544A - Needs TruckSmarter PNG data
+  ⚠ BISH-049116 - Needs TruckSmarter PNG data
+  ⚠ 20901915 - Needs TruckSmarter PNG data
+  ⚠ CC-5982 - Needs TruckSmarter PNG data
+  ⚠ 13643287 - Needs TruckSmarter PNG data
+  ⚠ 13643289 - Needs TruckSmarter PNG data
+  ⚠ 13643291 - Needs TruckSmarter PNG data
+  ⚠ 13643297 - Needs TruckSmarter PNG data
+  ⚠ 13643299 - Needs TruckSmarter PNG data
+  ⚠ 13643301 - Needs TruckSmarter PNG data
+  ⚠ 13643303 - Needs TruckSmarter PNG data
+  ⚠ 13643305 - Needs TruckSmarter PNG data
+  ⚠ 13643319 - Needs TruckSmarter PNG data
+  ⚠ 13643321 - Needs TruckSmarter PNG data
+  ⚠ 13643325 - Needs TruckSmarter PNG data
+  ⚠ 13643327 - Needs TruckSmarter PNG data
+  ⚠ 13643329 - Needs TruckSmarter PNG data
+  ⚠ 13650553 - Needs TruckSmarter PNG data
+  ⚠ 13655701 - Needs TruckSmarter PNG data
+  ⚠ 13655703 - Needs TruckSmarter PNG data
+  ⚠ 13655705 - Needs TruckSmarter PNG data
+  ⚠ 13643323 - Needs TruckSmarter PNG data
+  ⚠ RN53049A - Needs TruckSmarter PNG data
+  ⚠ RN53050A - Needs TruckSmarter PNG data
+  ⚠ RN53745A - Needs TruckSmarter PNG data
+  ⚠ 13058863 - Needs TruckSmarter PNG data
+  ✓ 10393628671 found in Ready Statements (Invoice Amount: $85.64)
+  ⚠ 10446 - Needs TruckSmarter PNG data
+  ✓ 10394325196 found in Ready Statements (Invoice Amount: $100.00)
+  ✓ 10396451358 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10397717393 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10396935897 found in Ready Statements (Invoice Amount: $80.00)
+  ⚠ 82456865 - Needs TruckSmarter PNG data
+  ⚠ 82449805 - Needs TruckSmarter PNG data
+  ⚠ 82457414 - Needs TruckSmarter PNG data
+  ⚠ 82449793 - Needs TruckSmarter PNG data
+  ⚠ 82449798 - Needs TruckSmarter PNG data
+  ✓ 10395699876 found in Ready Statements (Invoice Amount: $100.00)
+  ✓ 10396646199 found in Ready Statements (Invoice Amount: $100.00)
+  ✓ 10398399986 found in Ready Statements (Invoice Amount: $100.00)
+  ✓ 10393078094 found in Ready Statements (Invoice Amount: $100.00)
+  ✓ 10395636397 found in Ready Statements (Invoice Amount: $100.00)
+  ✓ 10396041641 found in Ready Statements (Invoice Amount: $75.98)
+  ⚠ RN56431A - Needs TruckSmarter PNG data
+  ⚠ RN56432A - Needs TruckSmarter PNG data
+  ⚠ RN56433A - Needs TruckSmarter PNG data
+  ⚠ 10446D - Needs TruckSmarter PNG data
+  ⚠ RN58275A - Needs TruckSmarter PNG data
+  ⚠ RN58276A - Needs TruckSmarter PNG data
+  ⚠ BA-531803 - Needs TruckSmarter PNG data
+  ✓ 10396451486 found in Ready Statements (Invoice Amount: $100.00)
+  ✓ 10397101445 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10397107028 found in Ready Statements (Invoice Amount: $78.93)
+  ⚠ 13119865 - Needs TruckSmarter PNG data
+  ⚠ 13119863 - Needs TruckSmarter PNG data
+  ⚠ 13119861 - Needs TruckSmarter PNG data
+  ⚠ 13119855 - Needs TruckSmarter PNG data
+  ⚠ EF-61906 - Needs TruckSmarter PNG data
+  ⚠ 5669652 - Needs TruckSmarter PNG data
+  ⚠ 13169019 - Needs TruckSmarter PNG data
+  ⚠ 13117039 - Needs TruckSmarter PNG data
+  ⚠ RN59138A - Needs TruckSmarter PNG data
+  ⚠ RN59136A - Needs TruckSmarter PNG data
+  ⚠ RN59137A - Needs TruckSmarter PNG data
+  ⚠ RN59134A - Needs TruckSmarter PNG data
+  ⚠ RN59135A - Needs TruckSmarter PNG data
+  ⚠ RN57875A - Needs TruckSmarter PNG data
+  ✓ 10401985970 found in Ready Statements (Invoice Amount: $100.00)
+  ✓ 10401084344 found in Ready Statements (Invoice Amount: $125.00)
+  ✓ 10398959863 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10397787050 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10397152453 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10397735215 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10401137374 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10399440537 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10399816626 found in Ready Statements (Invoice Amount: $80.00)
+  ⚠ 114001 - Needs TruckSmarter PNG data
+  ⚠ RN60463A - Needs TruckSmarter PNG data
+  ⚠ RN60409A - Needs TruckSmarter PNG data
+  ✓ 10399665740 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10401985352 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10392916292 found in Ready Statements (Invoice Amount: $150.00)
+  ✓ 10393668337 found in Ready Statements (Invoice Amount: $150.00)
+  ✓ 10398493352 found in Ready Statements (Invoice Amount: $150.00)
+  ✓ 10398747764 found in Ready Statements (Invoice Amount: $100.00)
+  ✓ 10402169876 found in Ready Statements (Invoice Amount: $100.00)
+  ⚠ 13221165 - Needs TruckSmarter PNG data
+  ⚠ 13199415 - Needs TruckSmarter PNG data
+  ⚠ 13145151 - Needs TruckSmarter PNG data
+  ⚠ 13117045 - Needs TruckSmarter PNG data
+  ⚠ 13119793 - Needs TruckSmarter PNG data
+  ✓ 10398493329 found in Ready Statements (Invoice Amount: $150.00)
+  ✓ 10398493353 found in Ready Statements (Invoice Amount: $150.00)
+  ⚠ 10706 - Needs TruckSmarter PNG data
+  ⚠ 150159 - Needs TruckSmarter PNG data
+  ⚠ 5823402 - Needs TruckSmarter PNG data
+  ⚠ RN63383A - Needs TruckSmarter PNG data
+  ⚠ RN63381A - Needs TruckSmarter PNG data
+  ⚠ RN63379A - Needs TruckSmarter PNG data
+  ⚠ RN63377A - Needs TruckSmarter PNG data
+  ⚠ RN63382A - Needs TruckSmarter PNG data
+  ⚠ RN63380A - Needs TruckSmarter PNG data
+  ⚠ RN64177A - Needs TruckSmarter PNG data
+  ⚠ RN63384A - Needs TruckSmarter PNG data
+  ⚠ RN63378A - Needs TruckSmarter PNG data
+  ⚠ 1465044 - Needs TruckSmarter PNG data
+  ⚠ 1465040 - Needs TruckSmarter PNG data
+  ⚠ 13119859 - Needs TruckSmarter PNG data
+  ⚠ 20850676 - Needs TruckSmarter PNG data
+  ⚠ 20998335 - Needs TruckSmarter PNG data
+  ⚠ 5442201 - Needs TruckSmarter PNG data
+  ⚠ HBRC - Needs TruckSmarter PNG data
+  ⚠ 21154557 - Needs TruckSmarter PNG data
+  ⚠ 21150036 - Needs TruckSmarter PNG data
+  ⚠ 666188 - Needs TruckSmarter PNG data
+  ⚠ 666189 - Needs TruckSmarter PNG data
+  ⚠ 666191 - Needs TruckSmarter PNG data
+  ⚠ 666190 - Needs TruckSmarter PNG data
+  ⚠ 666187 - Needs TruckSmarter PNG data
+  ⚠ X834752 - Needs TruckSmarter PNG data
+  ⚠ X834752 - Needs TruckSmarter PNG data
+  ⚠ RP75395A - Needs TruckSmarter PNG data
+  ⚠ RP75595A - Needs TruckSmarter PNG data
+  ⚠ RP75391A - Needs TruckSmarter PNG data
+  ⚠ RP75393A - Needs TruckSmarter PNG data
+  ⚠ RP75394A - Needs TruckSmarter PNG data
+  ⚠ RP75392A - Needs TruckSmarter PNG data
+  ✓ 10478782861 found in Ready Statements (Invoice Amount: $120.00)
+  ✓ 10478781966 found in Ready Statements (Invoice Amount: $120.00)
+  ⚠ 144095 - Needs TruckSmarter PNG data
+  ⚠ 668009 - Needs TruckSmarter PNG data
+  ⚠ RP76140A - Needs TruckSmarter PNG data
+  ⚠ RP83230A - Needs TruckSmarter PNG data
+  ⚠ RP83231A - Needs TruckSmarter PNG data
+  ⚠ RP83232A - Needs TruckSmarter PNG data
+  ⚠ RP82484A - Needs TruckSmarter PNG data
+  ⚠ RP82478A - Needs TruckSmarter PNG data
+  ⚠ RP82487A - Needs TruckSmarter PNG data
+  ⚠ RP82480A - Needs TruckSmarter PNG data
+  ⚠ RP50094A - Needs TruckSmarter PNG data
+  ⚠ RP52889A - Needs TruckSmarter PNG data
+  ⚠ RP52329A - Needs TruckSmarter PNG data
+  ⚠ RP52330A - Needs TruckSmarter PNG data
+  ✓ 10456533427 found in Ready Statements (Invoice Amount: $134.37)
+  ✓ 10456531166 found in Ready Statements (Invoice Amount: $134.37)
+  ⚠ RP52335A - Needs TruckSmarter PNG data
+  ⚠ RP52332A - Needs TruckSmarter PNG data
+  ⚠ RP52334A - Needs TruckSmarter PNG data
+  ⚠ RP52331A - Needs TruckSmarter PNG data
+  ⚠ RP53589A - Needs TruckSmarter PNG data
+  ⚠ RP54699A - Needs TruckSmarter PNG data
+  ⚠ RP54713A - Needs TruckSmarter PNG data
+  ⚠ RP54701A - Needs TruckSmarter PNG data
+  ⚠ RP54705A - Needs TruckSmarter PNG data
+  ⚠ RP54698A - Needs TruckSmarter PNG data
+  ⚠ RP54700A - Needs TruckSmarter PNG data
+  ⚠ RP54703A - Needs TruckSmarter PNG data
+  ⚠ RP54707A - Needs TruckSmarter PNG data
+  ⚠ RP54697A - Needs TruckSmarter PNG data
+  ⚠ RP54702A - Needs TruckSmarter PNG data
+  ⚠ RP54706A - Needs TruckSmarter PNG data
+  ⚠ 14519841 - Needs TruckSmarter PNG data
+  ⚠ 14519835 - Needs TruckSmarter PNG data
+  ⚠ RP54704A - Needs TruckSmarter PNG data
+  ⚠ RP54708A - Needs TruckSmarter PNG data
+  ⚠ RP55517A - Needs TruckSmarter PNG data
+  ⚠ RP54709A - Needs TruckSmarter PNG data
+  ⚠ RP54712A - Needs TruckSmarter PNG data
+  ⚠ RP54710A - Needs TruckSmarter PNG data
+  ⚠ RP54711A - Needs TruckSmarter PNG data
+  ⚠ RP54714A - Needs TruckSmarter PNG data
+  ⚠ RP57281A - Needs TruckSmarter PNG data
+  ⚠ RP57279A - Needs TruckSmarter PNG data
+  ⚠ RP57280A - Needs TruckSmarter PNG data
+  ⚠ EF-73423 - Needs TruckSmarter PNG data
+  ⚠ EF-73445 - Needs TruckSmarter PNG data
+  ⚠ RP57282A - Needs TruckSmarter PNG data
+  ⚠ RP59731A - Needs TruckSmarter PNG data
+  ⚠ RP59733A - Needs TruckSmarter PNG data
+  ⚠ RP64201A - Needs TruckSmarter PNG data
+  ⚠ RP64199A - Needs TruckSmarter PNG data
+  ⚠ RP64198A - Needs TruckSmarter PNG data
+  ⚠ RP66252A - Needs TruckSmarter PNG data
+  ⚠ RP66756A - Needs TruckSmarter PNG data
+  ⚠ RP66254A - Needs TruckSmarter PNG data
+  ⚠ RP66255A - Needs TruckSmarter PNG data
+  ⚠ RP66253A - Needs TruckSmarter PNG data
+  ⚠ RP69777A - Needs TruckSmarter PNG data
+  ⚠ RP69772A - Needs TruckSmarter PNG data
+  ⚠ RP69775A - Needs TruckSmarter PNG data
+  ⚠ RP69780A - Needs TruckSmarter PNG data
+  ⚠ RP69781A - Needs TruckSmarter PNG data
+  ⚠ RP69774A - Needs TruckSmarter PNG data
+  ⚠ RP69773A - Needs TruckSmarter PNG data
+  ⚠ RP69776A - Needs TruckSmarter PNG data
+  ⚠ RP69778A - Needs TruckSmarter PNG data
+  ⚠ RP69784A - Needs TruckSmarter PNG data
+  ⚠ RP69779A - Needs TruckSmarter PNG data
+  ⚠ RP69783A - Needs TruckSmarter PNG data
+  ⚠ RP71252A - Needs TruckSmarter PNG data
+  ⚠ RP71246A - Needs TruckSmarter PNG data
+  ⚠ RP71250A - Needs TruckSmarter PNG data
+  ⚠ RP71245A - Needs TruckSmarter PNG data
+  ⚠ 8190604 - Needs TruckSmarter PNG data
+  ⚠ RP71546A - Needs TruckSmarter PNG data
+  ⚠ RP71542A - Needs TruckSmarter PNG data
+  ⚠ RP71549A - Needs TruckSmarter PNG data
+  ⚠ RP71543A - Needs TruckSmarter PNG data
+  ⚠ RP71545A - Needs TruckSmarter PNG data
+  ⚠ RP71544A - Needs TruckSmarter PNG data
+  ⚠ RP71547A - Needs TruckSmarter PNG data
+  ⚠ RP71548A - Needs TruckSmarter PNG data
+  ✓ RP70998A found in TruckSmarter
+  ⚠ RP70994A - Needs TruckSmarter PNG data
+  ✓ RP70996A found in TruckSmarter
+  ✓ RP70993A found in TruckSmarter
+  ⚠ RP70999A - Needs TruckSmarter PNG data
+  ✓ RP70995A found in TruckSmarter
+  ✓ RP70997A found in TruckSmarter
+  ⚠ 31544-10482 - Needs TruckSmarter PNG data
+
+Steve: 464 loads
+--------------------------------------------------------------------------------
+  ✓ 10377117604 found in Ready Statements (Invoice Amount: $125.00)
+  ✓ 10376315909 found in Ready Statements (Invoice Amount: $100.00)
+  ⚠ 12626055 - Needs TruckSmarter PNG data
+  ⚠ 12620359 - Needs TruckSmarter PNG data
+  ⚠ 12706545 - Needs TruckSmarter PNG data
+  ⚠ 12602425 - Needs TruckSmarter PNG data
+  ⚠ 81970873 - Needs TruckSmarter PNG data
+  ⚠ 81885915 - Needs TruckSmarter PNG data
+  ⚠ 81997451 - Needs TruckSmarter PNG data
+  ✓ 10380343441 found in Ready Statements (Invoice Amount: $174.02)
+  ⚠ RN31481A - Needs TruckSmarter PNG data
+  ⚠ RN31482A - Needs TruckSmarter PNG data
+  ⚠ RN31483A - Needs TruckSmarter PNG data
+  ✓ 10379885792 found in Ready Statements (Invoice Amount: $100.00)
+  ✓ 10381206826 found in Ready Statements (Invoice Amount: $125.00)
+  ⚠ RN33398A - Needs TruckSmarter PNG data
+  ⚠ RN34220A - Needs TruckSmarter PNG data
+  ⚠ RN34218A - Needs TruckSmarter PNG data
+  ⚠ RN34219A - Needs TruckSmarter PNG data
+  ⚠ RN34222A - Needs TruckSmarter PNG data
+  ⚠ RN34221A - Needs TruckSmarter PNG data
+  ✓ 10380852658 found in Ready Statements (Invoice Amount: $138.44)
+  ✓ 10378023872 found in Ready Statements (Invoice Amount: $80.00)
+  ⚠ RN34217A - Needs TruckSmarter PNG data
+  ⚠ RN34223A - Needs TruckSmarter PNG data
+  ⚠ RN35338A - Needs TruckSmarter PNG data
+  ✓ 10381179484 found in Ready Statements (Invoice Amount: $100.00)
+  ✓ 10381535259 found in Ready Statements (Invoice Amount: $75.72)
+  ✓ 10382264342 found in Ready Statements (Invoice Amount: $75.72)
+  ✓ 10381955516 found in Ready Statements (Invoice Amount: $75.72)
+  ⚠ 12766301 - Needs TruckSmarter PNG data
+  ⚠ ETR13355 - Needs TruckSmarter PNG data
+  ⚠ RN37639A - Needs TruckSmarter PNG data
+  ⚠ RN37638A - Needs TruckSmarter PNG data
+  ⚠ RN37636A - Needs TruckSmarter PNG data
+  ⚠ RN37640A - Needs TruckSmarter PNG data
+  ⚠ RN37641A - Needs TruckSmarter PNG data
+  ⚠ RN37635A - Needs TruckSmarter PNG data
+  ⚠ RN37637A - Needs TruckSmarter PNG data
+  ⚠ RN39638A - Needs TruckSmarter PNG data
+  ⚠ 12752505 - Needs TruckSmarter PNG data
+  ⚠ 12735265 - Needs TruckSmarter PNG data
+  ⚠ RN40459A - Needs TruckSmarter PNG data
+  ⚠ RN40458A - Needs TruckSmarter PNG data
+  ⚠ RN40457A - Needs TruckSmarter PNG data
+  ✓ 10384697358 found in Ready Statements (Invoice Amount: $100.00)
+  ⚠ 82163358 - Needs TruckSmarter PNG data
+  ✓ 10385883553 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10388714193 found in Ready Statements (Invoice Amount: $80.00)
+  ⚠ RN43199A - Needs TruckSmarter PNG data
+  ⚠ RN43198A - Needs TruckSmarter PNG data
+  ⚠ RN43197A - Needs TruckSmarter PNG data
+  ✓ 10387520185 found in Ready Statements (Invoice Amount: $100.00)
+  ⚠ 633200 - Needs TruckSmarter PNG data
+  ✓ 10387532481 found in Ready Statements (Invoice Amount: $75.00)
+  ⚠ 12932061 - Needs TruckSmarter PNG data
+  ⚠ 12947643 - Needs TruckSmarter PNG data
+  ✗ 10390244403 NOT FOUND in Ready Statements
+  ✗ 10393488795 NOT FOUND in Ready Statements
+  ✓ 10392371272 found in Ready Statements (Invoice Amount: $137.38)
+  ⚠ 12963425 - Needs TruckSmarter PNG data
+  ⚠ RN48804A - Needs TruckSmarter PNG data
+  ⚠ RN48806A - Needs TruckSmarter PNG data
+  ⚠ RN48803A - Needs TruckSmarter PNG data
+  ⚠ RN37640A - Needs TruckSmarter PNG data
+  ⚠ 634068 - Needs TruckSmarter PNG data
+  ⚠ RN48802A - Needs TruckSmarter PNG data
+  ⚠ RN48805A - Needs TruckSmarter PNG data
+  ⚠ 82322579 - Needs TruckSmarter PNG data
+  ⚠ 82329038 - Needs TruckSmarter PNG data
+  ⚠ RN50625A - Needs TruckSmarter PNG data
+  ⚠ RN51312A - Needs TruckSmarter PNG data
+  ⚠ RN51311A - Needs TruckSmarter PNG data
+  ⚠ RN51313A - Needs TruckSmarter PNG data
+  ✓ 10395195995 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10393213729 found in Ready Statements (Invoice Amount: $80.00)
+  ⚠ 82415274 - Needs TruckSmarter PNG data
+  ⚠ 82401498 - Needs TruckSmarter PNG data
+  ⚠ 82401425 - Needs TruckSmarter PNG data
+  ⚠ 20575933 - Needs TruckSmarter PNG data
+  ⚠ 112563 - Needs TruckSmarter PNG data
+  ⚠ RP32279A - Needs TruckSmarter PNG data
+  ⚠ RP32275A - Needs TruckSmarter PNG data
+  ⚠ RP32283A - Needs TruckSmarter PNG data
+  ⚠ RP32281A - Needs TruckSmarter PNG data
+  ⚠ RP32278A - Needs TruckSmarter PNG data
+  ⚠ RP32280A - Needs TruckSmarter PNG data
+  ⚠ RP34710A - Needs TruckSmarter PNG data
+  ⚠ RP34706A - Needs TruckSmarter PNG data
+  ⚠ RP34714A - Needs TruckSmarter PNG data
+  ⚠ RP34014A - Needs TruckSmarter PNG data
+  ⚠ RP34709A - Needs TruckSmarter PNG data
+  ⚠ RP34715A - Needs TruckSmarter PNG data
+  ⚠ RP34711A - Needs TruckSmarter PNG data
+  ⚠ RP35081A - Needs TruckSmarter PNG data
+  ⚠ RP34015A - Needs TruckSmarter PNG data
+  ⚠ RP34708A - Needs TruckSmarter PNG data
+  ⚠ RP34713A - Needs TruckSmarter PNG data
+  ⚠ RP34705A - Needs TruckSmarter PNG data
+  ⚠ RP36965A - Needs TruckSmarter PNG data
+  ⚠ RP36973A - Needs TruckSmarter PNG data
+  ⚠ RP36968A - Needs TruckSmarter PNG data
+  ⚠ RP36980A - Needs TruckSmarter PNG data
+  ⚠ RP36966A - Needs TruckSmarter PNG data
+  ⚠ RP36967A - Needs TruckSmarter PNG data
+  ⚠ RP36977A - Needs TruckSmarter PNG data
+  ⚠ RP36976A - Needs TruckSmarter PNG data
+  ⚠ RP36974A - Needs TruckSmarter PNG data
+  ⚠ RP36971A - Needs TruckSmarter PNG data
+  ⚠ RP36978A - Needs TruckSmarter PNG data
+  ⚠ RP36969A - Needs TruckSmarter PNG data
+  ⚠ RP36236A - Needs TruckSmarter PNG data
+  ⚠ RP36222A - Needs TruckSmarter PNG data
+  ⚠ RP38269A - Needs TruckSmarter PNG data
+  ⚠ RP36970A - Needs TruckSmarter PNG data
+  ⚠ RP39378A - Needs TruckSmarter PNG data
+  ⚠ RP38223A - Needs TruckSmarter PNG data
+  ⚠ RP38221A - Needs TruckSmarter PNG data
+  ⚠ RP38222A - Needs TruckSmarter PNG data
+  ⚠ RP39376A - Needs TruckSmarter PNG data
+  ⚠ RP39837A - Needs TruckSmarter PNG data
+  ⚠ RP39836A - Needs TruckSmarter PNG data
+  ⚠ RP39380A - Needs TruckSmarter PNG data
+  ✓ 10448282564 found in Ready Statements (Invoice Amount: $100.00)
+  ⚠ RP41631A - Needs TruckSmarter PNG data
+  ⚠ RP41629A - Needs TruckSmarter PNG data
+  ⚠ RP41633A - Needs TruckSmarter PNG data
+  ⚠ RP41635A - Needs TruckSmarter PNG data
+  ⚠ RP41630A - Needs TruckSmarter PNG data
+  ⚠ RP41636A - Needs TruckSmarter PNG data
+  ⚠ RP41634A - Needs TruckSmarter PNG data
+  ⚠ RP41628A - Needs TruckSmarter PNG data
+  ⚠ RP41627A - Needs TruckSmarter PNG data
+  ⚠ RP41626A - Needs TruckSmarter PNG data
+  ⚠ RP41632A - Needs TruckSmarter PNG data
+  ⚠ RP42777A - Needs TruckSmarter PNG data
+  ⚠ RP42715A - Needs TruckSmarter PNG data
+  ⚠ RP43226A - Needs TruckSmarter PNG data
+  ⚠ RP43225A - Needs TruckSmarter PNG data
+  ⚠ RP42714A - Needs TruckSmarter PNG data
+  ⚠ RP43801A - Needs TruckSmarter PNG data
+  ✓ 10450848017 found in Ready Statements (Invoice Amount: $100.00)
+  ✓ 10450881211 found in Ready Statements (Invoice Amount: $100.00)
+  ⚠ RP43805A - Needs TruckSmarter PNG data
+  ⚠ RP43804A - Needs TruckSmarter PNG data
+  ⚠ RP43802A - Needs TruckSmarter PNG data
+  ⚠ RP43803A - Needs TruckSmarter PNG data
+  ⚠ RP43806A - Needs TruckSmarter PNG data
+  ✓ 10450881256 found in Ready Statements (Invoice Amount: $143.05)
+  ✓ 10451324751 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10451323070 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10449963652 found in Ready Statements (Invoice Amount: $100.00)
+  ✓ 10452661543 found in Ready Statements (Invoice Amount: $100.00)
+  ⚠ RP46125A - Needs TruckSmarter PNG data
+  ⚠ RP46126A - Needs TruckSmarter PNG data
+  ⚠ RP46124A - Needs TruckSmarter PNG data
+  ✓ 10452661518 found in Ready Statements (Invoice Amount: $125.00)
+  ⚠ RN97388A - Needs TruckSmarter PNG data
+  ⚠ RN98869A - Needs TruckSmarter PNG data
+  ⚠ RN98872A - Needs TruckSmarter PNG data
+  ⚠ RN98870A - Needs TruckSmarter PNG data
+  ⚠ RN98873A - Needs TruckSmarter PNG data
+  ⚠ RN98867A - Needs TruckSmarter PNG data
+  ✓ 10426985560 found in Ready Statements (Invoice Amount: $151.59)
+  ⚠ RN98876A - Needs TruckSmarter PNG data
+  ⚠ RN98878A - Needs TruckSmarter PNG data
+  ⚠ RN98875A - Needs TruckSmarter PNG data
+  ⚠ RN98868A - Needs TruckSmarter PNG data
+  ⚠ RN98874A - Needs TruckSmarter PNG data
+  ⚠ RP20595A - Needs TruckSmarter PNG data
+  ⚠ RP20583A - Needs TruckSmarter PNG data
+  ⚠ RP18936A - Needs TruckSmarter PNG data
+  ⚠ RP18935A - Needs TruckSmarter PNG data
+  ⚠ RP18933A - Needs TruckSmarter PNG data
+  ⚠ RP18938A - Needs TruckSmarter PNG data
+  ⚠ RN89880A - Needs TruckSmarter PNG data
+  ⚠ RN89876A - Needs TruckSmarter PNG data
+  ⚠ RP21461A - Needs TruckSmarter PNG data
+  ⚠ RP21462A - Needs TruckSmarter PNG data
+  ⚠ RP22188A - Needs TruckSmarter PNG data
+  ⚠ RP21463A - Needs TruckSmarter PNG data
+  ⚠ RP22187A - Needs TruckSmarter PNG data
+  ⚠ RP21458A - Needs TruckSmarter PNG data
+  ⚠ RP21464A - Needs TruckSmarter PNG data
+  ⚠ RP21468A - Needs TruckSmarter PNG data
+  ⚠ RP21459A - Needs TruckSmarter PNG data
+  ⚠ RP21456A - Needs TruckSmarter PNG data
+  ⚠ RP21467A - Needs TruckSmarter PNG data
+  ⚠ RP21460A - Needs TruckSmarter PNG data
+  ⚠ RP21466A - Needs TruckSmarter PNG data
+  ⚠ RP21465A - Needs TruckSmarter PNG data
+  ⚠ RP22901A - Needs TruckSmarter PNG data
+  ⚠ RP21457A - Needs TruckSmarter PNG data
+  ⚠ RP25279A - Needs TruckSmarter PNG data
+  ⚠ RP24690A - Needs TruckSmarter PNG data
+  ⚠ RP25280A - Needs TruckSmarter PNG data
+  ⚠ RP24691A - Needs TruckSmarter PNG data
+  ⚠ RP24689A - Needs TruckSmarter PNG data
+  ⚠ RP24692A - Needs TruckSmarter PNG data
+  ⚠ RP26514A - Needs TruckSmarter PNG data
+  ⚠ RP26507A - Needs TruckSmarter PNG data
+  ⚠ RP24695A - Needs TruckSmarter PNG data
+  ⚠ RP24693A - Needs TruckSmarter PNG data
+  ⚠ RP27298A - Needs TruckSmarter PNG data
+  ⚠ RP27305A - Needs TruckSmarter PNG data
+  ⚠ RP27296A - Needs TruckSmarter PNG data
+  ⚠ RP27302A - Needs TruckSmarter PNG data
+  ⚠ RP27294A - Needs TruckSmarter PNG data
+  ⚠ RP27300A - Needs TruckSmarter PNG data
+  ⚠ RP27301A - Needs TruckSmarter PNG data
+  ⚠ RP27297A - Needs TruckSmarter PNG data
+  ⚠ RP27303A - Needs TruckSmarter PNG data
+  ⚠ RP27299A - Needs TruckSmarter PNG data
+  ⚠ RP27304A - Needs TruckSmarter PNG data
+  ⚠ RP27295A - Needs TruckSmarter PNG data
+  ⚠ RP28659A - Needs TruckSmarter PNG data
+  ⚠ RP28587A - Needs TruckSmarter PNG data
+  ⚠ RP27923A - Needs TruckSmarter PNG data
+  ⚠ RP29179A - Needs TruckSmarter PNG data
+  ⚠ RP28660A - Needs TruckSmarter PNG data
+  ⚠ RP29856A - Needs TruckSmarter PNG data
+  ⚠ RP29854A - Needs TruckSmarter PNG data
+  ⚠ RP29855A - Needs TruckSmarter PNG data
+  ✓ RP29858A found in TruckSmarter
+  ✓ RP29857A found in TruckSmarter
+  ✓ RP29851A found in TruckSmarter
+  ✓ RP29850A found in TruckSmarter
+  ✓ RP29852A found in TruckSmarter
+  ⚠ RP29853A - Needs TruckSmarter PNG data
+  ⚠ RN73572A - Needs TruckSmarter PNG data
+  ⚠ RN75019A - Needs TruckSmarter PNG data
+  ✓ RN73657A found in TruckSmarter
+  ✓ RN76499A found in TruckSmarter
+  ✓ RN76075A found in TruckSmarter
+  ✓ RN76072A found in TruckSmarter
+  ⚠ RN78670A - Needs TruckSmarter PNG data
+  ⚠ RN78672A - Needs TruckSmarter PNG data
+  ⚠ RN78673A - Needs TruckSmarter PNG data
+  ⚠ RN78671A - Needs TruckSmarter PNG data
+  ✓ 10411536594 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10414882098 found in Ready Statements (Invoice Amount: $80.00)
+  ⚠ RN77745A - Needs TruckSmarter PNG data
+  ⚠ RN77748A - Needs TruckSmarter PNG data
+  ⚠ 13542483 - Needs TruckSmarter PNG data
+  ⚠ 13522731 - Needs TruckSmarter PNG data
+  ⚠ RN81105A - Needs TruckSmarter PNG data
+  ⚠ RN81106A - Needs TruckSmarter PNG data
+  ⚠ RN79877A - Needs TruckSmarter PNG data
+  ⚠ RN81104A - Needs TruckSmarter PNG data
+  ⚠ 13478199 - Needs TruckSmarter PNG data
+  ⚠ 13475293 - Needs TruckSmarter PNG data
+  ⚠ RN83932A - Needs TruckSmarter PNG data
+  ⚠ RN83933A - Needs TruckSmarter PNG data
+  ⚠ RN83921A - Needs TruckSmarter PNG data
+  ⚠ RN83928A - Needs TruckSmarter PNG data
+  ⚠ 13595209 - Needs TruckSmarter PNG data
+  ⚠ RN83924A - Needs TruckSmarter PNG data
+  ⚠ RN83922A - Needs TruckSmarter PNG data
+  ⚠ RN83927A - Needs TruckSmarter PNG data
+  ⚠ RN83923A - Needs TruckSmarter PNG data
+  ⚠ RN83934A - Needs TruckSmarter PNG data
+  ⚠ RN83930A - Needs TruckSmarter PNG data
+  ⚠ RN86170A - Needs TruckSmarter PNG data
+  ⚠ RN86169A - Needs TruckSmarter PNG data
+  ⚠ RN83931A - Needs TruckSmarter PNG data
+  ⚠ RN87558A - Needs TruckSmarter PNG data
+  ⚠ RN86925A - Needs TruckSmarter PNG data
+  ✓ 10416619381 found in Ready Statements (Invoice Amount: $100.00)
+  ⚠ RN88081A - Needs TruckSmarter PNG data
+  ⚠ RN88082A - Needs TruckSmarter PNG data
+  ⚠ RN89879A - Needs TruckSmarter PNG data
+  ⚠ RN89874A - Needs TruckSmarter PNG data
+  ⚠ RN89877A - Needs TruckSmarter PNG data
+  ⚠ RN89878A - Needs TruckSmarter PNG data
+  ⚠ RN89880A - Needs TruckSmarter PNG data
+  ⚠ RN89876A - Needs TruckSmarter PNG data
+  ⚠ RN89881A - Needs TruckSmarter PNG data
+  ⚠ RN89883A - Needs TruckSmarter PNG data
+  ⚠ RN89882A - Needs TruckSmarter PNG data
+  ⚠ RN89875A - Needs TruckSmarter PNG data
+  ✗ 10419501816 NOT FOUND in Ready Statements
+  ✗ 10419907520 NOT FOUND in Ready Statements
+  ⚠ RN89884A - Needs TruckSmarter PNG data
+  ⚠ RN89886A - Needs TruckSmarter PNG data
+  ⚠ RN92813A - Needs TruckSmarter PNG data
+  ⚠ RN89885A - Needs TruckSmarter PNG data
+  ⚠ RN92811A - Needs TruckSmarter PNG data
+  ⚠ RN92810A - Needs TruckSmarter PNG data
+  ⚠ RN92812A - Needs TruckSmarter PNG data
+  ⚠ RN92814A - Needs TruckSmarter PNG data
+  ✓ 10423025570 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10421486689 found in Ready Statements (Invoice Amount: $100.00)
+  ⚠ RN95983A - Needs TruckSmarter PNG data
+  ⚠ RN95974A - Needs TruckSmarter PNG data
+  ⚠ RN95982A - Needs TruckSmarter PNG data
+  ⚠ RN95979A - Needs TruckSmarter PNG data
+  ⚠ RN95984A - Needs TruckSmarter PNG data
+  ⚠ RN95985A - Needs TruckSmarter PNG data
+  ⚠ RN95975A - Needs TruckSmarter PNG data
+  ⚠ RN95976A - Needs TruckSmarter PNG data
+  ⚠ RN96668A - Needs TruckSmarter PNG data
+  ⚠ RN95977A - Needs TruckSmarter PNG data
+  ⚠ RN95980A - Needs TruckSmarter PNG data
+  ⚠ RN95973A - Needs TruckSmarter PNG data
+  ✓ 10423792701 found in Ready Statements (Invoice Amount: $100.00)
+  ✓ 10425452372 found in Ready Statements (Invoice Amount: $143.05)
+  ⚠ RN95978A - Needs TruckSmarter PNG data
+  ⚠ RN97387A - Needs TruckSmarter PNG data
+  ⚠ RN97386A - Needs TruckSmarter PNG data
+  ⚠ RN95981A - Needs TruckSmarter PNG data
+  ⚠ RM91970A - Needs TruckSmarter PNG data
+  ⚠ RM93204A - Needs TruckSmarter PNG data
+  ⚠ RM93815A - Needs TruckSmarter PNG data
+  ⚠ RM93206A - Needs TruckSmarter PNG data
+  ⚠ RM93202A - Needs TruckSmarter PNG data
+  ⚠ RM93205A - Needs TruckSmarter PNG data
+  ⚠ RM94379A - Needs TruckSmarter PNG data
+  ✗ 10364704445 NOT FOUND in Ready Statements
+  ⚠ RM93248A - Needs TruckSmarter PNG data
+  ⚠ RM93243A - Needs TruckSmarter PNG data
+  ⚠ RM96587A - Needs TruckSmarter PNG data
+  ⚠ RM96581A - Needs TruckSmarter PNG data
+  ⚠ RM96584A - Needs TruckSmarter PNG data
+  ⚠ RM96576A - Needs TruckSmarter PNG data
+  ⚠ RM96580A - Needs TruckSmarter PNG data
+  ⚠ RM96589A - Needs TruckSmarter PNG data
+  ⚠ RM96574A - Needs TruckSmarter PNG data
+  ⚠ RM96594A - Needs TruckSmarter PNG data
+  ⚠ RM96577A - Needs TruckSmarter PNG data
+  ⚠ RM96582A - Needs TruckSmarter PNG data
+  ⚠ RM96592A - Needs TruckSmarter PNG data
+  ⚠ RM96588A - Needs TruckSmarter PNG data
+  ⚠ RM97315A - Needs TruckSmarter PNG data
+  ⚠ RM96585A - Needs TruckSmarter PNG data
+  ⚠ RM96573A - Needs TruckSmarter PNG data
+  ⚠ RM96590A - Needs TruckSmarter PNG data
+  ⚠ RM96579A - Needs TruckSmarter PNG data
+  ⚠ RM96591A - Needs TruckSmarter PNG data
+  ⚠ RM98110A - Needs TruckSmarter PNG data
+  ⚠ RM98112A - Needs TruckSmarter PNG data
+  ⚠ RM98111A - Needs TruckSmarter PNG data
+  ⚠ RM98113A - Needs TruckSmarter PNG data
+  ⚠ RM99504A - Needs TruckSmarter PNG data
+  ⚠ RM99499A - Needs TruckSmarter PNG data
+  ⚠ RM99495A - Needs TruckSmarter PNG data
+  ⚠ RM99496A - Needs TruckSmarter PNG data
+  ⚠ RM99500A - Needs TruckSmarter PNG data
+  ⚠ RM99502A - Needs TruckSmarter PNG data
+  ⚠ RM99498A - Needs TruckSmarter PNG data
+  ⚠ RM99497A - Needs TruckSmarter PNG data
+  ⚠ RM99501A - Needs TruckSmarter PNG data
+  ⚠ RN10165A - Needs TruckSmarter PNG data
+  ⚠ RN10818A - Needs TruckSmarter PNG data
+  ⚠ RN10819A - Needs TruckSmarter PNG data
+  ⚠ RN13041A - Needs TruckSmarter PNG data
+  ⚠ RN13037A - Needs TruckSmarter PNG data
+  ⚠ RN13042A - Needs TruckSmarter PNG data
+  ⚠ RN13039A - Needs TruckSmarter PNG data
+  ✗ 10367985349 NOT FOUND in Ready Statements
+  ⚠ RN13043A - Needs TruckSmarter PNG data
+  ⚠ RN13044A - Needs TruckSmarter PNG data
+  ⚠ RN13040A - Needs TruckSmarter PNG data
+  ⚠ RN13038A - Needs TruckSmarter PNG data
+  ⚠ RM97462A - Needs TruckSmarter PNG data
+  ✗ 10369841557 NOT FOUND in Ready Statements
+  ⚠ RN15956A - Needs TruckSmarter PNG data
+  ⚠ RN15959A - Needs TruckSmarter PNG data
+  ⚠ RN15954A - Needs TruckSmarter PNG data
+  ⚠ RN15953A - Needs TruckSmarter PNG data
+  ⚠ RN15957A - Needs TruckSmarter PNG data
+  ⚠ RN15952A - Needs TruckSmarter PNG data
+  ⚠ RN15951A - Needs TruckSmarter PNG data
+  ⚠ RN15955A - Needs TruckSmarter PNG data
+  ⚠ RN15950A - Needs TruckSmarter PNG data
+  ⚠ RN15958A - Needs TruckSmarter PNG data
+  ⚠ 625919 - Needs TruckSmarter PNG data
+  ⚠ EF-57487 - Needs TruckSmarter PNG data
+  ⚠ 20438674 - Needs TruckSmarter PNG data
+  ⚠ 20436901 - Needs TruckSmarter PNG data
+  ⚠ 12553291 - Needs TruckSmarter PNG data
+  ⚠ 12567393 - Needs TruckSmarter PNG data
+  ⚠ RN18908A - Needs TruckSmarter PNG data
+  ⚠ RN19488A - Needs TruckSmarter PNG data
+  ⚠ RN19480A - Needs TruckSmarter PNG data
+  ⚠ RN19490A - Needs TruckSmarter PNG data
+  ⚠ RN19496A - Needs TruckSmarter PNG data
+  ⚠ RN19495A - Needs TruckSmarter PNG data
+  ⚠ RN19487A - Needs TruckSmarter PNG data
+  ⚠ RN19491A - Needs TruckSmarter PNG data
+  ⚠ RN19481A - Needs TruckSmarter PNG data
+  ⚠ RN19479A - Needs TruckSmarter PNG data
+  ⚠ RN19483A - Needs TruckSmarter PNG data
+  ⚠ RN19494A - Needs TruckSmarter PNG data
+  ⚠ RN19493A - Needs TruckSmarter PNG data
+  ⚠ RN19485A - Needs TruckSmarter PNG data
+  ⚠ RN19492A - Needs TruckSmarter PNG data
+  ⚠ RN19484A - Needs TruckSmarter PNG data
+  ⚠ RN19497A - Needs TruckSmarter PNG data
+  ⚠ RN19486A - Needs TruckSmarter PNG data
+  ⚠ RN22606A - Needs TruckSmarter PNG data
+  ⚠ RN22491A - Needs TruckSmarter PNG data
+  ⚠ RN22600A - Needs TruckSmarter PNG data
+  ⚠ RN23254A - Needs TruckSmarter PNG data
+  ⚠ RN22605A - Needs TruckSmarter PNG data
+  ⚠ RN22597A - Needs TruckSmarter PNG data
+  ⚠ RN22598A - Needs TruckSmarter PNG data
+  ⚠ RN22599A - Needs TruckSmarter PNG data
+  ⚠ RN23784A - Needs TruckSmarter PNG data
+  ⚠ RN22601A - Needs TruckSmarter PNG data
+  ⚠ RN22603A - Needs TruckSmarter PNG data
+  ⚠ RN22602A - Needs TruckSmarter PNG data
+  ⚠ RN25817A - Needs TruckSmarter PNG data
+  ⚠ RN26692A - Needs TruckSmarter PNG data
+  ⚠ RN25813A - Needs TruckSmarter PNG data
+  ⚠ RN25814A - Needs TruckSmarter PNG data
+  ⚠ RN25816A - Needs TruckSmarter PNG data
+  ⚠ RN25815A - Needs TruckSmarter PNG data
+  ✗ 10376102339 NOT FOUND in Ready Statements
+  ✗ 10377400762 NOT FOUND in Ready Statements
+  ⚠ 12707611 - Needs TruckSmarter PNG data
+  ✓ 10378504363 found in Ready Statements (Invoice Amount: $125.00)
+  ✓ RN27772A found in TruckSmarter
+  ⚠ RN27188A - Needs TruckSmarter PNG data
+  ✓ RN27186A found in TruckSmarter
+  ✓ 10374717056 found in Ready Statements (Invoice Amount: $155.90)
+  ✓ 10395713577 found in Ready Statements (Invoice Amount: $151.59)
+  ⚠ RN53848A - Needs TruckSmarter PNG data
+  ⚠ RN53846A - Needs TruckSmarter PNG data
+  ⚠ RN53847A - Needs TruckSmarter PNG data
+  ✓ 10403231472 found in Ready Statements (Invoice Amount: $100.00)
+  ✓ 10400872488 found in Ready Statements (Invoice Amount: $143.05)
+  ✓ 10403394724 found in Ready Statements (Invoice Amount: $145.72)
+  ✓ 10403660668 found in Ready Statements (Invoice Amount: $100.00)
+  ⚠ RN64235A - Needs TruckSmarter PNG data
+  ⚠ RN64233A - Needs TruckSmarter PNG data
+  ⚠ RN64234A - Needs TruckSmarter PNG data
+  ⚠ RN64232A - Needs TruckSmarter PNG data
+  ⚠ 12945409 - Needs TruckSmarter PNG data
+  ⚠ RN64230A - Needs TruckSmarter PNG data
+  ⚠ RN64231A - Needs TruckSmarter PNG data
+  ⚠ 31490-31391 - Needs TruckSmarter PNG data
+  ⚠ 31434-41176 - Needs TruckSmarter PNG data
+  ✓ 10404008563 found in Ready Statements (Invoice Amount: $100.00)
+  ⚠ 28P5FM - Needs TruckSmarter PNG data
+  ⚠ BRAD-DEN2-051625 - Needs TruckSmarter PNG data
+  ⚠ RN65403A - Needs TruckSmarter PNG data
+  ⚠ RN65402A - Needs TruckSmarter PNG data
+  ⚠ RN64232A - Needs TruckSmarter PNG data
+  ⚠ RN64234A - Needs TruckSmarter PNG data
+  ⚠ 051925WR - Needs TruckSmarter PNG data
+  ⚠ RN66379A - Needs TruckSmarter PNG data
+  ✓ 10406624075 found in Ready Statements (Invoice Amount: $100.00)
+  ⚠ RN69123A - Needs TruckSmarter PNG data
+  ⚠ RN69117A - Needs TruckSmarter PNG data
+  ⚠ RN69118A - Needs TruckSmarter PNG data
+  ⚠ RN69119A - Needs TruckSmarter PNG data
+  ⚠ RN71563A - Needs TruckSmarter PNG data
+  ⚠ RN71564A - Needs TruckSmarter PNG data
+  ⚠ RN71565A - Needs TruckSmarter PNG data
+  ⚠ RN71567A - Needs TruckSmarter PNG data
+  ⚠ RN71559A - Needs TruckSmarter PNG data
+  ⚠ RN71566A - Needs TruckSmarter PNG data
+  ⚠ 13335095 - Needs TruckSmarter PNG data
+  ⚠ 13335093 - Needs TruckSmarter PNG data
+
+Tony: 360 loads
+--------------------------------------------------------------------------------
+  ⚠ RN27264A - Needs TruckSmarter PNG data
+  ⚠ 705 Copart - Needs TruckSmarter PNG data
+  ⚠ 81997185 - Needs TruckSmarter PNG data
+  ⚠ 12706389 - Needs TruckSmarter PNG data
+  ✓ 10378497578 found in Ready Statements (Invoice Amount: $79.60)
+  ✓ 10378112699 found in Ready Statements (Invoice Amount: $80.00)
+  ⚠ 81996301 - Needs TruckSmarter PNG data
+  ⚠ 12688857 - Needs TruckSmarter PNG data
+  ✓ 10381595043 found in Ready Statements (Invoice Amount: $75.72)
+  ✓ 10381489370 found in Ready Statements (Invoice Amount: $75.72)
+  ⚠ 12712689 - Needs TruckSmarter PNG data
+  ⚠ 12712685 - Needs TruckSmarter PNG data
+  ⚠ 12712677 - Needs TruckSmarter PNG data
+  ✓ 10376433851 found in Ready Statements (Invoice Amount: $127.18)
+  ✓ 10381869865 found in Ready Statements (Invoice Amount: $77.69)
+  ✓ 10381828250 found in Ready Statements (Invoice Amount: $77.69)
+  ⚠ RN31090A - Needs TruckSmarter PNG data
+  ⚠ RN30627A - Needs TruckSmarter PNG data
+  ⚠ RN30624A - Needs TruckSmarter PNG data
+  ⚠ EF-59037 - Needs TruckSmarter PNG data
+  ✓ 10381568092 found in Ready Statements (Invoice Amount: $100.00)
+  ✓ 10379613334 found in Ready Statements (Invoice Amount: $75.00)
+  ⚠ 81997707 - Needs TruckSmarter PNG data
+  ⚠ 12712681 - Needs TruckSmarter PNG data
+  ⚠ 12712669 - Needs TruckSmarter PNG data
+  ⚠ 12712661 - Needs TruckSmarter PNG data
+  ⚠ RN33447A - Needs TruckSmarter PNG data
+  ⚠ RN32949A - Needs TruckSmarter PNG data
+  ⚠ RN32950A - Needs TruckSmarter PNG data
+  ✓ 10381789095 found in Ready Statements (Invoice Amount: $77.69)
+  ⚠ 415 Copart - Needs TruckSmarter PNG data
+  ✓ 10381673567 found in Ready Statements (Invoice Amount: $169.78)
+  ✓ 10384399405 found in Ready Statements (Invoice Amount: $100.00)
+  ✓ 10381232673 found in Ready Statements (Invoice Amount: $85.00)
+  ⚠ EF-59377 - Needs TruckSmarter PNG data
+  ⚠ EF-59384 - Needs TruckSmarter PNG data
+  ✓ 10381179478 found in Ready Statements (Invoice Amount: $125.00)
+  ✓ 10381179480 found in Ready Statements (Invoice Amount: $125.00)
+  ⚠ 50516 - Needs TruckSmarter PNG data
+  ✓ 10383878981 found in Ready Statements (Invoice Amount: $100.00)
+  ✓ 10382355998 found in Ready Statements (Invoice Amount: $100.00)
+  ✓ 10383025613 found in Ready Statements (Invoice Amount: $100.00)
+  ⚠ RN36440A - Needs TruckSmarter PNG data
+  ⚠ RN36442A - Needs TruckSmarter PNG data
+  ⚠ RN36441A - Needs TruckSmarter PNG data
+  ⚠ 5128629 - Needs TruckSmarter PNG data
+  ⚠ 107316 - Needs TruckSmarter PNG data
+  ⚠ 108727 - Needs TruckSmarter PNG data
+  ✓ 10383204632 found in Ready Statements (Invoice Amount: $143.48)
+  ⚠ 31532-76680 - Needs TruckSmarter PNG data
+  ✓ 10383202981 found in Ready Statements (Invoice Amount: $93.82)
+  ✓ 10383292225 found in Ready Statements (Invoice Amount: $93.82)
+  ⚠ RN36441A - Needs TruckSmarter PNG data
+  ⚠ RN36442A - Needs TruckSmarter PNG data
+  ⚠ RN36440A - Needs TruckSmarter PNG data
+  ⚠ RN36978A - Needs TruckSmarter PNG data
+  ⚠ RN39162A - Needs TruckSmarter PNG data
+  ⚠ RN39163A - Needs TruckSmarter PNG data
+  ⚠ 631129 - Needs TruckSmarter PNG data
+  ⚠ 12935347 - Needs TruckSmarter PNG data
+  ⚠ 109143 - Needs TruckSmarter PNG data
+  ⚠ EF-60084 - Needs TruckSmarter PNG data
+  ✓ 10388182853 found in Ready Statements (Invoice Amount: $70.64)
+  ✓ 10385038816 found in Ready Statements (Invoice Amount: $117.03)
+  ✓ 10384220107 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10385232076 found in Ready Statements (Invoice Amount: $100.00)
+  ✓ 10387943754 found in Ready Statements (Invoice Amount: $100.00)
+  ✓ 10387943745 found in Ready Statements (Invoice Amount: $174.02)
+  ⚠ 307508/A29392/215833 - Needs TruckSmarter PNG data
+  ✓ 10388839766 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10388839699 found in Ready Statements (Invoice Amount: $80.00)
+  ⚠ 041425CO - Needs TruckSmarter PNG data
+  ⚠ EF-60199 - Needs TruckSmarter PNG data
+  ⚠ 785463 - Needs TruckSmarter PNG data
+  ✓ 10387482498 found in Ready Statements (Invoice Amount: $159.80)
+  ✓ 10386435134 found in Ready Statements (Invoice Amount: $125.00)
+  ⚠ 5326736 - Needs TruckSmarter PNG data
+  ⚠ 81905800 - Needs TruckSmarter PNG data
+  ⚠ 82214244 - Needs TruckSmarter PNG data
+  ⚠ RN42348A - Needs TruckSmarter PNG data
+  ⚠ RN42347A - Needs TruckSmarter PNG data
+  ⚠ RN42346A - Needs TruckSmarter PNG data
+  ⚠ 110002 - Needs TruckSmarter PNG data
+  ⚠ 110004 - Needs TruckSmarter PNG data
+  ⚠ 5357944 - Needs TruckSmarter PNG data
+  ⚠ 110290 - Needs TruckSmarter PNG data
+  ⚠ 12933327 - Needs TruckSmarter PNG data
+  ⚠ 110292 - Needs TruckSmarter PNG data
+  ⚠ 12911019 - Needs TruckSmarter PNG data
+  ⚠ 12911021 - Needs TruckSmarter PNG data
+  ⚠ 12883607 - Needs TruckSmarter PNG data
+  ✓ 10391175808 found in Ready Statements (Invoice Amount: $100.00)
+  ⚠ BRIAN-DEN1-042325 - Needs TruckSmarter PNG data
+  ⚠ BRAD-DEN1-042325 - Needs TruckSmarter PNG data
+  ⚠ 12996787 - Needs TruckSmarter PNG data
+  ⚠ 12932063 - Needs TruckSmarter PNG data
+  ⚠ 82323188 - Needs TruckSmarter PNG data
+  ⚠ RN50104A - Needs TruckSmarter PNG data
+  ⚠ RN50102A - Needs TruckSmarter PNG data
+  ⚠ RN50103A - Needs TruckSmarter PNG data
+  ⚠ 10299 - Needs TruckSmarter PNG data
+  ⚠ 12880401 - Needs TruckSmarter PNG data
+  ⚠ 82323059 - Needs TruckSmarter PNG data
+  ✓ 10391613012 found in Ready Statements (Invoice Amount: $166.99)
+  ✓ 10394100079 found in Ready Statements (Invoice Amount: $125.00)
+  ⚠ 13036167 - Needs TruckSmarter PNG data
+  ⚠ 37221391 - Needs TruckSmarter PNG data
+  ✓ 10393616277 found in Ready Statements (Invoice Amount: $92.12)
+  ⚠ 13004555 - Needs TruckSmarter PNG data
+  ⚠ 792531 - Needs TruckSmarter PNG data
+  ✓ 10395699487 found in Ready Statements (Invoice Amount: $100.00)
+  ✓ 10394306426 found in Ready Statements (Invoice Amount: $100.00)
+  ✓ 10393010262 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10395098314 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10395097708 found in Ready Statements (Invoice Amount: $80.00)
+  ⚠ RP31500A - Needs TruckSmarter PNG data
+  ⚠ RP31495A - Needs TruckSmarter PNG data
+  ⚠ RP31511A - Needs TruckSmarter PNG data
+  ⚠ RP31503A - Needs TruckSmarter PNG data
+  ⚠ RP31899A - Needs TruckSmarter PNG data
+  ⚠ RP31504A - Needs TruckSmarter PNG data
+  ⚠ RP32276A - Needs TruckSmarter PNG data
+  ⚠ RP36231A - Needs TruckSmarter PNG data
+  ⚠ RP36240A - Needs TruckSmarter PNG data
+  ⚠ RP36245A - Needs TruckSmarter PNG data
+  ⚠ RP36232A - Needs TruckSmarter PNG data
+  ⚠ RP36226A - Needs TruckSmarter PNG data
+  ⚠ RP36241A - Needs TruckSmarter PNG data
+  ⚠ RP36252A - Needs TruckSmarter PNG data
+  ⚠ RP36227A - Needs TruckSmarter PNG data
+  ⚠ RP36228A - Needs TruckSmarter PNG data
+  ⚠ RP36247A - Needs TruckSmarter PNG data
+  ⚠ RP36223A - Needs TruckSmarter PNG data
+  ⚠ RP36248A - Needs TruckSmarter PNG data
+  ⚠ RP36249A - Needs TruckSmarter PNG data
+  ⚠ RP36229A - Needs TruckSmarter PNG data
+  ⚠ RP36230A - Needs TruckSmarter PNG data
+  ⚠ RP36235A - Needs TruckSmarter PNG data
+  ⚠ RP36234A - Needs TruckSmarter PNG data
+  ⚠ RP38273A - Needs TruckSmarter PNG data
+  ⚠ RP36972A - Needs TruckSmarter PNG data
+  ⚠ RP36975A - Needs TruckSmarter PNG data
+  ⚠ RP35530A - Needs TruckSmarter PNG data
+  ⚠ RP36238A - Needs TruckSmarter PNG data
+  ⚠ RP36250A - Needs TruckSmarter PNG data
+  ⚠ RP36243A - Needs TruckSmarter PNG data
+  ⚠ RP36221A - Needs TruckSmarter PNG data
+  ⚠ RP36224A - Needs TruckSmarter PNG data
+  ⚠ RP36244A - Needs TruckSmarter PNG data
+  ✓ 10446562105 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10447832305 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10445910838 found in Ready Statements (Invoice Amount: $80.00)
+  ⚠ RP38271A - Needs TruckSmarter PNG data
+  ⚠ RP38270A - Needs TruckSmarter PNG data
+  ⚠ RP38757A - Needs TruckSmarter PNG data
+  ⚠ RP38272A - Needs TruckSmarter PNG data
+  ⚠ RP39320A - Needs TruckSmarter PNG data
+  ⚠ RP39319A - Needs TruckSmarter PNG data
+  ⚠ EF-70230 - Needs TruckSmarter PNG data
+  ✓ 10448376367 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10448375261 found in Ready Statements (Invoice Amount: $125.00)
+  ✓ 10446237187 found in Ready Statements (Invoice Amount: $143.05)
+  ✓ 10448282061 found in Ready Statements (Invoice Amount: $145.72)
+  ⚠ RP39377A - Needs TruckSmarter PNG data
+  ⚠ RP39381A - Needs TruckSmarter PNG data
+  ⚠ RP39379A - Needs TruckSmarter PNG data
+  ⚠ RP40254A - Needs TruckSmarter PNG data
+  ✓ 10395699487 found in Ready Statements (Invoice Amount: $100.00)
+  ✓ 10394306426 found in Ready Statements (Invoice Amount: $100.00)
+  ✓ 10393010262 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10395098314 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10395097708 found in Ready Statements (Invoice Amount: $80.00)
+  ⚠ RP74202A - Needs TruckSmarter PNG data
+  ⚠ RP74191A - Needs TruckSmarter PNG data
+  ⚠ RP74186A - Needs TruckSmarter PNG data
+  ⚠ RP74198A - Needs TruckSmarter PNG data
+  ⚠ RP74196A - Needs TruckSmarter PNG data
+  ⚠ RP74181A - Needs TruckSmarter PNG data
+  ⚠ RP72440A - Needs TruckSmarter PNG data
+  ⚠ RP72446A - Needs TruckSmarter PNG data
+  ⚠ RP72445A - Needs TruckSmarter PNG data
+  ⚠ RP74197A - Needs TruckSmarter PNG data
+  ⚠ RP74182A - Needs TruckSmarter PNG data
+  ⚠ RP74193A - Needs TruckSmarter PNG data
+  ⚠ RP74190A - Needs TruckSmarter PNG data
+  ⚠ RP74188A - Needs TruckSmarter PNG data
+  ⚠ RP74184A - Needs TruckSmarter PNG data
+  ⚠ RP72442A - Needs TruckSmarter PNG data
+  ⚠ RP75584A - Needs TruckSmarter PNG data
+  ⚠ RP74959A - Needs TruckSmarter PNG data
+  ✓ 10473296386 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10473296417 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10472096954 found in Ready Statements (Invoice Amount: $80.00)
+  ⚠ RP74201A - Needs TruckSmarter PNG data
+  ⚠ RP74199A - Needs TruckSmarter PNG data
+  ⚠ RP74200A - Needs TruckSmarter PNG data
+  ⚠ RP74192A - Needs TruckSmarter PNG data
+  ⚠ RP74189A - Needs TruckSmarter PNG data
+  ⚠ RP74187A - Needs TruckSmarter PNG data
+  ⚠ RP74957A - Needs TruckSmarter PNG data
+  ⚠ RP74961A - Needs TruckSmarter PNG data
+  ⚠ RP74964A - Needs TruckSmarter PNG data
+  ⚠ RP74960A - Needs TruckSmarter PNG data
+  ⚠ RP74956A - Needs TruckSmarter PNG data
+  ⚠ RP74951A - Needs TruckSmarter PNG data
+  ⚠ RP74183A - Needs TruckSmarter PNG data
+  ⚠ RP74180A - Needs TruckSmarter PNG data
+  ⚠ RP74185A - Needs TruckSmarter PNG data
+  ⚠ RP74954A - Needs TruckSmarter PNG data
+  ⚠ RP74963A - Needs TruckSmarter PNG data
+  ⚠ RP77589A - Needs TruckSmarter PNG data
+  ⚠ RP79268A - Needs TruckSmarter PNG data
+  ⚠ RP79273A - Needs TruckSmarter PNG data
+  ⚠ RP79263A - Needs TruckSmarter PNG data
+  ⚠ RP79272A - Needs TruckSmarter PNG data
+  ⚠ RP79261A - Needs TruckSmarter PNG data
+  ⚠ RP79262A - Needs TruckSmarter PNG data
+  ⚠ RP79269A - Needs TruckSmarter PNG data
+  ⚠ RP79267A - Needs TruckSmarter PNG data
+  ⚠ RP79266A - Needs TruckSmarter PNG data
+  ⚠ RP79274A - Needs TruckSmarter PNG data
+  ⚠ RP79271A - Needs TruckSmarter PNG data
+  ⚠ RP79264A - Needs TruckSmarter PNG data
+  ⚠ RP81633A - Needs TruckSmarter PNG data
+  ⚠ RP80199A - Needs TruckSmarter PNG data
+  ⚠ RP80198A - Needs TruckSmarter PNG data
+  ⚠ RP80202A - Needs TruckSmarter PNG data
+  ⚠ RP80200A - Needs TruckSmarter PNG data
+  ⚠ RP80201A - Needs TruckSmarter PNG data
+  ⚠ RP80203A - Needs TruckSmarter PNG data
+  ⚠ RP77591A - Needs TruckSmarter PNG data
+  ⚠ RP77590A - Needs TruckSmarter PNG data
+  ⚠ RP81638A - Needs TruckSmarter PNG data
+  ⚠ RP81637A - Needs TruckSmarter PNG data
+  ⚠ RP81640A - Needs TruckSmarter PNG data
+  ⚠ RP81634A - Needs TruckSmarter PNG data
+  ⚠ RP81635A - Needs TruckSmarter PNG data
+  ⚠ RP81639A - Needs TruckSmarter PNG data
+  ⚠ RP77585A - Needs TruckSmarter PNG data
+  ⚠ RP82783A - Needs TruckSmarter PNG data
+  ⚠ RP82781A - Needs TruckSmarter PNG data
+  ⚠ RP82138A - Needs TruckSmarter PNG data
+  ⚠ RP81636A - Needs TruckSmarter PNG data
+  ⚠ RP81641A - Needs TruckSmarter PNG data
+  ⚠ RP82787A - Needs TruckSmarter PNG data
+  ⚠ RP82784A - Needs TruckSmarter PNG data
+  ⚠ RP82790A - Needs TruckSmarter PNG data
+  ⚠ RP82785A - Needs TruckSmarter PNG data
+  ⚠ RP82782A - Needs TruckSmarter PNG data
+  ⚠ RP82788A - Needs TruckSmarter PNG data
+  ⚠ RP84379A - Needs TruckSmarter PNG data
+  ⚠ RP84380A - Needs TruckSmarter PNG data
+  ⚠ RP84378A - Needs TruckSmarter PNG data
+  ⚠ RP82789A - Needs TruckSmarter PNG data
+  ⚠ RP82786A - Needs TruckSmarter PNG data
+  ⚠ RP83334A - Needs TruckSmarter PNG data
+  ⚠ RP85126A - Needs TruckSmarter PNG data
+  ⚠ RP85125A - Needs TruckSmarter PNG data
+  ⚠ RP87122A - Needs TruckSmarter PNG data
+  ⚠ RP86204A - Needs TruckSmarter PNG data
+  ⚠ RP86205A - Needs TruckSmarter PNG data
+  ⚠ RP87064A - Needs TruckSmarter PNG data
+  ⚠ RP87123A - Needs TruckSmarter PNG data
+  ⚠ RP87121A - Needs TruckSmarter PNG data
+  ⚠ RP87125A - Needs TruckSmarter PNG data
+  ⚠ RP87124A - Needs TruckSmarter PNG data
+  ⚠ RP88078A - Needs TruckSmarter PNG data
+  ⚠ RP88076A - Needs TruckSmarter PNG data
+  ⚠ RP50923A - Needs TruckSmarter PNG data
+  ⚠ RP50924A - Needs TruckSmarter PNG data
+  ⚠ RP52265A - Needs TruckSmarter PNG data
+  ⚠ RP52327A - Needs TruckSmarter PNG data
+  ⚠ RP52888A - Needs TruckSmarter PNG data
+  ⚠ RP52850A - Needs TruckSmarter PNG data
+  ⚠ RP53588A - Needs TruckSmarter PNG data
+  ⚠ RP52328A - Needs TruckSmarter PNG data
+  ⚠ RP53667A - Needs TruckSmarter PNG data
+  ⚠ RP53666A - Needs TruckSmarter PNG data
+  ⚠ RP53665A - Needs TruckSmarter PNG data
+  ⚠ RP55891A - Needs TruckSmarter PNG data
+  ⚠ RP55887A - Needs TruckSmarter PNG data
+  ⚠ RP55886A - Needs TruckSmarter PNG data
+  ⚠ RP55890A - Needs TruckSmarter PNG data
+  ⚠ RP55885A - Needs TruckSmarter PNG data
+  ⚠ RP55892A - Needs TruckSmarter PNG data
+  ⚠ RP55888A - Needs TruckSmarter PNG data
+  ⚠ RP55889A - Needs TruckSmarter PNG data
+  ⚠ RP55882A - Needs TruckSmarter PNG data
+  ⚠ RP55883A - Needs TruckSmarter PNG data
+  ⚠ RP55884A - Needs TruckSmarter PNG data
+  ⚠ RP57666A - Needs TruckSmarter PNG data
+  ⚠ RP58356A - Needs TruckSmarter PNG data
+  ⚠ RP56419A - Needs TruckSmarter PNG data
+  ⚠ RP56420A - Needs TruckSmarter PNG data
+  ⚠ RP58355A - Needs TruckSmarter PNG data
+  ⚠ RP60507A - Needs TruckSmarter PNG data
+  ⚠ RP60504A - Needs TruckSmarter PNG data
+  ⚠ RP60508A - Needs TruckSmarter PNG data
+  ⚠ RP60505A - Needs TruckSmarter PNG data
+  ⚠ RP61111A - Needs TruckSmarter PNG data
+  ⚠ RP60509A - Needs TruckSmarter PNG data
+  ⚠ RP60510A - Needs TruckSmarter PNG data
+  ⚠ RP60502A - Needs TruckSmarter PNG data
+  ⚠ RP60500A - Needs TruckSmarter PNG data
+  ⚠ RP60506A - Needs TruckSmarter PNG data
+  ⚠ RP60511A - Needs TruckSmarter PNG data
+  ⚠ RP60501A - Needs TruckSmarter PNG data
+  ⚠ RP60503A - Needs TruckSmarter PNG data
+  ⚠ RP60499A - Needs TruckSmarter PNG data
+  ⚠ RP62760A - Needs TruckSmarter PNG data
+  ⚠ RP62761A - Needs TruckSmarter PNG data
+  ⚠ RP62758A - Needs TruckSmarter PNG data
+  ⚠ RP59732A - Needs TruckSmarter PNG data
+  ⚠ RP59730A - Needs TruckSmarter PNG data
+  ⚠ RP59736A - Needs TruckSmarter PNG data
+  ⚠ RP62759A - Needs TruckSmarter PNG data
+  ⚠ RP61780A - Needs TruckSmarter PNG data
+  ⚠ RP63533A - Needs TruckSmarter PNG data
+  ⚠ RP59737A - Needs TruckSmarter PNG data
+  ⚠ RP59735A - Needs TruckSmarter PNG data
+  ⚠ RP60156A - Needs TruckSmarter PNG data
+  ⚠ RP59734A - Needs TruckSmarter PNG data
+  ⚠ RP61784A - Needs TruckSmarter PNG data
+  ⚠ RP59736A - Needs TruckSmarter PNG data
+  ⚠ RP63531A - Needs TruckSmarter PNG data
+  ⚠ RP64906A - Needs TruckSmarter PNG data
+  ⚠ RP64912A - Needs TruckSmarter PNG data
+  ⚠ RP64911A - Needs TruckSmarter PNG data
+  ⚠ RP64914A - Needs TruckSmarter PNG data
+  ⚠ RP64200A - Needs TruckSmarter PNG data
+  ⚠ RP61782A - Needs TruckSmarter PNG data
+  ⚠ RP61785A - Needs TruckSmarter PNG data
+  ⚠ RP61783A - Needs TruckSmarter PNG data
+  ⚠ RP61781A - Needs TruckSmarter PNG data
+  ⚠ RP64197A - Needs TruckSmarter PNG data
+  ⚠ RP64910A - Needs TruckSmarter PNG data
+  ⚠ RP64915A - Needs TruckSmarter PNG data
+  ⚠ RP69766A - Needs TruckSmarter PNG data
+  ⚠ RP69768A - Needs TruckSmarter PNG data
+  ⚠ RP69767A - Needs TruckSmarter PNG data
+  ⚠ RP69769A - Needs TruckSmarter PNG data
+  ⚠ RP69770A - Needs TruckSmarter PNG data
+  ⚠ RP69771A - Needs TruckSmarter PNG data
+  ✓ RP71249A found in TruckSmarter
+  ✓ RP71248A found in TruckSmarter
+  ✓ RP69690A found in TruckSmarter
+  ⚠ RP71247A - Needs TruckSmarter PNG data
+  ⚠ RP71251A - Needs TruckSmarter PNG data
+  ⚠ RP72353A - Needs TruckSmarter PNG data
+  ⚠ RP72439A - Needs TruckSmarter PNG data
+  ⚠ RP72444A - Needs TruckSmarter PNG data
+  ⚠ RP72441A - Needs TruckSmarter PNG data
+  ⚠ RP73021A - Needs TruckSmarter PNG data
+  ⚠ RP72447A - Needs TruckSmarter PNG data
+  ⚠ RP72443A - Needs TruckSmarter PNG data
+  ✓ 10395699487 found in Ready Statements (Invoice Amount: $100.00)
+  ✓ 10394306426 found in Ready Statements (Invoice Amount: $100.00)
+  ✓ 10393010262 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10395098314 found in Ready Statements (Invoice Amount: $80.00)
+  ✓ 10395097708 found in Ready Statements (Invoice Amount: $80.00)
+
+
+MATCH SUMMARY:
+  Matched: 232
+  Missing/Needs Data: 1470
+
+
+================================================================================
+REPORT GENERATED: correct_load_matching_report.txt
+================================================================================
+
+
+================================================================================
+MATCHING S PROVISIONS LLC TRANSFERS TO BANK DEPOSITS
+================================================================================
+
+✓ Transfer $4,085.55 () -> Bank deposit on 4/4/2025
+  Includes 0 loads
+✓ Transfer $1,389.36 () -> Bank deposit on 4/8/2025
+  Includes 0 loads
+✓ Transfer $2,120.57 () -> Bank deposit on 4/21/2025
+  Includes 8 loads
+✓ Transfer $877.44 () -> Bank deposit on 8/27/2025
+  Includes 0 loads
+✓ Transfer $1,225.79 () -> Bank deposit on 9/3/2025
+  Includes 0 loads
+✓ Transfer $3,461.07 () -> Bank deposit on 7/2/2025
+  Includes 0 loads
+✓ Transfer $4,791.94 () -> Bank deposit on 7/31/2025
+  Includes 0 loads
+✓ Transfer $2,771.78 (Jun 01) -> Bank deposit on 6/3/2025
+  Includes 6 loads
+✓ Transfer $2,348.79 () -> Bank deposit on 4/1/2025
+  Includes 8 loads
+✓ Transfer $950.58 () -> Bank deposit on 10/6/2025
+  Includes 0 loads
+✓ Transfer $1,135.83 () -> Bank deposit on 10/9/2025
+  Includes 0 loads
+✓ Transfer $165.75 () -> Bank deposit on 10/9/2025
+  Includes 0 loads
+✓ Transfer $745.87 () -> Bank deposit on 10/10/2025
+  Includes 0 loads
+✓ Transfer $2,298.07 () -> Bank deposit on 10/30/2025
+  Includes 0 loads
+✓ Transfer $292.50 () -> Bank deposit on 10/31/2025
+  Includes 0 loads
+✓ Transfer $4,882.62 () -> Bank deposit on 9/10/2025
+  Includes 0 loads
+✓ Transfer $2,967.76 () -> Bank deposit on 9/11/2025
+  Includes 0 loads
+
+NEXT STEPS:
+--------------------------------------------------------------------------------
+1. Review the generated report: correct_load_matching_report.txt
+2. Check for any missing loads
+3. Verify bank deposit dates match
+
